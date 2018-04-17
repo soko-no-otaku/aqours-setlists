@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  event: one
+  song: one
+  tv_size: false
+
+two:
+  event: two
+  song: two
+  tv_size: false
