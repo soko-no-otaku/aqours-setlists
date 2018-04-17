@@ -14,5 +14,8 @@ module AqoursSetlists
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.
+
+    # Use Slim as the template engine
+    config.generators.template_engine = :slim
   end
 end
