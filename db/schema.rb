@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180417141923) do
+ActiveRecord::Schema.define(version: 20180418015708) do
 
   create_table "event_songs", force: :cascade do |t|
     t.integer "event_id"
@@ -18,6 +18,7 @@ ActiveRecord::Schema.define(version: 20180417141923) do
     t.boolean "tv_size", default: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "position"
     t.index ["event_id"], name: "index_event_songs_on_event_id"
     t.index ["song_id"], name: "index_event_songs_on_song_id"
   end

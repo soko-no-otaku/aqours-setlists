@@ -55,3 +55,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Use Slim as the template engine
 gem 'slim-rails'
+# ActsAsList provides the capabilities for sorting and reordering songs in a setlist
+gem 'acts_as_list'
