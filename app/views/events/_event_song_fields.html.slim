@@ -1,5 +1,6 @@
 tr.nested-fields
   = f.hidden_field :id
+  = f.hidden_field :position
   td
     = f.collection_select :song_id, f.object.selectable_songs, :id, :title
   td
