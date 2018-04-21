@@ -69,6 +69,9 @@ class EventsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def event_params
-      params.require(:event).permit(:title, :started_at)
+      params
+        .require(:event)
+        .permit(Event::REGISTRABLE_ATTRIBUTES +
+                [event_songs_attributes: EventSong::REGISTRABLE_ATTRIBUTES])
     end
 end

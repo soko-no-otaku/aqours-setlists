@@ -57,3 +57,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'slim-rails'
 # ActsAsList provides the capabilities for sorting and reordering songs in a setlist
 gem 'acts_as_list'
+# Cocoon makes it easier to handle nested forms
+gem 'cocoon'
+# Use jQuery as the JavaScript library
+gem 'jquery-rails'

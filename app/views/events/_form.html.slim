@@ -1,0 +1,37 @@
+= form_with(model: event, local: true) do |form|
+  - if event.errors.any?
+    #error_explanation
+      h2
+        = pluralize(event.errors.count, "error")
+        |  prohibited this event from being saved:
+      ul
+        - event.errors.full_messages.each do |message|
+          li
+            = message
+
+  .field
+    = form.label :title
+    = form.text_field :title, id: :event_title
+  .field
+    = form.label :started_at
+    = form.datetime_select :started_at, id: :event_started_at
+
+  hr
+
+  h2 セットリスト
+  .field
+    = link_to_add_association '曲を追加', form, :event_songs,
+        data: { \
+          association_insertion_node: '#setlist > tbody',
+          association_insertion_method: 'append' }
+  table#setlist
+    thead
+      tr
+        th
+        th
+    tbody
+      = form.fields_for :event_songs do |event_song|
+        = render 'event_song_fields', f: event_song
+
+  .actions
+    = form.submit
