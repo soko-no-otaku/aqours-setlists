@@ -63,3 +63,5 @@ gem 'cocoon'
 gem 'jquery-rails'
 # jQuery UI for the Rails asset pipeline
 gem 'jquery-ui-rails'
+# Materialize Sass version for Rails Asset Pipeline
+gem 'materialize-sass'

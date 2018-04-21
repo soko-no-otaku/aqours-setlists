@@ -12,6 +12,7 @@
 //
 //= require jquery
 //= require jquery-ui/widgets/sortable
+//= require materialize
 //= require cocoon
 //= require rails-ujs
 //= require turbolinks
