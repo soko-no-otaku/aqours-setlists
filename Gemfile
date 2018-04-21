@@ -61,3 +61,5 @@ gem 'acts_as_list'
 gem 'cocoon'
 # Use jQuery as the JavaScript library
 gem 'jquery-rails'
+# jQuery UI for the Rails asset pipeline
+gem 'jquery-ui-rails'
