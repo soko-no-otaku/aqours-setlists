@@ -14,3 +14,10 @@ CSV.foreach('db/songs.csv', headers: true) do |row|
       released_at: row['released_at']
   )
 end
+
+CSV.foreach('db/events.csv', headers: true) do |row|
+  Event.create(
+      title: row['title'],
+      started_at: row['started_at']
+  )
+end
