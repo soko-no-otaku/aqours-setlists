@@ -3,15 +3,17 @@ h1 = @event.title
 table
   thead
     tr
+      th Position
       th Title
       th Released at
       th colspan="3"
 
   tbody
-    - @event.songs.each do |song|
+    - @event.event_songs.each do |event_song|
       tr
-        td = song.title
-        td = song.released_at
-        td = link_to 'Show', song
-        td = link_to 'Edit', edit_song_path(song)
-        td = link_to 'Destroy', song, method: :delete, data: { confirm: 'Are you sure?' }
+        td = event_song.position
+        td = event_song.song.title
+        td = event_song.song.released_at
+        td = link_to 'Show', event_song.song
+
+= link_to 'Back', events_path
