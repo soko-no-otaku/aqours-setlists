@@ -1,0 +1,14 @@
+.container
+  p#notice = notice
+
+  table
+    thead
+      tr
+        th タイトル
+        th 発売日
+
+    tbody
+      - @songs.each do |song|
+        tr
+          td = link_to song.title, song
+          td = song.released_at
