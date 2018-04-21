@@ -1,21 +1,20 @@
-h1 = @event.title
+.container
+  .card
+    .card-content
+      span.card-title
+        = @event.title
+        = link_to events_path, class: 'right' do
+          i.material-icons close
 
-table
-  thead
-    tr
-      th Position
-      th Title
-      th Released at
-      th TVサイズ
-      th
+      table.striped
+        thead
+          tr
+            th colspan="3"
 
-  tbody
-    - @event.event_songs.each do |event_song|
-      tr
-        td = event_song.position
-        td = event_song.song.title
-        td = event_song.song.released_at
-        td = event_song.tv_size
-        td = link_to 'Show', event_song.song
-
-= link_to 'Back', events_path
+        tbody
+          - @event.event_songs.each do |event_song|
+            tr
+              td = event_song.position
+              td = event_song.song.title + (event_song.tv_size ? '（TVサイズ）' : '')
+              td = link_to event_song.song do
+                i.material-icons info_outline
