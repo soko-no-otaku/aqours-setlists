@@ -1,0 +1,14 @@
+.container
+  p#notice = notice
+
+  table
+    thead
+      tr
+        th イベントタイトル
+        th 開演
+
+    tbody
+      - @events.each do |event|
+        tr
+          td = link_to event.title, event
+          td = event.started_at
