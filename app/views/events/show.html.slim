@@ -6,7 +6,8 @@ table
       th Position
       th Title
       th Released at
-      th colspan="3"
+      th TVサイズ
+      th
 
   tbody
     - @event.event_songs.each do |event_song|
@@ -14,6 +15,7 @@ table
         td = event_song.position
         td = event_song.song.title
         td = event_song.song.released_at
+        td = event_song.tv_size
         td = link_to 'Show', event_song.song
 
 = link_to 'Back', events_path

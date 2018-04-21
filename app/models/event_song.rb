@@ -1,5 +1,5 @@
 class EventSong < ApplicationRecord
-  REGISTRABLE_ATTRIBUTES = %i(id event_id song_id position _destroy)
+  REGISTRABLE_ATTRIBUTES = %i(id event_id song_id tv_size position _destroy)
 
   belongs_to :event
   belongs_to :song

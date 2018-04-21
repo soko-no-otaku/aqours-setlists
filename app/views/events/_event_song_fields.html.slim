@@ -4,4 +4,6 @@ tr.nested-fields
   td
     = f.collection_select :song_id, f.object.selectable_songs, :id, :title
   td
+    = f.check_box :tv_size
+  td
     = link_to_remove_association '削除', f
