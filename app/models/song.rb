@@ -12,7 +12,7 @@ class Song < ApplicationRecord
     events.order('started_at').last
   end
 
-  def last_perfomed_time_ago_in_words
+  def last_performed_time_ago_in_words
     unless last_performed_event.nil?
       time_ago_in_words(last_performed_event.started_at)
     else
