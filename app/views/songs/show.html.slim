@@ -1,0 +1,13 @@
+.container
+  .card
+    .card-content
+      p#notice = notice
+
+      span.card-title
+        = @song.title
+        = link_to songs_path, class: 'right' do
+          i.material-icons close
+
+      p
+        strong 発売日:
+        = @song.released_at
