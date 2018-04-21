@@ -6,6 +6,11 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-first = Event.create(title: 'Aqours First LoveLive! ～Step! ZERO to ONE～ Day.1', started_at: '2017-02-25 17:30')
-first.songs.create(title: '青空Jumping Heart', released_at: '2016-07-20')
-first.songs.create(title: '恋になりたいAQUARIUM', released_at: '2016-04-27')
+require 'csv'
+
+CSV.foreach('db/songs.csv', headers: true) do |row|
+  Song.create(
+      title: row['title'],
+      released_at: row['released_at']
+  )
+end
