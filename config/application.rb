@@ -17,5 +17,8 @@ module AqoursSetlists
 
     # Use Slim as the template engine
     config.generators.template_engine = :slim
+
+    config.time_zone = 'Tokyo'
+    config.i18n.default_locale = :ja
   end
 end
