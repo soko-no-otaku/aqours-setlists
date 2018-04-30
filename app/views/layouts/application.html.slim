@@ -1,0 +1,21 @@
+doctype html
+html
+  head
+    title Aqours Setlists
+    = csrf_meta_tags
+
+    = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload'
+    = javascript_include_tag 'application', 'data-turbolinks-track': 'reload'
+
+  body
+    .navbar-fixed
+      nav
+        .nav-wrapper
+          span.brand-logo.center Aqours Setlist DB
+          ul
+            li class=('active' if controller.controller_name == 'events')
+              = link_to 'イベント一覧', :controller => 'events', :action => 'index'
+            li class=('active' if controller.controller_name == 'songs')
+              = link_to '楽曲一覧', :controller => 'songs', :action => 'index'
+
+    = yield
