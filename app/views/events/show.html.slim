@@ -1,10 +1,10 @@
 .container
   .card
     .card-content
+      = link_to events_path, class: 'right' do
+        i.material-icons close
       span.card-title
         = @event.title
-        = link_to events_path, class: 'right' do
-          i.material-icons close
 
       table.striped
         thead
