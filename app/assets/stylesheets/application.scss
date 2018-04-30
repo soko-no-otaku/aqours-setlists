@@ -24,27 +24,12 @@ $secondary-color: color("orange", "base") !default;
 @import "setlist_table";
 
 body {
-    background-image: url(http://lovelive-anime.jp/uranohoshi/img/news/bg.jpg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-color: #464646;
-    z-index: 0;
-}
-
-body::before {
-    content: '';
-    position: absolute;
-    top: -5px;
-    bottom: -5px;
-    left: -5px;
-    right: -5px;
-    background: inherit;
-    filter: blur(2px);
-    z-index: -1;
+    background-color: #ffffff;
+    background-image: radial-gradient(#efefef 10%, transparent 20%), radial-gradient(#efefef 10%, transparent 20%);
+    background-size: 10px 10px;
+    background-position: 0 0, 5px 5px;
 }
 
 .container {
-    background-color: white;
+    background-color: #ffffff;
 }
