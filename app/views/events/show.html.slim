@@ -12,7 +12,9 @@
             tr
               th 開演
               td = l @event.started_at
-
+            tr
+              th 曲数
+              td = "#{@event.songs_count}曲"
       .row
         .col.s12
           table.striped
