@@ -6,18 +6,30 @@
       span.card-title
         = @event.title
 
-      table.striped
-        thead
-          tr
-            th colspan="3"
-
-        tbody
-          - @event.event_songs.each do |event_song|
+      .row
+        .col.s12
+          table
             tr
-              td = event_song.position
-              td = event_song.song.title + (event_song.tv_size ? '（TVサイズ）' : '')
-              td = link_to event_song.song do
-                i.material-icons info_outline
+              th 開演
+              td = @event.started_at
+
+      .row
+        .col.s12
+          table.striped
+            thead
+              tr
+                th colspan="2" セットリスト
+                th
+                  a.twitter-share-button data-show-count="false" href="https://twitter.com/share?ref_src=twsrc%5Etfw"  Tweet
+                  script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"
+
+            tbody
+              - @event.event_songs.each do |event_song|
+                tr
+                  td = event_song.position
+                  td = event_song.song.title + (event_song.tv_size ? '（TVサイズ）' : '')
+                  td = link_to event_song.song do
+                    i.material-icons info_outline
 
     .card-action
       = link_to_if @event.previous, '前のイベント', @event.previous
