@@ -18,3 +18,7 @@
               td = event_song.song.title + (event_song.tv_size ? '（TVサイズ）' : '')
               td = link_to event_song.song do
                 i.material-icons info_outline
+
+    .card-action
+      = link_to_if @event.previous, '前のイベント', @event.previous
+      = link_to_if @event.next, '次のイベント', @event.next
