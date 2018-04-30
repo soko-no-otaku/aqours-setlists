@@ -9,30 +9,42 @@
           li
             = message
 
-  .field
-    = form.label :title
-    = form.text_field :title, id: :event_title
-  .field
-    = form.label :started_at
-    = form.datetime_select :started_at, id: :event_started_at
+  .row
+    .col
+      .actions
+        = form.submit class: 'waves-effect waves-light btn'
+    .col
+      = link_to 'Back', events_path, class: 'waves-effect waves-light btn'
 
-  hr
+  .row
+    .col.s12
+      .card
+        .card-content
+          span.card-title イベント情報
+          .field
+            = form.label :title
+            = form.text_field :title, id: :event_title
+          .field
+            = form.label :started_at
+            = form.text_field :started_at, id: :event_started_at
 
-  h2 セットリスト
-  .field
-    = link_to_add_association '曲を追加', form, :event_songs,
-        data: { \
-          association_insertion_node: '#setlist > tbody',
-          association_insertion_method: 'append' }
-  table#setlist.table-sortable
-    thead
-      tr
-        th
-        th TVサイズ
-        th
-    tbody
-      = form.fields_for :event_songs do |event_song|
-        = render 'event_song_fields', f: event_song
-
-  .actions
-    = form.submit
+  .row
+    .col.s12
+      .card
+        .card-content
+          span.card-title セットリスト
+          = link_to_add_association form, :event_songs,
+              class: 'btn-floating waves-effect waves-light right',
+              data: { \
+                association_insertion_node: '#setlist > tbody',
+                association_insertion_method: 'append' } do
+            i.material-icons add
+          table#setlist.table-sortable.striped
+            thead
+              tr
+                th.title
+                th.tv_size TVサイズ
+                th.remove_link
+            tbody
+              = form.fields_for :event_songs do |event_song|
+                = render 'event_song_fields', f: event_song

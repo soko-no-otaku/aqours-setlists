@@ -1,5 +1,6 @@
-@import "materialize/components/color";
+@import "materialize/components/color-variables";
 $primary-color: color("blue", "base") !default;
+$secondary-color: color("orange", "base") !default;
 @import 'materialize';
 @import "https://fonts.googleapis.com/icon?family=Material+Icons";
 
@@ -19,3 +20,31 @@ $primary-color: color("blue", "base") !default;
  *= require_tree .
  *= require_self
  */
+
+@import "setlist_table";
+
+body {
+    background-image: url(http://lovelive-anime.jp/uranohoshi/img/news/bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    z-index: 0;
+}
+
+body::before {
+    content: '';
+    position: absolute;
+    top: -5px;
+    bottom: -5px;
+    left: -5px;
+    right: -5px;
+    background: inherit;
+    filter: blur(2px);
+    z-index: -1;
+}
+
+.container {
+    background-color: white;
+}

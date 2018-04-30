@@ -4,6 +4,9 @@ tr.nested-fields
   td
     = f.collection_select :song_id, f.object.selectable_songs, :id, :title
   td
-    = f.check_box :tv_size
+    .switch
+      label
+        = f.check_box :tv_size
+        span.lever
   td
-    = link_to_remove_association '削除', f
+    = link_to_remove_association '削除', f, class: 'red-text'

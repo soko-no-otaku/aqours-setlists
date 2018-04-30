@@ -1,0 +1,15 @@
+#setlist {
+    table-layout: fixed;
+}
+
+#setlist th.title {
+    width: 80%;
+}
+
+#setlist th.tv_size {
+    width: 10%;
+}
+
+#setlist th.remove_link {
+    width: 10%;
+}
