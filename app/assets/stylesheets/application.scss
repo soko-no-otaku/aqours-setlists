@@ -25,7 +25,7 @@ $secondary-color: color("orange", "base") !default;
 
 body {
     background-color: #ffffff;
-    background-image: radial-gradient(#efefef 10%, transparent 20%), radial-gradient(#efefef 10%, transparent 20%);
+    background-image: radial-gradient(#efefef 20%, transparent 20%), radial-gradient(#efefef 20%, transparent 20%);
     background-size: 10px 10px;
     background-position: 0 0, 5px 5px;
 }
