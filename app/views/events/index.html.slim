@@ -1,18 +1,21 @@
 .container
-  .row
-    .col.s12
-      p#notice = notice
+  .card
+    .card-content
+      span.card-title イベント一覧
+      .row
+        .col.s12
+          p#notice = notice
 
-  .row
-    .col.s12
-      table.striped
-        thead
-          tr
-            th イベントタイトル
-            th 開演
+      .row
+        .col.s12
+          table.striped
+            thead
+              tr
+                th イベントタイトル
+                th 開演
 
-        tbody
-          - @events.each do |event|
-            tr
-              td = link_to event.title, event
-              td = l event.started_at
+            tbody
+              - @events.each do |event|
+                tr
+                  td = link_to event.title, event
+                  td = l event.started_at

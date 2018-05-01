@@ -1,18 +1,21 @@
 .container
-  .row
-    .col.s12
-      p#notice = notice
+  .card
+    .card-content
+      span.card-title 楽曲一覧
+      .row
+        .col.s12
+          p#notice = notice
 
-  .row
-    .col.s12
-      table.striped
-        thead
-          tr
-            th タイトル
-            th 発売日
+      .row
+        .col.s12
+          table.striped
+            thead
+              tr
+                th タイトル
+                th 発売日
 
-        tbody
-          - @songs.each do |song|
-            tr
-              td = link_to song.title, song
-              td = l song.released_at
+            tbody
+              - @songs.each do |song|
+                tr
+                  td = link_to song.title, song
+                  td = l song.released_at
