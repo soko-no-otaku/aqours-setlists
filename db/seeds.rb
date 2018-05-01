@@ -7,17 +7,29 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 require 'csv'
+require 'yaml'
 
 CSV.foreach('db/songs.csv', headers: true) do |row|
   Song.create(
-      title: row['title'],
-      released_at: row['released_at']
+    title: row['title'],
+    released_at: row['released_at']
   )
 end
 
 CSV.foreach('db/events.csv', headers: true) do |row|
   Event.create(
-      title: row['title'],
-      started_at: row['started_at']
+    title: row['title'],
+    started_at: row['started_at']
   )
+end
+
+YAML.load_file('db/event_songs.yml').each do |e|
+  event = Event.find_by(title: e['title'])
+  e['setlist'].each do |s|
+    song = Song.find_by(title: s)
+    EventSong.create(
+      event: event,
+      song: song
+    )
+  end
 end
