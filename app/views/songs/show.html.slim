@@ -24,8 +24,8 @@
                 td = days_ago_in_words(@song.last_performed_event.started_at)
               tr
                 th 最初に披露されたイベント
-                td colspan="2"
-                  = link_to @song.first_performed_event.title, @song.first_performed_event
+                td = link_to @song.first_performed_event.title, @song.first_performed_event
+                td
 
       - if @song.performed_count > 0
         .row
