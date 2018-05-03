@@ -1,0 +1,2 @@
+class CooccurrenceGraphController < ApplicationController
+end
