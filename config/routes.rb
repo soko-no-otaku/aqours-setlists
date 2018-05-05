@@ -2,7 +2,7 @@ Rails.application.routes.draw do
   root :to => 'home#index'
 
   get 'cooccurrence_graph', to: 'cooccurrence_graph#index'
-  get 'cooccurrence_graph/data', to: 'cooccurrence_graph#list'
+  get 'cooccurrence_graph/data', to: 'cooccurrence_graph#data'
 
   resources :events
   resources :songs

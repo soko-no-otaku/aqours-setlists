@@ -2,7 +2,7 @@ class CooccurrenceGraphController < ApplicationController
   def index
   end
 
-  def list
+  def data
     nodes = []
     links = []
 
