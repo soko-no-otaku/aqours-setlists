@@ -15,4 +15,22 @@ class Song < ApplicationRecord
   def first_performed_event
     events.order('started_at').first
   end
+
+  def cooccurrence_count(target_song)
+    count = 0
+    events.each do |event|
+      event.songs.each do |song|
+        count += 1 if song == target_song
+      end
+    end
+    count
+  end
+
+  def group
+    if first_performed_event
+      first_performed_event.project_level
+    else
+      100 # Some large number
+    end
+  end
 end
