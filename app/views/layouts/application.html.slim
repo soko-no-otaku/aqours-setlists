@@ -11,11 +11,13 @@ html
     .navbar-fixed
       nav
         .nav-wrapper
-          span.brand-logo.center Aqours Setlist DB
-          ul
+          span.brand-logo.center Aqours Setlists
+          ul.left
             li class=('active' if controller.controller_name == 'events')
               = link_to 'イベント', :controller => 'events', :action => 'index'
             li class=('active' if controller.controller_name == 'songs')
               = link_to '楽曲', :controller => 'songs', :action => 'index'
-
+          ul.right
+            li class=('active' if controller.controller_name == 'cooccurrence_graph')
+              = link_to '共起グラフ', :controller => 'cooccurrence_graph', :action => 'index'
     = yield
