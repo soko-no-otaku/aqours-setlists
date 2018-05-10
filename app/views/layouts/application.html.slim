@@ -3,6 +3,7 @@ html
   head
     title Aqours Setlists
     = csrf_meta_tags
+    meta name="viewport" content="width=device-width, initial-scale=1"
 
     = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload'
     = javascript_include_tag 'application', 'data-turbolinks-track': 'reload'
@@ -12,7 +13,7 @@ html
     .navbar-fixed
       nav
         .nav-wrapper
-          span.brand-logo.center Aqours Setlists
+          span.brand-logo.center.hide-on-small-only Aqours Setlists
           ul.left
             li class=('active' if controller.controller_name == 'events')
               = link_to 'イベント', :controller => 'events', :action => 'index'
