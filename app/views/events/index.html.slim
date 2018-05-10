@@ -21,7 +21,7 @@
                 tbody
                   - events.each do |event|
                     tr
-                      td = l event.started_at
+                      td = l event.started_at, format: :short
                       td
                         = link_to event.title, event
                         - event.tag_list.each do |tag|
