@@ -17,5 +17,8 @@
             tbody
               - @events.each do |event|
                 tr
-                  td = link_to event.title, event
+                  td
+                    = link_to event.title, event
+                    - event.tag_list.each do |tag|
+                      span.badge = tag
                   td = l event.started_at

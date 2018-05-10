@@ -25,6 +25,9 @@ end
 
 YAML.load_file('db/event_songs.yml').each do |e|
   event = Event.find_by(title: e['title'])
+  event.tag_list = e['tags']
+  event.save
+
   e['setlist'].each do |s|
     song = Song.find_by(title: s)
     EventSong.create(
