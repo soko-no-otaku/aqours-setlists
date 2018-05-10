@@ -30,8 +30,7 @@
 
       .row
         .col.s12
-          a.twitter-share-button data-lang="ja" data-show-count="false" href="https://twitter.com/share?ref_src=twsrc%5Etfw"  Tweet
-          script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"
+          = tweet_button(@event.tweet_text)
 
     .card-action
       = link_to_if @event.previous, '前のイベント', @event.previous

@@ -16,6 +16,14 @@ class Song < ApplicationRecord
     events.order('started_at').first
   end
 
+  def tweet_text
+    if last_performed_event
+      "「#{title}」はこれまでに#{performed_count}回披露されていて、最後に披露されたイベントは「#{last_performed_event.title}」です。"
+    else
+      "「#{title}」はこれまでにライブで披露されたことがありません。"
+    end
+  end
+
   def cooccurrence_count(target_song)
     count = 0
     events.each do |event|

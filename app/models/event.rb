@@ -19,6 +19,10 @@ class Event < ApplicationRecord
     Event.order(started_at: :desc, id: :desc).where('started_at >= ? and id > ?', started_at, id).last
   end
 
+  def tweet_text
+    "「#{title}」のセットリスト"
+  end
+
   def project_level
     milestones.take_while do |event_title|
       started_at >= Event.find_by(title: event_title).started_at

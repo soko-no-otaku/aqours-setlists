@@ -42,3 +42,7 @@
                       = l event.started_at
                     td
                       = link_to event.title, event
+
+      .row
+        .col.s12
+          = tweet_button(@song.tweet_text)
