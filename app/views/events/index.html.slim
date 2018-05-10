@@ -15,14 +15,14 @@
               table.striped
                 thead
                   tr
-                    th イベントタイトル
                     th 開演
+                    th イベントタイトル
 
                 tbody
                   - events.each do |event|
                     tr
+                      td = l event.started_at
                       td
                         = link_to event.title, event
                         - event.tag_list.each do |tag|
                           span.chip.orange.white-text = tag
-                      td = l event.started_at
