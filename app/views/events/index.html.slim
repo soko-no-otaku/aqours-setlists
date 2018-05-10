@@ -8,17 +8,21 @@
 
       .row
         .col.s12
-          table.striped
-            thead
-              tr
-                th イベントタイトル
-                th 開演
+          - @events.group_by {|event| event.started_at.year}.each do |year, events|
+            .section
+              h5 = year
 
-            tbody
-              - @events.each do |event|
-                tr
-                  td
-                    = link_to event.title, event
-                    - event.tag_list.each do |tag|
-                      span.chip.orange.white-text = tag
-                  td = l event.started_at
+              table.striped
+                thead
+                  tr
+                    th イベントタイトル
+                    th 開演
+
+                tbody
+                  - events.each do |event|
+                    tr
+                      td
+                        = link_to event.title, event
+                        - event.tag_list.each do |tag|
+                          span.chip.orange.white-text = tag
+                      td = l event.started_at
