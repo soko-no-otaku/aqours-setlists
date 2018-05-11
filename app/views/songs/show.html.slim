@@ -10,6 +10,18 @@
         .col.s12
           table
             tr
+              th 作詞
+              td = @song.lyricist_list.join(', ')
+              td
+            tr
+              th 作曲
+              td = @song.composer_list.join(', ')
+              td
+            tr
+              th 編曲
+              td = @song.arranger_list.join(', ')
+              td
+            tr
               th 発売日
               td colspan="2"
                 = l @song.released_at

@@ -10,10 +10,16 @@ require 'csv'
 require 'yaml'
 
 CSV.foreach('db/songs.csv', headers: true) do |row|
-  Song.create(
+  song = Song.create(
     title: row['title'],
     released_at: row['released_at']
   )
+  song.lyricist_list.add(row['lyricists/0/name'])
+  song.composer_list.add(row['composers/0/name'])
+  song.composer_list.add(row['composers/1/name']) unless row['composers/1/name'].blank?
+  song.arranger_list.add(row['arrangers/0/name'])
+  song.arranger_list.add(row['arrangers/1/name']) unless row['arrangers/1/name'].blank?
+  song.save
 end
 
 CSV.foreach('db/events.csv', headers: true) do |row|

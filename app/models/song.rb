@@ -4,6 +4,8 @@ class Song < ApplicationRecord
   has_many :event_songs
   has_many :events, through: :event_songs
 
+  acts_as_ordered_taggable_on :lyricists, :composers, :arrangers
+
   def performed_count
     event_songs.size
   end
