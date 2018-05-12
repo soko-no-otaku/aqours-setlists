@@ -48,7 +48,7 @@
                   th colspan="2" 披露されたイベント
 
               tbody
-                - @song.events.each do |event|
+                - @song.events.reverse.each do |event|
                   tr
                     td.hide-on-small-only
                       = l event.started_at

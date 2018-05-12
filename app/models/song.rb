@@ -2,7 +2,7 @@ class Song < ApplicationRecord
   include ActionView::Helpers::DateHelper
 
   has_many :event_songs
-  has_many :events, through: :event_songs
+  has_many :events, -> { order(started_at: :asc) }, through: :event_songs
 
   acts_as_ordered_taggable_on :lyricists, :composers, :arrangers
 
@@ -11,11 +11,11 @@ class Song < ApplicationRecord
   end
 
   def last_performed_event
-    events.order('started_at').last
+    events.last
   end
 
   def first_performed_event
-    events.order('started_at').first
+    events.first
   end
 
   def tweet_text
