@@ -19,6 +19,8 @@ html
               = link_to 'イベント', :controller => 'events', :action => 'index'
             li class=('active' if controller.controller_name == 'songs')
               = link_to '楽曲', :controller => 'songs', :action => 'index'
+              li class=('active' if controller.controller_name == 'venues')
+                = link_to '会場', :controller => 'venues', :action => 'index'
           ul.right
             li class=('active' if controller.controller_name == 'cooccurrence_graph')
               = link_to '共起グラフ', :controller => 'cooccurrence_graph', :action => 'index'
