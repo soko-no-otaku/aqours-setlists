@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180510112917) do
+ActiveRecord::Schema.define(version: 20180513131015) do
 
   create_table "event_songs", force: :cascade do |t|
     t.integer "event_id"
@@ -21,6 +21,15 @@ ActiveRecord::Schema.define(version: 20180510112917) do
     t.integer "position"
     t.index ["event_id"], name: "index_event_songs_on_event_id"
     t.index ["song_id"], name: "index_event_songs_on_song_id"
+  end
+
+  create_table "event_venues", force: :cascade do |t|
+    t.integer "event_id"
+    t.integer "venue_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["event_id"], name: "index_event_venues_on_event_id"
+    t.index ["venue_id"], name: "index_event_venues_on_venue_id"
   end
 
   create_table "events", force: :cascade do |t|
@@ -60,6 +69,15 @@ ActiveRecord::Schema.define(version: 20180510112917) do
     t.string "name"
     t.integer "taggings_count", default: 0
     t.index ["name"], name: "index_tags_on_name", unique: true
+  end
+
+  create_table "venues", force: :cascade do |t|
+    t.string "name"
+    t.text "address"
+    t.string "url"
+    t.integer "capacity"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
 end
