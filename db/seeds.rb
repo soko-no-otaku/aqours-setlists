@@ -29,8 +29,23 @@ CSV.foreach('db/events.csv', headers: true) do |row|
   )
 end
 
+CSV.foreach('db/venues.csv', headers: true) do |row|
+  Venue.create(
+    name: row['name'],
+    address: row['address'],
+    url: row['url'],
+    capacity: row['capacity']
+  )
+end
+
 YAML.load_file('db/event_songs.yml').each do |e|
   event = Event.find_by(title: e['title'])
+  venue = Venue.find_by(name: e['venue'])
+  EventVenue.create(
+    event: event,
+    venue: venue
+  )
+
   event.tag_list = e['tags']
   event.save
 
