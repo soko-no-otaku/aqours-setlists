@@ -12,10 +12,12 @@
             thead
               tr
                 th タイトル
+                th 披露率
                 th 発売日
 
             tbody
               - @songs.each do |song|
                 tr
                   td = link_to song.title, song
+                  td = number_to_percentage(song.performed_rate, precision: 1)
                   td = l song.released_at

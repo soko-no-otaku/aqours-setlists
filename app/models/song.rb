@@ -26,6 +26,10 @@ class Song < ApplicationRecord
     end
   end
 
+  def performed_rate
+    events.uniq.size.to_f / Event.count * 100
+  end
+
   def cooccurrence_count(target_song)
     count = 0
     events.each do |event|
