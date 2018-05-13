@@ -1,20 +1,24 @@
 - title: "ラブライブ！サンシャイン!! Aqoursスペシャル課外活動 みんな準備はできてるかい？ ～せーので SUNSHINE!!～"
+  venue: "メルパルクホール"
   setlist:
     - "君のこころは輝いてるかい？"
     - "Step! ZERO to ONE"
     - "Aqours☆HEROES"
 - title: "ラブライブ！サンシャイン!! Aqours夏休み課外活動 ～みんなでいっしょに夏まつり～ in 沼津"
+  venue: "沼津市民文化センター 大ホール"
   setlist:
     - "青空Jumping Heart"
     - "君のこころは輝いてるかい？"
     - "Step! ZERO to ONE"
     - "Aqours☆HEROES"
 - title: "「シブヤノオト」&「NAOMIの部屋」公開収録"
+  venue: "NHKホール"
   tags:
     - "TV番組"
   setlist:
     - "青空Jumping Heart"
 - title: "ラブライブ！サンシャイン!! Aqours冬休み課外活動 ～みんなでシャンシャン♪ Aqoursミニライブ2016♪～ 第1回目公演"
+  venue: "豊洲PIT"
   setlist:
     - "青空Jumping Heart"
     - "ジングルベルがとまらない"
@@ -25,6 +29,7 @@
     - "聖なる日の祈り"
     - "君のこころは輝いてるかい？"
 - title: "ラブライブ！サンシャイン!! Aqours冬休み課外活動 ～みんなでシャンシャン♪ Aqoursミニライブ2016♪～ 第2回目公演"
+  venue: "豊洲PIT"
   setlist:
     - "青空Jumping Heart"
     - "ジングルベルがとまらない"
@@ -35,6 +40,7 @@
     - "聖なる日の祈り"
     - "君のこころは輝いてるかい？"
 - title: "ラブライブ！サンシャイン!! Aqours First LoveLive! ～Step! ZERO to ONE!!～ Day.1"
+  venue: "横浜アリーナ"
   tags:
     - "1st"
   setlist:
@@ -59,6 +65,7 @@
     - "ユメ語るよりユメ歌おう"
     - "Step! ZERO to ONE"
 - title: "ラブライブ！サンシャイン!! Aqours First LoveLive! ～Step! ZERO to ONE!!～ Day.2"
+  venue: "横浜アリーナ"
   tags:
     - "1st"
   setlist:
@@ -83,11 +90,13 @@
     - "ユメ語るよりユメ歌おう"
     - "Step! ZERO to ONE"
 - title: "ミルキィホームズ&ブシロード10周年&スクフェス4周年記念ライブ in横浜アリーナ"
+  venue: "横浜アリーナ"
   setlist:
     - "恋になりたいAQUARIUM"
     - "届かない星だとしても"
     - "青空Jumping Heart"
 - title: "アニュータライブ2017 あにゅパ!!"
+  venue: "国立代々木競技場 第一体育館"
   tags:
     - "フェス"
   setlist:
@@ -96,6 +105,7 @@
     - "恋になりたいAQUARIUM"
     - "MIRAI TICKET"
 - title: "Anisong World Matsuri ~Japan Kawaii Live~"
+  venue: "Microsoft Theater"
   tags:
     - "フェス"
     - "海外"
@@ -106,6 +116,7 @@
     - "MIRAI TICKET"
     - "ユメ語るよりユメ歌おう"
 - title: "BILIBILI MACRO LINK - STAR PHASE × ANISONG WORLD MATSURI 2017"
+  venue: "梅赛德斯-奔驰文化中心"
   tags:
     - "フェス"
     - "海外"
@@ -115,6 +126,7 @@
     - "恋になりたいAQUARIUM"
     - "未熟DREAMER"
 - title: "ラブライブ！サンシャイン!! Aqours 2nd LoveLive! HAPPY PARTY TRAIN TOUR 名古屋公演 Day.1"
+  venue: "日本ガイシホール"
   tags:
     - "2nd"
   setlist:
@@ -139,6 +151,7 @@
     - "サンシャインぴっかぴか音頭"
     - "太陽を追いかけろ！"
 - title: "ラブライブ！サンシャイン!! Aqours 2nd LoveLive! HAPPY PARTY TRAIN TOUR 名古屋公演 Day.2"
+  venue: "日本ガイシホール"
   tags:
     - "2nd"
   setlist:
@@ -163,6 +176,7 @@
     - "サンシャインぴっかぴか音頭"
     - "太陽を追いかけろ！"
 - title: "ラブライブ！サンシャイン!! Aqours 2nd LoveLive! HAPPY PARTY TRAIN TOUR 神戸公演 Day.1"
+  venue: "神戸ワールド記念ホール"
   tags:
     - "2nd"
   setlist:
@@ -187,6 +201,7 @@
     - "サンシャインぴっかぴか音頭"
     - "太陽を追いかけろ！"
 - title: "ラブライブ！サンシャイン!! Aqours 2nd LoveLive! HAPPY PARTY TRAIN TOUR 神戸公演 Day.2"
+  venue: "神戸ワールド記念ホール"
   tags:
     - "2nd"
   setlist:
@@ -211,6 +226,7 @@
     - "サンシャインぴっかぴか音頭"
     - "太陽を追いかけろ！"
 - title: "Animelo Summer Live 2017 -THE CARD-"
+  venue: "さいたまスーパーアリーナ"
   tags:
     - "フェス"
   setlist:
@@ -219,6 +235,7 @@
     - "恋になりたいAQUARIUM"
     - "ユメ語るよりユメ歌おう"
 - title: "ラブライブ！サンシャイン!! Aqours 2nd LoveLive! HAPPY PARTY TRAIN TOUR 埼玉公演 Day.1"
+  venue: "メットライフドーム"
   tags:
     - "2nd"
   setlist:
@@ -244,6 +261,7 @@
     - "太陽を追いかけろ！"
     - "ユメ語るよりユメ歌おう"
 - title: "ラブライブ！サンシャイン!! Aqours 2nd LoveLive! HAPPY PARTY TRAIN TOUR 埼玉公演 Day.2"
+  venue: "メットライフドーム"
   tags:
     - "2nd"
   setlist:
@@ -269,6 +287,7 @@
     - "太陽を追いかけろ！"
     - "Landing action Yeah!!"
 - title: "めざましテレビ PRESENTS T-SPOOK 〜TOKYO HALLOWEEN PARTY〜"
+  venue: "青海P地区 特設ステージ"
   tags:
     - "フェス"
   setlist:
@@ -279,6 +298,7 @@
     - "恋になりたいAQUARIUM"
     - "届かない星だとしても"
 - title: "ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜 大阪公演 11/4"
+  venue: "オリックス劇場"
   tags:
     - "ファンミ"
   setlist:
@@ -292,6 +312,7 @@
     - "待ってて愛のうた"
     - "Landing action Yeah!!"
 - title: "ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜 大阪公演 11/5＜1回目＞"
+  venue: "オリックス劇場"
   tags:
     - "ファンミ"
   setlist:
@@ -305,6 +326,7 @@
     - "Step! ZERO to ONE"
     - "Landing action Yeah!!"
 - title: "ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜 大阪公演 11/5＜2回目＞"
+  venue: "オリックス劇場"
   tags:
     - "ファンミ"
   setlist:
@@ -318,6 +340,7 @@
     - "届かない星だとしても"
     - "Landing action Yeah!!"
 - title: "Love Live! Sunshine!! Aqours Club Activity LIVE & FAN MEETING Trip to Asia -Landing action Yeah!!- ソウル公演＜1回目＞"
+  venue: "KBS ARENA"
   tags:
     - "ファンミ"
     - "海外"
@@ -332,6 +355,7 @@
     - "待ってて愛のうた"
     - "Landing action Yeah!!"
 - title: "Love Live! Sunshine!! Aqours Club Activity LIVE & FAN MEETING Trip to Asia -Landing action Yeah!!- ソウル公演＜2回目＞"
+  venue: "KBS ARENA"
   tags:
     - "ファンミ"
     - "海外"
@@ -346,6 +370,7 @@
     - "届かない星だとしても"
     - "Landing action Yeah!!"
 - title: "「NHK WORLD presents SONGS OF TOKYO」公開収録 11/25"
+  venue: "NHKホール"
   tags:
     - "TV番組"
   setlist:
@@ -353,6 +378,7 @@
     - "HAPPY PARTY TRAIN"
     - "MIRAI TICKET"
 - title: "ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜 札幌公演 12/9"
+  venue: "ニトリ文化ホール"
   tags:
     - "ファンミ"
   setlist:
@@ -366,6 +392,7 @@
     - "少女以上の恋がしたい"
     - "Landing action Yeah!!"
 - title: "ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜 札幌公演 12/10＜1回目＞"
+  venue: "ニトリ文化ホール"
   tags:
     - "ファンミ"
   setlist:
@@ -379,6 +406,7 @@
     - "恋になりたいAQUARIUM"
     - "Landing action Yeah!!"
 - title: "ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜 札幌公演 12/10＜2回目＞"
+  venue: "ニトリ文化ホール"
   tags:
     - "ファンミ"
   setlist:
@@ -397,6 +425,7 @@
   setlist:
     - "青空Jumping Heart"
 - title: "ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜 沼津公演＜1回目＞"
+  venue: "沼津市民文化センター 大ホール"
   tags:
     - "ファンミ"
   setlist:
@@ -410,6 +439,7 @@
     - "恋になりたいAQUARIUM"
     - "Landing action Yeah!!"
 - title: "ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜 沼津公演＜2回目＞"
+  venue: "沼津市民文化センター 大ホール"
   tags:
     - "ファンミ"
   setlist:
@@ -430,6 +460,7 @@
     - "HAPPY PARTY TRAIN"
     - "ユメ語るよりユメ歌おう"
 - title: "ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜 福岡公演＜1回目＞"
+  venue: "福岡サンパレス ホテル&ホール"
   tags:
     - "ファンミ"
   setlist:
@@ -443,6 +474,7 @@
     - "HAPPY PARTY TRAIN"
     - "Landing action Yeah!!"
 - title: "ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜 福岡公演＜2回目＞"
+  venue: "福岡サンパレス ホテル&ホール"
   tags:
     - "ファンミ"
   setlist:
@@ -456,6 +488,7 @@
     - "恋になりたいAQUARIUM"
     - "Landing action Yeah!!"
 - title: "DENGEKI 25th Anniversary DENGEKI MUSIC LIVE!! 2018"
+  venue: "幕張メッセ イベントホール"
   tags:
     - "フェス"
   setlist:
@@ -464,6 +497,7 @@
     - "HAPPY PARTY TRAIN"
     - "勇気はどこに？君の胸に！"
 - title: "Love Live! Sunshine!! Aqours Club Activity LIVE & FAN MEETING Trip to Asia -Landing action Yeah!!- 上海公演＜1回目＞"
+  venue: "静安体育中心 体育馆"
   tags:
     - "ファンミ"
     - "海外"
@@ -478,6 +512,7 @@
     - "恋になりたいAQUARIUM"
     - "Landing action Yeah!!"
 - title: "Love Live! Sunshine!! Aqours Club Activity LIVE & FAN MEETING Trip to Asia -Landing action Yeah!!- 上海公演＜2回目＞"
+  venue: "静安体育中心 体育馆"
   tags:
     - "ファンミ"
     - "海外"
@@ -492,6 +527,7 @@
     - "HAPPY PARTY TRAIN"
     - "Landing action Yeah!!"
 - title: "ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜 名古屋公演＜1回目＞"
+  venue: "名古屋国際会議場 センチュリーホール"
   tags:
     - "ファンミ"
   setlist:
@@ -505,6 +541,7 @@
     - "太陽を追いかけろ！"
     - "Landing action Yeah!!"
 - title: "ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜 名古屋公演＜2回目＞"
+  venue: "名古屋国際会議場 センチュリーホール"
   tags:
     - "ファンミ"
   setlist:
@@ -518,6 +555,7 @@
     - "ユメ語るよりユメ歌おう"
     - "Landing action Yeah!!"
 - title: "Love Live! Sunshine!! Aqours Club Activity LIVE & FAN MEETING Trip to Asia -Landing action Yeah!!- 台北公演＜1回目＞"
+  venue: "台北國際會議中心（TICC）"
   tags:
     - "ファンミ"
     - "海外"
@@ -532,6 +570,7 @@
     - "太陽を追いかけろ！"
     - "Landing action Yeah!!"
 - title: "Love Live! Sunshine!! Aqours Club Activity LIVE & FAN MEETING Trip to Asia -Landing action Yeah!!- 台北公演＜2回目＞"
+  venue: "台北國際會議中心（TICC）"
   tags:
     - "ファンミ"
     - "海外"
@@ -546,6 +585,7 @@
     - "サンシャインぴっかぴか音頭"
     - "Landing action Yeah!!"
 - title: "ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜 千葉公演 3/10"
+  venue: "幕張メッセ イベントホール"
   tags:
     - "ファンミ"
   setlist:
@@ -560,6 +600,7 @@
     - "Landing action Yeah!!"
     - "勇気はどこに？君の胸に！"
 - title: "ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜 千葉公演 3/11＜1回目＞"
+  venue: "幕張メッセ イベントホール"
   tags:
     - "ファンミ"
   setlist:
@@ -574,6 +615,7 @@
     - "Landing action Yeah!!"
     - "勇気はどこに？君の胸に！"
 - title: "ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜 千葉公演 3/11＜2回目＞"
+  venue: "幕張メッセ イベントホール"
   tags:
     - "ファンミ"
   setlist:
@@ -588,6 +630,7 @@
     - "Landing action Yeah!!"
     - "勇気はどこに？君の胸に！"
 - title: "Saint Snow PRESENTS LOVELIVE! SUNSHINE!! HAKODATE UNIT CARNIVAL Day.1"
+  venue: "函館アリーナ メインアリーナ"
   setlist:
     - "DROPOUT!?"
     - "CRASH MIND"
@@ -603,6 +646,7 @@
     - "SELF CONTROL!!"
     - "ユメ語るよりユメ歌おう"
 - title: "Saint Snow PRESENTS LOVELIVE! SUNSHINE!! HAKODATE UNIT CARNIVAL Day.2"
+  venue: "函館アリーナ メインアリーナ"
   setlist:
     - "DROPOUT!?"
     - "CRASH MIND"
