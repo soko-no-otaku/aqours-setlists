@@ -5,6 +5,10 @@ class Event < ApplicationRecord
   has_many :songs, through: :event_songs
   accepts_nested_attributes_for :event_songs, allow_destroy: true
 
+  has_one :event_venue, inverse_of: :event
+  has_one :venue, through: :event_venue
+  accepts_nested_attributes_for :event_venue, allow_destroy: true
+
   acts_as_taggable
 
   def songs_count
