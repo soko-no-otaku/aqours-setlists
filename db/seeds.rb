@@ -23,29 +23,26 @@ end
 
 Venue.create(YAML.load_file('db/venues.yml'))
 
-CSV.foreach('db/events.csv', headers: true) do |row|
-  Event.create(
-    title: row['title'],
-    started_at: row['started_at']
-  )
-end
-
-YAML.load_file('db/event_songs.yml').each do |e|
-  event = Event.find_by(title: e['title'])
-  venue = Venue.find_by(name: e['venue'])
-  EventVenue.create(
-    event: event,
-    venue: venue
+YAML.load_file('db/events.yml').each do |e|
+  event = Event.create(
+      title: e[:title],
+      started_at: e[:started_at]
   )
 
-  event.tag_list = e['tags']
-  event.save
-
-  e['setlist'].each do |s|
+  e[:setlist].each do |s|
     song = Song.find_by(title: s)
     EventSong.create(
-      event: event,
-      song: song
+        event: event,
+        song: song
     )
   end
+
+  venue = Venue.find_by(name: e[:venue])
+  EventVenue.create(
+      event: event,
+      venue: venue
+  )
+
+  event.tag_list = e[:tags]
+  event.save
 end
