@@ -12,6 +12,10 @@
             tr
               th 開演
               td = l @event.started_at
+            - if @event.venue
+              tr
+                th 会場
+                td = link_to @event.venue.name, @event.venue
             tr
               th 曲数
               td = "#{@event.songs_count}曲"
