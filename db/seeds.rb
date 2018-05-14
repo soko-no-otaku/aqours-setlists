@@ -21,19 +21,12 @@ YAML.load_file('db/songs.yml').each do |s|
   song.save
 end
 
+Venue.create(YAML.load_file('db/venues.yml'))
+
 CSV.foreach('db/events.csv', headers: true) do |row|
   Event.create(
     title: row['title'],
     started_at: row['started_at']
-  )
-end
-
-CSV.foreach('db/venues.csv', headers: true) do |row|
-  Venue.create(
-    name: row['name'],
-    address: row['address'],
-    url: row['url'],
-    capacity: row['capacity']
   )
 end
 

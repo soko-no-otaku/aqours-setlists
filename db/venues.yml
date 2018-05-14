@@ -1,0 +1,89 @@
+---
+- :name: メルパルクホール
+  :address: "〒105-8582 東京都港区芝公園2-5-20"
+  :url: https://www.mielparque.jp/tokyo/hall/
+  :capacity: 1582
+- :name: 沼津市民文化センター 大ホール
+  :address: "〒410-0832 静岡県沼津市御幸町15-1"
+  :url: http://numazu-kousya.jp/culture/
+  :capacity: 1516
+- :name: NHKホール
+  :address: "〒150-8001 東京都渋谷区神南2-2-1"
+  :url: http://www.nhk-sc.or.jp/nhk_hall/
+  :capacity: 3400
+- :name: 豊洲PIT
+  :address: "〒135-0061 東京都江東区豊洲6-1-23"
+  :url: http://toyosu-pit.team-smile.org/
+  :capacity: 3103
+- :name: 横浜アリーナ
+  :address: "〒222-0033 神奈川県横浜市港北区新横浜3-10"
+  :url: https://www.yokohama-arena.co.jp/
+  :capacity: 13000
+- :name: 国立代々木競技場 第一体育館
+  :address: "〒150-0041 東京都渋谷区神南2-1-1"
+  :url: https://www.jpnsport.go.jp/yoyogi/tabid/70/Default.aspx
+  :capacity: 13243
+- :name: Microsoft Theater
+  :address: 777 Chick Hearn Ct, Los Angeles, CA 90015
+  :url: https://www.microsofttheater.com/
+  :capacity: 7100
+- :name: 梅赛德斯-奔驰文化中心
+  :address: 200126 上海市浦东新区世博大道1200号
+  :url: http://www.mercedes-benzarena.com/
+  :capacity: 18000
+- :name: 日本ガイシホール
+  :address: "〒457-0833 愛知県名古屋市南区東又兵ヱ町5-1-16"
+  :url: http://www.nespa.or.jp/hall/
+  :capacity: 10000
+- :name: 神戸ワールド記念ホール
+  :address: "〒650-0046 兵庫県神戸市中央区港島中町6-12-2"
+  :url: https://www.kobe-spokyo.jp/world-kobe/
+  :capacity: 8000
+- :name: さいたまスーパーアリーナ
+  :address: "〒330-9111 埼玉県さいたま市中央区新都心8"
+  :url: https://www.saitama-arena.co.jp/
+  :capacity: 30000
+- :name: メットライフドーム
+  :address: "〒359-1153 埼玉県所沢市上山口2135"
+  :url: https://www.seibulions.jp/stadium/
+  :capacity: 33556
+- :name: 青海P地区 特設ステージ
+  :address: "〒135-0064 東京都江東区青海1-1-17"
+  :url: null
+  :capacity: null
+- :name: オリックス劇場
+  :address: "〒550-0013 大阪府大阪市西区新町1-14-15"
+  :url: http://www.orixtheater.jp/
+  :capacity: 2400
+- :name: KBS ARENA
+  :address: 376, Gonghang-daero, Gangseo-gu, Seoul 07648
+  :url: http://kbsbiz.co.kr/kbsarena
+  :capacity: 3000
+- :name: ニトリ文化ホール
+  :address: "〒060-0001 北海道札幌市中央区北1条西12"
+  :url: https://www.sapporo-geibun.jp/hall.html
+  :capacity: 2300
+- :name: 福岡サンパレス ホテル&ホール
+  :address: "〒812-0021 福岡県福岡市博多区築港本町2-1"
+  :url: http://www.f-sunpalace.com/
+  :capacity: 2316
+- :name: 幕張メッセ イベントホール
+  :address: "〒261-8550 千葉県千葉市美浜区中瀬2-1"
+  :url: https://www.m-messe.co.jp/organizers/guide/eventhall/guide_eventhall
+  :capacity: 9000
+- :name: 静安体育中心 体育馆
+  :address: null
+  :url: null
+  :capacity: null
+- :name: 名古屋国際会議場 センチュリーホール
+  :address: "〒456-0036 愛知県名古屋市熱田区熱田西町1-1"
+  :url: http://www.nagoya-congress-center.jp/facility/century_hall/
+  :capacity: 3012
+- :name: 台北國際會議中心（TICC）
+  :address: 11049 台北市信義路五段1號
+  :url: http://www.ticc.com.tw/
+  :capacity: 3122
+- :name: 函館アリーナ メインアリーナ
+  :address: "〒042-0932 北海道函館市湯川町1-32-2"
+  :url: http://www.zaidan-hakodate.com/arena/
+  :capacity: 5000
