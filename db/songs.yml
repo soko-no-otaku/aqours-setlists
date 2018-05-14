@@ -1,0 +1,568 @@
+---
+- :title: 君のこころは輝いてるかい？
+  :released_at: 2015-10-07
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 光増ハジメ
+  :arrangers:
+  - EFFY
+- :title: Step! ZERO to ONE
+  :released_at: 2015-10-07
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 高田暁
+  :arrangers:
+  - 高田暁
+- :title: Aqours☆HEROES
+  :released_at: 2015-10-07
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 渡辺和紀
+  :arrangers:
+  - 渡辺和紀
+- :title: 恋になりたいAQUARIUM
+  :released_at: 2016-04-27
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 佐々倉有吾
+  :arrangers:
+  - 渡辺和紀
+- :title: 待ってて愛のうた
+  :released_at: 2016-04-27
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 山口朗彦
+  :arrangers:
+  - 山口朗彦
+- :title: 届かない星だとしても
+  :released_at: 2016-04-27
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 宮崎誠
+  :arrangers:
+  - 宮崎誠
+- :title: 元気全開DAY!DAY!DAY!
+  :released_at: 2016-05-11
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 高田暁
+  :arrangers:
+  - 高田暁
+- :title: 夜空はなんでも知ってるの？
+  :released_at: 2016-05-11
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - Kon-K
+  :arrangers:
+  - Kon-K
+- :title: トリコリコPLEASE!!
+  :released_at: 2016-05-25
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 宮崎誠
+  :arrangers:
+  - 宮崎誠
+- :title: ときめき分類学
+  :released_at: 2016-05-25
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 金崎真士
+  :arrangers:
+  - 金崎真士
+- :title: Strawberry Trapper
+  :released_at: 2016-06-08
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 金崎真士
+  :arrangers:
+  - 金崎真士
+- :title: Guilty Night, Guilty Kiss!
+  :released_at: 2016-06-08
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - R・O・N
+  :arrangers:
+  - R・O・N
+- :title: 青空Jumping Heart
+  :released_at: 2016-07-20
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 伊藤賢
+  - 光増ハジメ
+  :arrangers:
+  - EFFY
+- :title: ハミングフレンド
+  :released_at: 2016-07-20
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 桑原聖(Arte Refact)
+  :arrangers:
+  - 酒井拓也(Arte Refact)
+- :title: 決めたよHand in Hand
+  :released_at: 2016-08-03
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 渡辺拓也
+  :arrangers:
+  - 渡辺拓也
+- :title: ダイスキだったらダイジョウブ！
+  :released_at: 2016-08-03
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 高田暁
+  :arrangers:
+  - 高田暁
+- :title: ユメ語るよりユメ歌おう
+  :released_at: 2016-08-24
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 山口朗彦
+  :arrangers:
+  - 山口朗彦
+- :title: サンシャインぴっかぴか音頭
+  :released_at: 2016-08-24
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 伊藤真澄
+  :arrangers:
+  - EFFY
+- :title: 夢で夜空を照らしたい
+  :released_at: 2016-09-14
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 光増ハジメ
+  :arrangers:
+  - EFFY
+- :title: 未熟DREAMER
+  :released_at: 2016-09-14
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 渡辺和紀
+  :arrangers:
+  - 渡辺和紀
+- :title: Pops heartで踊るんだもん！
+  :released_at: 2016-09-27
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 高田暁
+  :arrangers:
+  - 高田暁
+- :title: 空も心も晴れるから
+  :released_at: 2016-10-26
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 原田篤(Arte Refact)
+  :arrangers:
+  - 脇眞富(Arte Refact)
+- :title: 想いよひとつになれ
+  :released_at: 2016-11-09
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 佐伯高志
+  :arrangers:
+  - 佐伯高志
+- :title: MIRAI TICKET
+  :released_at: 2016-11-09
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - EFFY
+  :arrangers:
+  - EFFY
+- :title: ジングルベルがとまらない
+  :released_at: 2016-11-23
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 光増ハジメ
+  :arrangers:
+  - EFFY
+- :title: 聖なる日の祈り
+  :released_at: 2016-11-23
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 田中俊亮
+  :arrangers:
+  - 田中俊亮
+  - 伊藤賢
+- :title: Waku-Waku-Week!
+  :released_at: 2016-11-25
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - ラムシーニ
+  - 内田陽吾
+  :arrangers:
+  - 小高光太郎
+  - ラムシーニ
+- :title: SELF CONTROL!!
+  :released_at: 2016-11-30
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 河田貴央
+  :arrangers:
+  - 河田貴央
+- :title: Daydream Warrior
+  :released_at: 2016-12-22
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 前口渉
+  :arrangers:
+  - 中土智博
+- :title: G線上のシンデレラ
+  :released_at: 2017-01-27
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 石倉誉之
+  :arrangers:
+  - ラムシーニ
+  - 石倉誉之
+- :title: スリリング・ワンウェイ
+  :released_at: 2017-02-24
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 藤井亮太
+  - 小高光太郎
+  :arrangers:
+  - 藤井亮太
+  - 小高光太郎
+- :title: P.S.の向こう側
+  :released_at: 2017-03-24
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 岡本健介
+  :arrangers:
+  - 渡辺和紀
+- :title: LONELY TUNING
+  :released_at: 2017-03-24
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - Kon-K
+  :arrangers:
+  - Kon-K
+- :title: Guilty Eyes Fever
+  :released_at: 2017-03-24
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 本多友紀(Arte Refact)
+  :arrangers:
+  - 酒井拓也(Arte Refact)
+- :title: 太陽を追いかけろ！
+  :released_at: 2017-03-24
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 松田彬人
+  :arrangers:
+  - 松田彬人
+- :title: HAPPY PARTY TRAIN
+  :released_at: 2017-04-05
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 渡辺拓也
+  :arrangers:
+  - EFFY
+- :title: SKY JOURNEY
+  :released_at: 2017-04-05
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 早川博隆
+  :arrangers:
+  - 早川博隆
+- :title: 少女以上の恋がしたい
+  :released_at: 2017-04-05
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - TAKAROT
+  - KOUDAI IWATSUBO
+  :arrangers:
+  - TAKAROT
+  - Shinji Tanaka
+- :title: 近未来ハッピーエンド
+  :released_at: 2017-05-10
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 藤井亮太
+  :arrangers:
+  - 藤井亮太
+- :title: 海岸通りで待ってるよ
+  :released_at: 2017-05-10
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 渡辺未来
+  :arrangers:
+  - 渡辺未来
+- :title: GALAXY HidE and SeeK
+  :released_at: 2017-05-31
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 竹市佳伸
+  :arrangers:
+  - 竹市佳伸
+- :title: INNOCENT BIRD
+  :released_at: 2017-05-31
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 江並哲志
+  :arrangers:
+  - 倉内達矢
+- :title: コワレヤスキ
+  :released_at: 2017-06-21
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 佐伯高志
+  :arrangers:
+  - 佐伯高志
+- :title: Shadow gate to love
+  :released_at: 2017-06-21
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 渡辺和紀
+  :arrangers:
+  - 渡辺和紀
+- :title: Landing action Yeah!!
+  :released_at: 2017-06-30
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 光増ハジメ
+  :arrangers:
+  - TAKAROT
+- :title: 夏への扉 Never end ver.
+  :released_at: 2017-08-02
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 金崎真士
+  :arrangers:
+  - 金崎真士
+- :title: 真夏は誰のモノ？
+  :released_at: 2017-08-02
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 原田篤(Arte Refact)
+  :arrangers:
+  - 原田篤(Arte Refact)
+- :title: 地元愛♡満タン☆サマーライフ
+  :released_at: 2017-08-02
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 石倉誉之
+  :arrangers:
+  - 石倉誉之
+- :title: 夏の終わりの雨音が
+  :released_at: 2017-08-02
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 片桐周太郎
+  :arrangers:
+  - 江上浩太郎
+- :title: 未来の僕らは知ってるよ
+  :released_at: 2017-10-25
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 光増ハジメ
+  :arrangers:
+  - EFFY
+- :title: 君の瞳を巡る冒険
+  :released_at: 2017-10-25
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 渡辺和紀
+  :arrangers:
+  - 渡辺和紀
+- :title: 勇気はどこに？君の胸に！
+  :released_at: 2017-11-15
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 小高光太郎
+  - UiNA
+  :arrangers:
+  - 小高光太郎
+- :title: "“MY LIST” to you!"
+  :released_at: 2017-11-15
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 原知也
+  :arrangers:
+  - ラムシーニ
+- :title: MY舞☆TONIGHT
+  :released_at: 2017-11-29
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - EFFY
+  :arrangers:
+  - EFFY
+- :title: MIRACLE WAVE
+  :released_at: 2017-11-29
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 酒井拓也(Arte Refact)
+  :arrangers:
+  - 脇眞富(Arte Refact)
+- :title: Awaken the power
+  :released_at: 2017-12-20
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 河田貴央
+  :arrangers:
+  - 河田貴央
+- :title: CRASH MIND
+  :released_at: 2017-12-20
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 宮崎誠
+  :arrangers:
+  - 宮崎誠
+- :title: DROPOUT!?
+  :released_at: 2017-12-20
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 馬渕直純
+  :arrangers:
+  - 馬渕直純
+- :title: One More Sunshine Story
+  :released_at: 2017-12-22
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - EFFY(FirstCall)
+  :arrangers:
+  - EFFY(FirstCall)
+- :title: WATER BLUE NEW WORLD
+  :released_at: 2018-01-17
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 佐伯高志
+  :arrangers:
+  - 佐伯高志
+  - 倉内達矢(ストリングスアレンジ)
+- :title: WONDERFUL STORIES
+  :released_at: 2018-01-18
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - Carlos K.
+  :arrangers:
+  - EFFY
+- :title: おやすみなさん！
+  :released_at: 2018-01-26
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 白須賀悟
+  - 増田基生
+  :arrangers:
+  - 白須賀悟
+  - 増田基生
+- :title: in this unstable world
+  :released_at: 2018-02-23
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 神谷礼
+  :arrangers:
+  - 神谷礼
+- :title: Pianoforte Monologue
+  :released_at: 2018-02-23
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 青木宏憲
+  - 廣澤優也
+  :arrangers:
+  - 青木宏憲
+  - 廣澤優也
+- :title: Beginner’s Sailing
+  :released_at: 2018-03-23
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 酒井拓也(Arte Refact)
+  :arrangers:
+  - 酒井拓也(Arte Refact)
+- :title: RED GEM WINK
+  :released_at: 2018-04-24
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 高田暁
+  :arrangers:
+  - 高田暁
+- :title: WHITE FIRST LOVE
+  :released_at: 2018-04-24
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 渡辺拓也
+  :arrangers:
+  - 渡辺拓也
+- :title: New winding road
+  :released_at: 2018-05-25
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 宮崎誠
+  :arrangers:
+  - 宮崎誠
+- :title: さかなかなんだか？
+  :released_at: 2018-05-25
+  :lyricists:
+  - 畑亜貴
+  :composers:
+  - 設楽哲也
+  :arrangers:
+  - 設楽哲也
