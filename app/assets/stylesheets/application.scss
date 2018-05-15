@@ -4,6 +4,8 @@ $secondary-color: color("orange", "base") !default;
 @import 'materialize';
 @import "https://fonts.googleapis.com/icon?family=Material+Icons";
 
+@import "leaflet";
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
@@ -36,4 +38,8 @@ body {
 
 nav {
     font-family: "フォーク M", sans-serif;
+}
+
+#map {
+  height: 100%;
 }
