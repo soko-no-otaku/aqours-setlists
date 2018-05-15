@@ -1,4 +1,5 @@
 @import "materialize/components/color-variables";
+
 $primary-color: color("blue", "base") !default;
 $secondary-color: color("orange", "base") !default;
 @import 'materialize';
@@ -26,18 +27,18 @@ $secondary-color: color("orange", "base") !default;
 @import "setlist_table";
 
 body {
-    background-color: #ffffff;
-    background-image: radial-gradient(#efefef 20%, transparent 20%), radial-gradient(#efefef 20%, transparent 20%);
-    background-size: 10px 10px;
-    background-position: 0 0, 5px 5px;
+  background-color: #ffffff;
+  background-image: radial-gradient(#efefef 20%, transparent 20%), radial-gradient(#efefef 20%, transparent 20%);
+  background-size: 10px 10px;
+  background-position: 0 0, 5px 5px;
 }
 
 .container {
-    background-color: #ffffff;
+  background-color: #ffffff;
 }
 
 nav {
-    font-family: "フォーク M", sans-serif;
+  font-family: "フォーク M", sans-serif;
 }
 
 #map {
