@@ -67,3 +67,7 @@ gem 'jquery-ui-rails'
 gem 'materialize-sass', '~> 1.0.0.beta'
 # A tagging plugin for Rails applications
 gem 'acts-as-taggable-on', git: 'https://github.com/mbleigh/acts-as-taggable-on'
+# Geocoder adds geocoding by street address
+gem 'geocoder'
+# The leaflet.js map display library for your Rails 4/5 application
+gem 'leaflet-rails'
