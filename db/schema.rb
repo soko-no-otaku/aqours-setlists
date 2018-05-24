@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180524132105) do
+ActiveRecord::Schema.define(version: 20180524135211) do
 
   create_table "event_songs", force: :cascade do |t|
     t.integer "event_id"
@@ -37,6 +37,19 @@ ActiveRecord::Schema.define(version: 20180524132105) do
     t.datetime "started_at", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+  end
+
+  create_table "setlist_songs", force: :cascade do |t|
+    t.integer "setlist_id"
+    t.integer "song_id"
+    t.integer "position"
+    t.boolean "encore"
+    t.string "size"
+    t.boolean "available_in_video"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["setlist_id"], name: "index_setlist_songs_on_setlist_id"
+    t.index ["song_id"], name: "index_setlist_songs_on_song_id"
   end
 
   create_table "setlists", force: :cascade do |t|
