@@ -4,7 +4,7 @@ class EventsController < ApplicationController
   # GET /events
   # GET /events.json
   def index
-    @events = Event.order('started_at desc')
+    @events = Event.order('id desc')
   end
 
   # GET /events/1

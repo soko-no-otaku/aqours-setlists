@@ -26,6 +26,10 @@ class Event < ApplicationRecord
     Event.order(started_at: :desc, id: :desc).where('started_at >= ? and id > ?', started_at, id).last
   end
 
+  def period
+    [setlists.first.started_at.to_date, setlists.last.started_at.to_date]
+  end
+
   def tweet_text
     "「#{title}」のセットリスト"
   end

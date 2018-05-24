@@ -6,6 +6,12 @@ module ApplicationHelper
     "#{(today - past_date).to_i}日前"
   end
 
+  def period_in_words(start_date, end_date)
+    [start_date, end_date].uniq.map do |date|
+      l date, format: :short
+    end.join('～')
+  end
+
   def tweet_button(tweet_text)
     %Q(<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-lang="ja" data-show-count="false" data-text="#{tweet_text}">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>).html_safe
   end
