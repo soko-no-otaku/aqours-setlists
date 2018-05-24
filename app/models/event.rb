@@ -5,6 +5,9 @@ class Event < ApplicationRecord
   has_many :songs, through: :event_songs
   accepts_nested_attributes_for :event_songs, allow_destroy: true
 
+  has_many :setlists, -> { order(started_at: :asc) }, inverse_of: :event
+  accepts_nested_attributes_for :setlists, allow_destroy: true
+
   has_one :event_venue, inverse_of: :event
   has_one :venue, through: :event_venue
   accepts_nested_attributes_for :event_venue, allow_destroy: true

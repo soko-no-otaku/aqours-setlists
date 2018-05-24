@@ -4,6 +4,9 @@ class Song < ApplicationRecord
   has_many :event_songs
   has_many :events, -> { order(started_at: :asc) }, through: :event_songs
 
+  has_many :setlist_songs
+  has_many :setlists, -> { order(started_at: :asc) }, through: :setlist_songs
+
   acts_as_ordered_taggable_on :lyricists, :composers, :arrangers
 
   def performed_count
