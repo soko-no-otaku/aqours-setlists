@@ -10,6 +10,16 @@ class VenuesController < ApplicationController
   # GET /venues/1
   # GET /venues/1.json
   def show
+    @center = {
+        latlng: [@venue.latitude, @venue.longitude],
+        zoom: 12
+    }
+    @markers = [
+        {
+            latlng: [@venue.latitude, @venue.longitude],
+            popup: @venue.name
+        }
+    ]
   end
 
   # GET /venues/new

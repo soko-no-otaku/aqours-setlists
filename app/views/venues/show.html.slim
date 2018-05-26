@@ -1,18 +1,24 @@
-p#notice = notice
+.container
+  .card
+    .card-content
+      = link_to venues_path, class: 'right' do
+        i.material-icons close
+      span.card-title
+        = @venue.name
 
-p
-  strong Name:
-  = @venue.name
-p
-  strong Address:
-  = @venue.address
-p
-  strong Url:
-  = @venue.url
-p
-  strong Capacity:
-  = @venue.capacity
+      .row
+        .col.s12
+          table
+            tr
+              th 住所
+              td = @venue.address
+            tr
+              th 公式サイト
+              td = link_to @venue.url, @venue.url
+            tr
+              th キャパ
+              td = "#{number_with_delimiter @venue.capacity}人"
 
-=> link_to 'Edit', edit_venue_path(@venue)
-'|
-=< link_to 'Back', venues_path
+      .row
+        .col.s12
+          = map(center: @center, markers: @markers)
