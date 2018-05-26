@@ -10,15 +10,15 @@ class Song < ApplicationRecord
   acts_as_ordered_taggable_on :lyricists, :composers, :arrangers
 
   def performed_count
-    event_songs.size
+    setlist_songs.size
   end
 
   def last_performed_event
-    events.last
+    setlists.last&.event
   end
 
   def first_performed_event
-    events.first
+    setlists.first&.event
   end
 
   def tweet_text
@@ -30,7 +30,7 @@ class Song < ApplicationRecord
   end
 
   def performed_rate
-    events.uniq.size.to_f / Event.count * 100
+    setlists.uniq.size.to_f / Setlist.count * 100
   end
 
   def cooccurrence_count(target_song)

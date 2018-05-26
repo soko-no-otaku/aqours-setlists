@@ -48,12 +48,12 @@
                   th colspan="2" 披露されたイベント
 
               tbody
-                - @song.events.reverse.each do |event|
+                - @song.setlists.reverse.each do |setlist|
                   tr
                     td.hide-on-small-only
-                      = l event.started_at
+                      = l setlist.started_at
                     td
-                      = link_to event.title, event
+                      = link_to [setlist.event.title, setlist.day_n].join(' '), setlist.event
 
       .row
         .col.s12
