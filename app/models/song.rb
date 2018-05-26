@@ -1,9 +1,6 @@
 class Song < ApplicationRecord
   include ActionView::Helpers::DateHelper
 
-  has_many :event_songs
-  has_many :events, -> { order(started_at: :asc) }, through: :event_songs
-
   has_many :setlist_songs
   has_many :setlists, -> { order(started_at: :asc) }, through: :setlist_songs
 
@@ -35,8 +32,8 @@ class Song < ApplicationRecord
 
   def cooccurrence_count(target_song)
     count = 0
-    events.each do |event|
-      event.songs.each do |song|
+    setlists.each do |setlist|
+      setlist.songs.each do |song|
         count += 1 if song == target_song
       end
     end

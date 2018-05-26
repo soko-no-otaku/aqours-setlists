@@ -6,7 +6,7 @@ class CooccurrenceGraphController < ApplicationController
     nodes = []
     links = []
 
-    Song.all.includes(:events).each do |source_song|
+    Song.all.includes(:setlists).each do |source_song|
       nodes << {
           title: source_song.title,
           group: source_song.group,
