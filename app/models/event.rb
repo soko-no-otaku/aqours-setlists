@@ -14,8 +14,8 @@ class Event < ApplicationRecord
 
   acts_as_taggable
 
-  def songs_count
-    event_songs.size
+  def setlists_count
+    setlists.size
   end
 
   def previous
@@ -28,6 +28,12 @@ class Event < ApplicationRecord
 
   def period
     [setlists.first.started_at.to_date, setlists.last.started_at.to_date]
+  end
+
+  def transposed_songs
+    setlists.map do |setlist|
+      setlist.songs.to_a
+    end.transpose
   end
 
   def tweet_text

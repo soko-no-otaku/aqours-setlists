@@ -51,3 +51,17 @@ nav {
   }
 }
 
+.row-header {
+  width: 5em;
+}
+
+.day_n {
+  width: 10em;
+}
+
+.higawari:nth-child(n+2)::before {
+  content: '/';
+  font-weight: normal;
+  padding-left: 1em;
+  padding-right: 1em;
+}

@@ -9,28 +9,38 @@
       .row
         .col.s12
           table
-            tr
-              th 開演
-              td = l @event.started_at
+            - @event.setlists.each_with_index do |setlist, i|
+              tr
+                - if i == 0
+                  th.row-header rowspan="#{@event.setlists_count}" 開演
+                td.day_n = setlist.day_n
+                td = l setlist.started_at
             - if @event.venue
               tr
-                th 会場
-                td = link_to @event.venue.name, @event.venue
-            tr
-              th 曲数
-              td = "#{@event.songs_count}曲"
+                th.row-header 会場
+                td colspan="2" = link_to @event.venue.name, @event.venue
+
       .row
         .col.s12
-          table.striped
+          table.striped.centered
             thead
               tr
-                th colspan="2" セットリスト
+                th.row-header
+                th
+                  - @event.setlists.each do |setlist|
+                    span.higawari = setlist.day_n
 
             tbody
-              - @event.event_songs.each do |event_song|
+              - @event.transposed_songs.each.with_index(1) do |songs, i|
                 tr
-                  td = event_song.position
-                  td = link_to event_song.song.title + (event_song.tv_size ? '（TVサイズ）' : ''), event_song.song
+                  td.row-header = i
+                  - if songs.uniq.size == 1
+                    td colspan="#{@event.setlists_count}"
+                      span = link_to songs.first.title, songs.first
+                  - else
+                    td
+                      - songs.each do |song|
+                        span.higawari = link_to song.title, song
 
       .row
         .col.s12
