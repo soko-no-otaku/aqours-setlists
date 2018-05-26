@@ -46,6 +46,7 @@
               thead
                 tr
                   th colspan="2" 披露されたイベント
+                  th 衣装
                   th 映像化
 
               tbody
@@ -56,6 +57,8 @@
                       = l setlist.started_at
                     td
                       = link_to [setlist.event.title, setlist.day_n].join(' '), setlist.event
+                    td
+                      = setlist_song.costume_list.join(', ')
                     td
                       - if setlist_song.available_in_video?
                         i.material-icons videocam
