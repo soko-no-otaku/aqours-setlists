@@ -1,729 +1,2493 @@
 ---
 - :title: ラブライブ！サンシャイン!! Aqoursスペシャル課外活動 みんな準備はできてるかい？ ～せーので SUNSHINE!!～
+  :venue: メルパルクホール
+  :tags: 
   :setlists:
   - :day_n: 
     :started_at: 2016-01-11 16:00
     :setlist:
-    - 君のこころは輝いてるかい？
-    - Step! ZERO to ONE
-    - Aqours☆HEROES
-  :venue: メルパルクホール
-  :tags: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Step! ZERO to ONE
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Aqours☆HEROES
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: ラブライブ！サンシャイン!! Aqours夏休み課外活動 ～みんなでいっしょに夏まつり～ in 沼津
+  :venue: 沼津市民文化センター 大ホール
+  :tags: 
   :setlists:
   - :day_n: 
     :started_at: 2016-07-31 14:00
     :setlist:
-    - 青空Jumping Heart
-    - 君のこころは輝いてるかい？
-    - Step! ZERO to ONE
-    - Aqours☆HEROES
-  :venue: 沼津市民文化センター 大ホール
-  :tags: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Step! ZERO to ONE
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Aqours☆HEROES
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: "「シブヤノオト」&「NAOMIの部屋」公開収録"
+  :venue: NHKホール
+  :tags:
+  - TV番組
   :setlists:
   - :day_n: 
     :started_at: 2016-09-26 19:00
     :setlist:
-    - 青空Jumping Heart
-  :venue: NHKホール
-  :tags:
-  - TV番組
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: ラブライブ！サンシャイン!! Aqours冬休み課外活動 ～みんなでシャンシャン♪ Aqoursミニライブ2016♪～
+  :venue: 豊洲PIT
+  :tags: 
   :setlists:
   - :day_n: 第1回目公演
     :started_at: 2016-12-27 15:30
     :setlist:
-    - 青空Jumping Heart
-    - ジングルベルがとまらない
-    - Aqours☆HEROES
-    - 待ってて愛のうた
-    - Pops heartで踊るんだもん！
-    - ハミングフレンド
-    - 聖なる日の祈り
-    - 君のこころは輝いてるかい？
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ジングルベルがとまらない
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Aqours☆HEROES
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 待ってて愛のうた
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Pops heartで踊るんだもん！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ハミングフレンド
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 聖なる日の祈り
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
   - :day_n: 第2回目公演
     :started_at: 2016-12-27 19:00
     :setlist:
-    - 青空Jumping Heart
-    - ジングルベルがとまらない
-    - Aqours☆HEROES
-    - 待ってて愛のうた
-    - Pops heartで踊るんだもん！
-    - ハミングフレンド
-    - 聖なる日の祈り
-    - 君のこころは輝いてるかい？
-  :venue: 豊洲PIT
-  :tags: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ジングルベルがとまらない
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Aqours☆HEROES
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 待ってて愛のうた
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Pops heartで踊るんだもん！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ハミングフレンド
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 聖なる日の祈り
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: ラブライブ！サンシャイン!! Aqours First LoveLive! ～Step! ZERO to ONE!!～
+  :venue: 横浜アリーナ
+  :tags:
+  - 1st
   :setlists:
   - :day_n: Day.1
     :started_at: 2017-02-25 17:30
     :setlist:
-    - 青空Jumping Heart
-    - 恋になりたいAQUARIUM
-    - Aqours☆HEROES
-    - 決めたよHand in Hand
-    - ダイスキだったらダイジョウブ！
-    - 夢で夜空を照らしたい
-    - 元気全開DAY!DAY!DAY!
-    - 夜空はなんでも知ってるの？
-    - トリコリコPLEASE!!
-    - ときめき分類学
-    - Strawberry Trapper
-    - Guilty Night, Guilty Kiss!
-    - 未熟DREAMER
-    - 想いよひとつになれ
-    - 届かない星だとしても
-    - MIRAI TICKET
-    - 君のこころは輝いてるかい？
-    - Pops heartで踊るんだもん！
-    - ユメ語るよりユメ歌おう
-    - Step! ZERO to ONE
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Aqours☆HEROES
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 決めたよHand in Hand
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ダイスキだったらダイジョウブ！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 夢で夜空を照らしたい
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 元気全開DAY!DAY!DAY!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 夜空はなんでも知ってるの？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: トリコリコPLEASE!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ときめき分類学
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Strawberry Trapper
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Guilty Night, Guilty Kiss!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未熟DREAMER
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 想いよひとつになれ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 届かない星だとしても
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MIRAI TICKET
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Pops heartで踊るんだもん！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Step! ZERO to ONE
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
   - :day_n: Day.2
     :started_at: 2017-02-26 16:00
     :setlist:
-    - 青空Jumping Heart
-    - 恋になりたいAQUARIUM
-    - ハミングフレンド
-    - 決めたよHand in Hand
-    - ダイスキだったらダイジョウブ！
-    - 夢で夜空を照らしたい
-    - 元気全開DAY!DAY!DAY!
-    - 夜空はなんでも知ってるの？
-    - トリコリコPLEASE!!
-    - ときめき分類学
-    - Strawberry Trapper
-    - Guilty Night, Guilty Kiss!
-    - 未熟DREAMER
-    - 想いよひとつになれ
-    - 待ってて愛のうた
-    - MIRAI TICKET
-    - 君のこころは輝いてるかい？
-    - Pops heartで踊るんだもん！
-    - ユメ語るよりユメ歌おう
-    - Step! ZERO to ONE
-  :venue: 横浜アリーナ
-  :tags:
-  - 1st
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ハミングフレンド
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 決めたよHand in Hand
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ダイスキだったらダイジョウブ！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 夢で夜空を照らしたい
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 元気全開DAY!DAY!DAY!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 夜空はなんでも知ってるの？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: トリコリコPLEASE!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ときめき分類学
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Strawberry Trapper
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Guilty Night, Guilty Kiss!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未熟DREAMER
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 想いよひとつになれ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 待ってて愛のうた
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MIRAI TICKET
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Pops heartで踊るんだもん！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Step! ZERO to ONE
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: ミルキィホームズ&ブシロード10周年&スクフェス4周年記念ライブ in横浜アリーナ
+  :venue: 横浜アリーナ
+  :tags: 
   :setlists:
   - :day_n: 
     :started_at: 2017-04-30 17:30
     :setlist:
-    - 恋になりたいAQUARIUM
-    - 届かない星だとしても
-    - 青空Jumping Heart
-  :venue: 横浜アリーナ
-  :tags: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 届かない星だとしても
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: アニュータライブ2017 あにゅパ!!
+  :venue: 国立代々木競技場 第一体育館
+  :tags:
+  - フェス
   :setlists:
   - :day_n: 
     :started_at: 2017-05-13 18:00
     :setlist:
-    - 青空Jumping Heart
-    - 君のこころは輝いてるかい？
-    - 恋になりたいAQUARIUM
-    - MIRAI TICKET
-  :venue: 国立代々木競技場 第一体育館
-  :tags:
-  - フェス
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MIRAI TICKET
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: Anisong World Matsuri ~Japan Kawaii Live~
-  :setlists:
-  - :day_n: 
-    :started_at: 2017-06-30 19:00
-    :setlist:
-    - 青空Jumping Heart
-    - 君のこころは輝いてるかい？
-    - 恋になりたいAQUARIUM
-    - MIRAI TICKET
-    - ユメ語るよりユメ歌おう
   :venue: Microsoft Theater
   :tags:
   - フェス
   - 海外
-- :title: BILIBILI MACRO LINK - STAR PHASE × ANISONG WORLD MATSURI 2017
   :setlists:
   - :day_n: 
-    :started_at: 2017-07-22 17:00
+    :started_at: 2017-06-30 19:00
     :setlist:
-    - 青空Jumping Heart
-    - 君のこころは輝いてるかい？
-    - 恋になりたいAQUARIUM
-    - 未熟DREAMER
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MIRAI TICKET
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+- :title: BILIBILI MACRO LINK - STAR PHASE × ANISONG WORLD MATSURI 2017
   :venue: 梅赛德斯-奔驰文化中心
   :tags:
   - フェス
   - 海外
+  :setlists:
+  - :day_n: 
+    :started_at: 2017-07-22 17:00
+    :setlist:
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未熟DREAMER
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: ラブライブ！サンシャイン!! Aqours 2nd LoveLive! HAPPY PARTY TRAIN TOUR 名古屋公演
+  :venue: 日本ガイシホール
+  :tags:
+  - 2nd
   :setlists:
   - :day_n: Day.1
     :started_at: 2017-08-05 18:00
     :setlist:
-    - HAPPY PARTY TRAIN
-    - Pops heartで踊るんだもん！
-    - 少女以上の恋がしたい
-    - 空も心も晴れるから
-    - Waku-Waku-Week!
-    - G線上のシンデレラ
-    - 恋になりたいAQUARIUM
-    - Daydream Warrior
-    - スリリング・ワンウェイ
-    - 近未来ハッピーエンド
-    - 海岸通りで待ってるよ
-    - GALAXY HidE and SeeK
-    - INNOCENT BIRD
-    - コワレヤスキ
-    - Shadow gate to love
-    - 青空Jumping Heart
-    - SKY JOURNEY
-    - 君のこころは輝いてるかい？
-    - サンシャインぴっかぴか音頭
-    - 太陽を追いかけろ！
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Pops heartで踊るんだもん！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 少女以上の恋がしたい
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 空も心も晴れるから
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Waku-Waku-Week!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: G線上のシンデレラ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: スリリング・ワンウェイ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 近未来ハッピーエンド
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 海岸通りで待ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: GALAXY HidE and SeeK
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: INNOCENT BIRD
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: コワレヤスキ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Shadow gate to love
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: SKY JOURNEY
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: サンシャインぴっかぴか音頭
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 太陽を追いかけろ！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
   - :day_n: Day.2
     :started_at: 2017-08-06 16:00
     :setlist:
-    - HAPPY PARTY TRAIN
-    - 届かない星だとしても
-    - 少女以上の恋がしたい
-    - 空も心も晴れるから
-    - Waku-Waku-Week!
-    - G線上のシンデレラ
-    - 恋になりたいAQUARIUM
-    - Daydream Warrior
-    - スリリング・ワンウェイ
-    - P.S.の向こう側
-    - 海岸通りで待ってるよ
-    - LONELY TUNING
-    - INNOCENT BIRD
-    - Guilty Eyes Fever
-    - Shadow gate to love
-    - 青空Jumping Heart
-    - SKY JOURNEY
-    - 君のこころは輝いてるかい？
-    - サンシャインぴっかぴか音頭
-    - 太陽を追いかけろ！
-  :venue: 日本ガイシホール
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 届かない星だとしても
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 少女以上の恋がしたい
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 空も心も晴れるから
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Waku-Waku-Week!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: G線上のシンデレラ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: スリリング・ワンウェイ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: P.S.の向こう側
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 海岸通りで待ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: LONELY TUNING
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: INNOCENT BIRD
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Guilty Eyes Fever
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Shadow gate to love
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: SKY JOURNEY
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: サンシャインぴっかぴか音頭
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 太陽を追いかけろ！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+- :title: ラブライブ！サンシャイン!! Aqours 2nd LoveLive! HAPPY PARTY TRAIN TOUR 神戸公演
+  :venue: 神戸ワールド記念ホール
   :tags:
   - 2nd
-- :title: ラブライブ！サンシャイン!! Aqours 2nd LoveLive! HAPPY PARTY TRAIN TOUR 神戸公演
   :setlists:
   - :day_n: Day.1
     :started_at: 2017-08-19 18:00
     :setlist:
-    - HAPPY PARTY TRAIN
-    - Aqours☆HEROES
-    - 少女以上の恋がしたい
-    - 空も心も晴れるから
-    - Waku-Waku-Week!
-    - G線上のシンデレラ
-    - 恋になりたいAQUARIUM
-    - Daydream Warrior
-    - スリリング・ワンウェイ
-    - P.S.の向こう側
-    - 海岸通りで待ってるよ
-    - LONELY TUNING
-    - INNOCENT BIRD
-    - Guilty Eyes Fever
-    - Shadow gate to love
-    - 青空Jumping Heart
-    - SKY JOURNEY
-    - 君のこころは輝いてるかい？
-    - サンシャインぴっかぴか音頭
-    - 太陽を追いかけろ！
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Aqours☆HEROES
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 少女以上の恋がしたい
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 空も心も晴れるから
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Waku-Waku-Week!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: G線上のシンデレラ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: スリリング・ワンウェイ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: P.S.の向こう側
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 海岸通りで待ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: LONELY TUNING
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: INNOCENT BIRD
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Guilty Eyes Fever
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Shadow gate to love
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: SKY JOURNEY
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: サンシャインぴっかぴか音頭
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 太陽を追いかけろ！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
   - :day_n: Day.2
     :started_at: 2017-08-20 16:00
     :setlist:
-    - HAPPY PARTY TRAIN
-    - ハミングフレンド
-    - 少女以上の恋がしたい
-    - 空も心も晴れるから
-    - Waku-Waku-Week!
-    - G線上のシンデレラ
-    - 恋になりたいAQUARIUM
-    - Daydream Warrior
-    - スリリング・ワンウェイ
-    - 近未来ハッピーエンド
-    - 海岸通りで待ってるよ
-    - GALAXY HidE and SeeK
-    - INNOCENT BIRD
-    - コワレヤスキ
-    - Shadow gate to love
-    - 青空Jumping Heart
-    - SKY JOURNEY
-    - 君のこころは輝いてるかい？
-    - サンシャインぴっかぴか音頭
-    - 太陽を追いかけろ！
-  :venue: 神戸ワールド記念ホール
-  :tags:
-  - 2nd
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ハミングフレンド
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 少女以上の恋がしたい
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 空も心も晴れるから
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Waku-Waku-Week!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: G線上のシンデレラ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: スリリング・ワンウェイ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 近未来ハッピーエンド
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 海岸通りで待ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: GALAXY HidE and SeeK
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: INNOCENT BIRD
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: コワレヤスキ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Shadow gate to love
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: SKY JOURNEY
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: サンシャインぴっかぴか音頭
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 太陽を追いかけろ！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: Animelo Summer Live 2017 -THE CARD-
+  :venue: さいたまスーパーアリーナ
+  :tags:
+  - フェス
   :setlists:
   - :day_n: 
     :started_at: 2017-08-25 16:00
     :setlist:
-    - 青空Jumping Heart
-    - HAPPY PARTY TRAIN
-    - 恋になりたいAQUARIUM
-    - ユメ語るよりユメ歌おう
-  :venue: さいたまスーパーアリーナ
-  :tags:
-  - フェス
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: ラブライブ！サンシャイン!! Aqours 2nd LoveLive! HAPPY PARTY TRAIN TOUR 埼玉公演
+  :venue: メットライフドーム
+  :tags:
+  - 2nd
   :setlists:
   - :day_n: Day.1
     :started_at: 2017-09-29 17:00
     :setlist:
-    - HAPPY PARTY TRAIN
-    - 届かない星だとしても
-    - 少女以上の恋がしたい
-    - 夏への扉 Never end ver.
-    - 真夏は誰のモノ？
-    - 地元愛♡満タン☆サマーライフ
-    - 夏の終わりの雨音が
-    - 未熟DREAMER
-    - 恋になりたいAQUARIUM
-    - Daydream Warrior
-    - スリリング・ワンウェイ
-    - P.S.の向こう側
-    - LONELY TUNING
-    - Guilty Eyes Fever
-    - 青空Jumping Heart
-    - SKY JOURNEY
-    - MIRAI TICKET
-    - 君のこころは輝いてるかい？
-    - サンシャインぴっかぴか音頭
-    - 太陽を追いかけろ！
-    - ユメ語るよりユメ歌おう
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 届かない星だとしても
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 少女以上の恋がしたい
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 夏への扉 Never end ver.
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 真夏は誰のモノ？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 地元愛♡満タン☆サマーライフ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 夏の終わりの雨音が
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未熟DREAMER
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: スリリング・ワンウェイ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: P.S.の向こう側
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: LONELY TUNING
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Guilty Eyes Fever
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: SKY JOURNEY
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MIRAI TICKET
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: サンシャインぴっかぴか音頭
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 太陽を追いかけろ！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
   - :day_n: Day.2
     :started_at: 2017-09-30 17:00
     :setlist:
-    - HAPPY PARTY TRAIN
-    - Pops heartで踊るんだもん！
-    - 少女以上の恋がしたい
-    - 夏への扉 Never end ver.
-    - 真夏は誰のモノ？
-    - 地元愛♡満タン☆サマーライフ
-    - 夏の終わりの雨音が
-    - 未熟DREAMER
-    - 恋になりたいAQUARIUM
-    - Daydream Warrior
-    - スリリング・ワンウェイ
-    - 近未来ハッピーエンド
-    - GALAXY HidE and SeeK
-    - コワレヤスキ
-    - 青空Jumping Heart
-    - SKY JOURNEY
-    - MIRAI TICKET
-    - 君のこころは輝いてるかい？
-    - サンシャインぴっかぴか音頭
-    - 太陽を追いかけろ！
-    - Landing action Yeah!!
-  :venue: メットライフドーム
-  :tags:
-  - 2nd
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Pops heartで踊るんだもん！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 少女以上の恋がしたい
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 夏への扉 Never end ver.
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 真夏は誰のモノ？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 地元愛♡満タン☆サマーライフ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 夏の終わりの雨音が
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未熟DREAMER
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: スリリング・ワンウェイ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 近未来ハッピーエンド
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: GALAXY HidE and SeeK
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: コワレヤスキ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: SKY JOURNEY
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MIRAI TICKET
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: サンシャインぴっかぴか音頭
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 太陽を追いかけろ！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: めざましテレビ PRESENTS T-SPOOK 〜TOKYO HALLOWEEN PARTY〜
+  :venue: 青海P地区 特設ステージ
+  :tags:
+  - フェス
   :setlists:
   - :day_n: 
     :started_at: 2017-10-21 18:00
     :setlist:
-    - 未来の僕らは知ってるよ
-    - HAPPY PARTY TRAIN
-    - Daydream Warrior
-    - SKY JOURNEY
-    - 恋になりたいAQUARIUM
-    - 届かない星だとしても
-  :venue: 青海P地区 特設ステージ
-  :tags:
-  - フェス
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: SKY JOURNEY
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 届かない星だとしても
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜
     大阪公演
+  :venue: オリックス劇場
+  :tags:
+  - ファンミ
   :setlists:
   - :day_n: 11/4
     :started_at: 2017-11-04 18:00
     :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - HAPPY PARTY TRAIN
-    - Daydream Warrior
-    - スリリング・ワンウェイ
-    - 青空Jumping Heart
-    - 恋になりたいAQUARIUM
-    - 待ってて愛のうた
-    - Landing action Yeah!!
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: スリリング・ワンウェイ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 待ってて愛のうた
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
   - :day_n: 11/5＜1回目＞
     :started_at: 2017-11-05 13:00
     :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - HAPPY PARTY TRAIN
-    - Daydream Warrior
-    - スリリング・ワンウェイ
-    - 青空Jumping Heart
-    - 恋になりたいAQUARIUM
-    - Step! ZERO to ONE
-    - Landing action Yeah!!
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: スリリング・ワンウェイ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Step! ZERO to ONE
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
   - :day_n: 11/5＜2回目＞
     :started_at: 2017-11-05 18:00
     :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - HAPPY PARTY TRAIN
-    - Daydream Warrior
-    - スリリング・ワンウェイ
-    - 青空Jumping Heart
-    - 恋になりたいAQUARIUM
-    - 届かない星だとしても
-    - Landing action Yeah!!
-  :venue: オリックス劇場
-  :tags:
-  - ファンミ
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: スリリング・ワンウェイ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 届かない星だとしても
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: Love Live! Sunshine!! Aqours Club Activity LIVE & FAN MEETING Trip to Asia
     -Landing action Yeah!!- ソウル公演
-  :setlists:
-  - :day_n: "＜1回目＞"
-    :started_at: 2017-11-18 14:00
-    :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - HAPPY PARTY TRAIN
-    - Daydream Warrior
-    - スリリング・ワンウェイ
-    - 青空Jumping Heart
-    - 恋になりたいAQUARIUM
-    - 待ってて愛のうた
-    - Landing action Yeah!!
-  - :day_n: "＜2回目＞"
-    :started_at: 2017-11-18 19:00
-    :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - HAPPY PARTY TRAIN
-    - Daydream Warrior
-    - スリリング・ワンウェイ
-    - 青空Jumping Heart
-    - 恋になりたいAQUARIUM
-    - 届かない星だとしても
-    - Landing action Yeah!!
   :venue: KBS ARENA
   :tags:
   - ファンミ
   - 海外
+  :setlists:
+  - :day_n: "＜1回目＞"
+    :started_at: 2017-11-18 14:00
+    :setlist:
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: スリリング・ワンウェイ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 待ってて愛のうた
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+  - :day_n: "＜2回目＞"
+    :started_at: 2017-11-18 19:00
+    :setlist:
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: スリリング・ワンウェイ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 届かない星だとしても
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: "「NHK WORLD presents SONGS OF TOKYO」公開収録 11/25"
+  :venue: NHKホール
+  :tags:
+  - TV番組
   :setlists:
   - :day_n: 
     :started_at: 2017-11-25 18:30
     :setlist:
-    - 未来の僕らは知ってるよ
-    - HAPPY PARTY TRAIN
-    - MIRAI TICKET
-  :venue: NHKホール
-  :tags:
-  - TV番組
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MIRAI TICKET
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜
     札幌公演
+  :venue: ニトリ文化ホール
+  :tags:
+  - ファンミ
   :setlists:
   - :day_n: 12/9
     :started_at: 2017-12-09 18:00
     :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - ジングルベルがとまらない
-    - 聖なる日の祈り
-    - 待ってて愛のうた
-    - 青空Jumping Heart
-    - 君のこころは輝いてるかい？
-    - 少女以上の恋がしたい
-    - Landing action Yeah!!
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ジングルベルがとまらない
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 聖なる日の祈り
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 待ってて愛のうた
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 少女以上の恋がしたい
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
   - :day_n: 12/10＜1回目＞
     :started_at: 2017-12-10 13:00
     :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - ジングルベルがとまらない
-    - 聖なる日の祈り
-    - 待ってて愛のうた
-    - 青空Jumping Heart
-    - 君のこころは輝いてるかい？
-    - 恋になりたいAQUARIUM
-    - Landing action Yeah!!
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ジングルベルがとまらない
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 聖なる日の祈り
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 待ってて愛のうた
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
   - :day_n: 12/10＜2回目＞
     :started_at: 2017-12-10 18:00
     :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - ジングルベルがとまらない
-    - 聖なる日の祈り
-    - 待ってて愛のうた
-    - 青空Jumping Heart
-    - 君のこころは輝いてるかい？
-    - HAPPY PARTY TRAIN
-    - Landing action Yeah!!
-  :venue: ニトリ文化ホール
-  :tags:
-  - ファンミ
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ジングルベルがとまらない
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 聖なる日の祈り
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 待ってて愛のうた
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: "「2017 FNS歌謡祭 第2夜」番組観覧"
+  :venue: 
+  :tags:
+  - TV番組
   :setlists:
   - :day_n: 
     :started_at: 2017-12-13 19:00
     :setlist:
-    - 青空Jumping Heart
-  :venue: 
-  :tags:
-  - TV番組
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜
     沼津公演
+  :venue: 沼津市民文化センター 大ホール
+  :tags:
+  - ファンミ
   :setlists:
   - :day_n: "＜1回目＞"
     :started_at: 2017-12-16 13:00
     :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - ジングルベルがとまらない
-    - 聖なる日の祈り
-    - 待ってて愛のうた
-    - 青空Jumping Heart
-    - 君のこころは輝いてるかい？
-    - 恋になりたいAQUARIUM
-    - Landing action Yeah!!
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ジングルベルがとまらない
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 聖なる日の祈り
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 待ってて愛のうた
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
   - :day_n: "＜2回目＞"
     :started_at: 2017-12-16 18:00
     :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - ジングルベルがとまらない
-    - 聖なる日の祈り
-    - 待ってて愛のうた
-    - 青空Jumping Heart
-    - 君のこころは輝いてるかい？
-    - SKY JOURNEY
-    - Landing action Yeah!!
-  :venue: 沼津市民文化センター 大ホール
-  :tags:
-  - ファンミ
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ジングルベルがとまらない
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 聖なる日の祈り
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 待ってて愛のうた
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: SKY JOURNEY
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: "「坂崎幸之助のももいろフォーク村NEXT 第79夜 フNｓ桃黒歌合戦」番組観覧"
+  :venue: 
+  :tags:
+  - TV番組
   :setlists:
   - :day_n: 
     :started_at: 2017-12-27 19:00
     :setlist:
-    - 未来の僕らは知ってるよ
-    - HAPPY PARTY TRAIN
-    - ユメ語るよりユメ歌おう
-  :venue: 
-  :tags:
-  - TV番組
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜
     福岡公演
+  :venue: 福岡サンパレス ホテル&ホール
+  :tags:
+  - ファンミ
   :setlists:
   - :day_n: "＜1回目＞"
     :started_at: 2018-01-06 14:00
     :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - ハミングフレンド
-    - SKY JOURNEY
-    - 未熟DREAMER
-    - 青空Jumping Heart
-    - Aqours☆HEROES
-    - HAPPY PARTY TRAIN
-    - Landing action Yeah!!
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ハミングフレンド
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: SKY JOURNEY
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未熟DREAMER
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Aqours☆HEROES
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
   - :day_n: "＜2回目＞"
     :started_at: 2018-01-06 18:00
     :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - ハミングフレンド
-    - SKY JOURNEY
-    - 未熟DREAMER
-    - 青空Jumping Heart
-    - Aqours☆HEROES
-    - 恋になりたいAQUARIUM
-    - Landing action Yeah!!
-  :venue: 福岡サンパレス ホテル&ホール
-  :tags:
-  - ファンミ
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ハミングフレンド
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: SKY JOURNEY
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未熟DREAMER
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Aqours☆HEROES
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: DENGEKI 25th Anniversary DENGEKI MUSIC LIVE!! 2018
+  :venue: 幕張メッセ イベントホール
+  :tags:
+  - フェス
   :setlists:
   - :day_n: 
     :started_at: 2018-01-08 18:00
     :setlist:
-    - 君のこころは輝いてるかい？
-    - 恋になりたいAQUARIUM
-    - HAPPY PARTY TRAIN
-    - 勇気はどこに？君の胸に！
-  :venue: 幕張メッセ イベントホール
-  :tags:
-  - フェス
+    - :title: 君のこころは輝いてるかい？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: Love Live! Sunshine!! Aqours Club Activity LIVE & FAN MEETING Trip to Asia
     -Landing action Yeah!!- 上海公演
-  :setlists:
-  - :day_n: "＜1回目＞"
-    :started_at: 2018-01-20 14:00
-    :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - ハミングフレンド
-    - SKY JOURNEY
-    - 未熟DREAMER
-    - 青空Jumping Heart
-    - Aqours☆HEROES
-    - 恋になりたいAQUARIUM
-    - Landing action Yeah!!
-  - :day_n: "＜2回目＞"
-    :started_at: 2018-01-20 19:30
-    :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - ハミングフレンド
-    - SKY JOURNEY
-    - 未熟DREAMER
-    - 青空Jumping Heart
-    - Aqours☆HEROES
-    - HAPPY PARTY TRAIN
-    - Landing action Yeah!!
   :venue: 静安体育中心 体育馆
   :tags:
   - ファンミ
   - 海外
+  :setlists:
+  - :day_n: "＜1回目＞"
+    :started_at: 2018-01-20 14:00
+    :setlist:
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ハミングフレンド
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: SKY JOURNEY
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未熟DREAMER
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Aqours☆HEROES
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+  - :day_n: "＜2回目＞"
+    :started_at: 2018-01-20 19:30
+    :setlist:
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ハミングフレンド
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: SKY JOURNEY
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未熟DREAMER
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Aqours☆HEROES
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜
     名古屋公演
+  :venue: 名古屋国際会議場 センチュリーホール
+  :tags:
+  - ファンミ
   :setlists:
   - :day_n: "＜1回目＞"
     :started_at: 2018-02-03 14:00
     :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - Daydream Warrior
-    - HAPPY PARTY TRAIN
-    - Step! ZERO to ONE
-    - 青空Jumping Heart
-    - MIRAI TICKET
-    - 太陽を追いかけろ！
-    - Landing action Yeah!!
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Step! ZERO to ONE
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MIRAI TICKET
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 太陽を追いかけろ！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
   - :day_n: "＜2回目＞"
     :started_at: 2018-02-03 19:00
     :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - Daydream Warrior
-    - HAPPY PARTY TRAIN
-    - Step! ZERO to ONE
-    - 青空Jumping Heart
-    - MIRAI TICKET
-    - ユメ語るよりユメ歌おう
-    - Landing action Yeah!!
-  :venue: 名古屋国際会議場 センチュリーホール
-  :tags:
-  - ファンミ
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Step! ZERO to ONE
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MIRAI TICKET
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: Love Live! Sunshine!! Aqours Club Activity LIVE & FAN MEETING Trip to Asia
     -Landing action Yeah!!- 台北公演
-  :setlists:
-  - :day_n: "＜1回目＞"
-    :started_at: 2018-02-10 14:00
-    :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - Daydream Warrior
-    - HAPPY PARTY TRAIN
-    - Step! ZERO to ONE
-    - 青空Jumping Heart
-    - MIRAI TICKET
-    - 太陽を追いかけろ！
-    - Landing action Yeah!!
-  - :day_n: "＜2回目＞"
-    :started_at: 2018-02-10 19:00
-    :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - Daydream Warrior
-    - 恋になりたいAQUARIUM
-    - Step! ZERO to ONE
-    - 青空Jumping Heart
-    - MIRAI TICKET
-    - サンシャインぴっかぴか音頭
-    - Landing action Yeah!!
   :venue: 台北國際會議中心（TICC）
   :tags:
   - ファンミ
   - 海外
+  :setlists:
+  - :day_n: "＜1回目＞"
+    :started_at: 2018-02-10 14:00
+    :setlist:
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Step! ZERO to ONE
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MIRAI TICKET
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 太陽を追いかけろ！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+  - :day_n: "＜2回目＞"
+    :started_at: 2018-02-10 19:00
+    :setlist:
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Step! ZERO to ONE
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MIRAI TICKET
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: サンシャインぴっかぴか音頭
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜
     千葉公演
+  :venue: 幕張メッセ イベントホール
+  :tags:
+  - ファンミ
   :setlists:
   - :day_n: 3/10
     :started_at: 2018-03-10 18:00
     :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - 恋になりたいAQUARIUM
-    - Daydream Warrior
-    - スリリング・ワンウェイ
-    - 青空Jumping Heart
-    - ハミングフレンド
-    - 待ってて愛のうた
-    - Landing action Yeah!!
-    - 勇気はどこに？君の胸に！
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: スリリング・ワンウェイ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ハミングフレンド
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 待ってて愛のうた
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
   - :day_n: 3/11＜1回目＞
     :started_at: 2018-03-11 13:00
     :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - 恋になりたいAQUARIUM
-    - Daydream Warrior
-    - スリリング・ワンウェイ
-    - 青空Jumping Heart
-    - ハミングフレンド
-    - Step! ZERO to ONE
-    - Landing action Yeah!!
-    - 勇気はどこに？君の胸に！
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: スリリング・ワンウェイ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ハミングフレンド
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Step! ZERO to ONE
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
   - :day_n: 3/11＜2回目＞
     :started_at: 2018-03-11 18:00
     :setlist:
-    - Landing action Yeah!!
-    - 未来の僕らは知ってるよ
-    - 恋になりたいAQUARIUM
-    - Daydream Warrior
-    - スリリング・ワンウェイ
-    - 青空Jumping Heart
-    - ハミングフレンド
-    - 届かない星だとしても
-    - Landing action Yeah!!
-    - 勇気はどこに？君の胸に！
-  :venue: 幕張メッセ イベントホール
-  :tags:
-  - ファンミ
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Daydream Warrior
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: スリリング・ワンウェイ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ハミングフレンド
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 届かない星だとしても
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Landing action Yeah!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
 - :title: Saint Snow PRESENTS LOVELIVE! SUNSHINE!! HAKODATE UNIT CARNIVAL
+  :venue: 函館アリーナ メインアリーナ
+  :tags: 
   :setlists:
   - :day_n: Day.1
     :started_at: 2018-04-27 18:00
     :setlist:
-    - DROPOUT!?
-    - CRASH MIND
-    - トリコリコPLEASE!!
-    - LONELY TUNING
-    - ときめき分類学
-    - 元気全開DAY!DAY!DAY!
-    - P.S.の向こう側
-    - 夜空はなんでも知ってるの？
-    - Strawberry Trapper
-    - Guilty Eyes Fever
-    - Guilty Night, Guilty Kiss!
-    - SELF CONTROL!!
-    - ユメ語るよりユメ歌おう
+    - :title: DROPOUT!?
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: CRASH MIND
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: トリコリコPLEASE!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: LONELY TUNING
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ときめき分類学
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 元気全開DAY!DAY!DAY!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: P.S.の向こう側
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 夜空はなんでも知ってるの？
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Strawberry Trapper
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Guilty Eyes Fever
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Guilty Night, Guilty Kiss!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: SELF CONTROL!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
   - :day_n: Day.2
     :started_at: 2018-04-28 13:00
     :setlist:
-    - DROPOUT!?
-    - CRASH MIND
-    - トリコリコPLEASE!!
-    - GALAXY HidE and SeeK
-    - INNOCENT BIRD
-    - 元気全開DAY!DAY!DAY!
-    - 近未来ハッピーエンド
-    - 海岸通りで待ってるよ
-    - Strawberry Trapper
-    - コワレヤスキ
-    - Shadow gate to love
-    - SELF CONTROL!!
-    - ユメ語るよりユメ歌おう
-  :venue: 函館アリーナ メインアリーナ
-  :tags: 
+    - :title: DROPOUT!?
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: CRASH MIND
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: トリコリコPLEASE!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: GALAXY HidE and SeeK
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: INNOCENT BIRD
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 元気全開DAY!DAY!DAY!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 近未来ハッピーエンド
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 海岸通りで待ってるよ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Strawberry Trapper
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: コワレヤスキ
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Shadow gate to love
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: SELF CONTROL!!
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes: 
+      :available_in_video: false
+      :encore: false
+      :size: 
