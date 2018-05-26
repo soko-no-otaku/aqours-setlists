@@ -31,16 +31,22 @@
                     span.higawari = setlist.day_n
 
             tbody
-              - @event.transposed_songs.each.with_index(1) do |songs, i|
+              - encore_count = 1
+              - @event.transposed_setlist_songs.each do |setlist_songs|
                 tr
-                  td.row-header = i
-                  - if songs.uniq.size == 1
+                  td.row-header
+                    - if setlist_songs.first.encore
+                      = 'EN' + sprintf('%02d', encore_count)
+                      - encore_count += 1
+                    - else
+                      = 'M' + sprintf('%02d', setlist_songs.first.position)
+                  - if setlist_songs.map(&:song).uniq.size == 1
                     td colspan="#{@event.setlists_count}"
-                      span = link_to songs.first.title, songs.first
+                      span = link_to setlist_songs.first.song.title, setlist_songs.first.song
                   - else
                     td
-                      - songs.each do |song|
-                        span.higawari = link_to song.title, song
+                      - setlist_songs.each do |setlist_song|
+                        span.higawari = link_to setlist_song.song.title, setlist_song.song
 
       .row
         .col.s12

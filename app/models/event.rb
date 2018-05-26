@@ -26,9 +26,9 @@ class Event < ApplicationRecord
     [setlists.first.started_at.to_date, setlists.last.started_at.to_date]
   end
 
-  def transposed_songs
+  def transposed_setlist_songs
     setlists.map do |setlist|
-      setlist.songs.to_a
+      setlist.setlist_songs.to_a
     end.transpose
   end
 
