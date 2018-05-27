@@ -7,18 +7,21 @@
     :started_at: 2016-01-11 16:00
     :setlist:
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 君のこころは輝いてるかい？（初代）
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Step! ZERO to ONE
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 君のこころは輝いてるかい？（初代）
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Aqours☆HEROES
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 君のこころは輝いてるかい？（初代）
+      :available_in_video: true
       :encore: false
       :size: 
 - :title: ラブライブ！サンシャイン!! Aqours夏休み課外活動 ～みんなでいっしょに夏まつり～ in 沼津
@@ -29,23 +32,27 @@
     :started_at: 2016-07-31 14:00
     :setlist:
     - :title: 青空Jumping Heart
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
       :encore: false
-      :size: 
+      :size: TVサイズ
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Step! ZERO to ONE
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Aqours☆HEROES
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
       :encore: false
       :size: 
 - :title: "「シブヤノオト」&「NAOMIの部屋」公開収録"
@@ -57,10 +64,11 @@
     :started_at: 2016-09-26 19:00
     :setlist:
     - :title: 青空Jumping Heart
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
       :encore: false
-      :size: 
+      :size: TVサイズ
 - :title: ラブライブ！サンシャイン!! Aqours冬休み課外活動 ～みんなでシャンシャン♪ Aqoursミニライブ2016♪～
   :venue: 豊洲PIT
   :tags: 
@@ -69,42 +77,50 @@
     :started_at: 2016-12-27 15:30
     :setlist:
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
-      :size: 
+      :size: TVサイズ
     - :title: ジングルベルがとまらない
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Aqours☆HEROES
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 待ってて愛のうた
-      :costumes: 
+      :costumes:
+      - 青空Jumping Heart
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Pops heartで踊るんだもん！
-      :costumes: 
+      :costumes:
+      - 青空Jumping Heart
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ハミングフレンド
-      :costumes: 
+      :costumes:
+      - 青空Jumping Heart
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 聖なる日の祈り
-      :costumes: 
+      :costumes:
+      - 青空Jumping Heart
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
+      :costumes:
+      - 青空Jumping Heart
       :available_in_video: false
       :encore: false
       :size: 
@@ -112,43 +128,51 @@
     :started_at: 2016-12-27 19:00
     :setlist:
     - :title: 青空Jumping Heart
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - ジングルベルがとまらない
+      :available_in_video: true
       :encore: false
-      :size: 
+      :size: TVサイズ
     - :title: ジングルベルがとまらない
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - ジングルベルがとまらない
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Aqours☆HEROES
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - ジングルベルがとまらない
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 待ってて愛のうた
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Pops heartで踊るんだもん！
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: ハミングフレンド
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 聖なる日の祈り
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
       :encore: false
       :size: 
 - :title: ラブライブ！サンシャイン!! Aqours First LoveLive! ～Step! ZERO to ONE!!～
@@ -160,206 +184,246 @@
     :started_at: 2017-02-25 17:30
     :setlist:
     - :title: 青空Jumping Heart
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Aqours☆HEROES
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 決めたよHand in Hand
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - ダイスキだったらダイジョウブ！
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: ダイスキだったらダイジョウブ！
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - ダイスキだったらダイジョウブ！
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 夢で夜空を照らしたい
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 夢で夜空を照らしたい
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 元気全開DAY!DAY!DAY!
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 夜空はなんでも知ってるの？
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: トリコリコPLEASE!!
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: ときめき分類学
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Strawberry Trapper
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Guilty Night, Guilty Kiss!
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 未熟DREAMER
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 想いよひとつになれ
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 届かない星だとしても
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: MIRAI TICKET
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Pops heartで踊るんだもん！
-      :costumes: 
-      :available_in_video: false
-      :encore: false
+      :costumes:
+      - ライブTシャツ（1st）
+      :available_in_video: true
+      :encore: true
       :size: 
     - :title: ユメ語るよりユメ歌おう
-      :costumes: 
-      :available_in_video: false
-      :encore: false
+      :costumes:
+      - ライブTシャツ（1st）
+      :available_in_video: true
+      :encore: true
       :size: 
     - :title: Step! ZERO to ONE
-      :costumes: 
-      :available_in_video: false
-      :encore: false
+      :costumes:
+      - ライブTシャツ（1st）
+      :available_in_video: true
+      :encore: true
       :size: 
   - :day_n: Day.2
     :started_at: 2017-02-26 16:00
     :setlist:
     - :title: 青空Jumping Heart
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: ハミングフレンド
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 決めたよHand in Hand
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - ダイスキだったらダイジョウブ！
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: ダイスキだったらダイジョウブ！
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - ダイスキだったらダイジョウブ！
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 夢で夜空を照らしたい
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 夢で夜空を照らしたい
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 元気全開DAY!DAY!DAY!
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 夜空はなんでも知ってるの？
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: トリコリコPLEASE!!
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: ときめき分類学
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Strawberry Trapper
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Guilty Night, Guilty Kiss!
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 未熟DREAMER
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 想いよひとつになれ
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 待ってて愛のうた
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: MIRAI TICKET
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Pops heartで踊るんだもん！
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - ライブTシャツ（1st）
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: ユメ語るよりユメ歌おう
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - ライブTシャツ（1st）
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Step! ZERO to ONE
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - ライブTシャツ（1st）
+      :available_in_video: true
       :encore: false
       :size: 
 - :title: ミルキィホームズ&ブシロード10周年&スクフェス4周年記念ライブ in横浜アリーナ
@@ -370,17 +434,20 @@
     :started_at: 2017-04-30 17:30
     :setlist:
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - 青空Jumping Heart
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 届かない星だとしても
-      :costumes: 
+      :costumes:
+      - 青空Jumping Heart
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 青空Jumping Heart
       :available_in_video: false
       :encore: false
       :size: 
@@ -393,22 +460,26 @@
     :started_at: 2017-05-13 18:00
     :setlist:
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: MIRAI TICKET
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
@@ -422,27 +493,32 @@
     :started_at: 2017-06-30 19:00
     :setlist:
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: MIRAI TICKET
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ユメ語るよりユメ歌おう
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
@@ -456,22 +532,26 @@
     :started_at: 2017-07-22 17:00
     :setlist:
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 青空Jumping Heart
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
+      :costumes:
+      - 青空Jumping Heart
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - 青空Jumping Heart
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未熟DREAMER
-      :costumes: 
+      :costumes:
+      - 青空Jumping Heart
       :available_in_video: false
       :encore: false
       :size: 
@@ -484,102 +564,122 @@
     :started_at: 2017-08-05 18:00
     :setlist:
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
+      :costumes:
+      - HAPPY PARTY TRAIN
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Pops heartで踊るんだもん！
-      :costumes: 
+      :costumes:
+      - HAPPY PARTY TRAIN
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 少女以上の恋がしたい
-      :costumes: 
+      :costumes:
+      - HAPPY PARTY TRAIN
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 空も心も晴れるから
-      :costumes: 
+      :costumes:
+      - 空も心も晴れるから
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Waku-Waku-Week!
-      :costumes: 
+      :costumes:
+      - Waku-Waku-Week!
       :available_in_video: false
       :encore: false
       :size: 
     - :title: G線上のシンデレラ
-      :costumes: 
+      :costumes:
+      - G線上のシンデレラ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - 恋になりたいAQUARIUM
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
+      :costumes:
+      - 恋になりたいAQUARIUM
       :available_in_video: false
       :encore: false
       :size: 
     - :title: スリリング・ワンウェイ
-      :costumes: 
+      :costumes:
+      - 恋になりたいAQUARIUM
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 近未来ハッピーエンド
-      :costumes: 
+      :costumes:
+      - 近未来ハッピーエンド
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 海岸通りで待ってるよ
-      :costumes: 
+      :costumes:
+      - 近未来ハッピーエンド
       :available_in_video: false
       :encore: false
       :size: 
     - :title: GALAXY HidE and SeeK
-      :costumes: 
+      :costumes:
+      - GALAXY HidE and SeeK
       :available_in_video: false
       :encore: false
       :size: 
     - :title: INNOCENT BIRD
-      :costumes: 
+      :costumes:
+      - GALAXY HidE and SeeK
       :available_in_video: false
       :encore: false
       :size: 
     - :title: コワレヤスキ
-      :costumes: 
+      :costumes:
+      - コワレヤスキ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Shadow gate to love
-      :costumes: 
+      :costumes:
+      - コワレヤスキ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 君のこころは輝いてるかい？
       :available_in_video: false
       :encore: false
       :size: 
     - :title: SKY JOURNEY
-      :costumes: 
+      :costumes:
+      - 君のこころは輝いてるかい？
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
+      :costumes:
+      - 君のこころは輝いてるかい？
       :available_in_video: false
       :encore: false
       :size: 
     - :title: サンシャインぴっかぴか音頭
-      :costumes: 
+      :costumes:
+      - ライブTシャツ（2nd名古屋）+法被
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 太陽を追いかけろ！
-      :costumes: 
+      :costumes:
+      - ライブTシャツ（2nd名古屋）
       :available_in_video: false
       :encore: false
       :size: 
@@ -587,102 +687,122 @@
     :started_at: 2017-08-06 16:00
     :setlist:
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
+      :costumes:
+      - HAPPY PARTY TRAIN
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 届かない星だとしても
-      :costumes: 
+      :costumes:
+      - HAPPY PARTY TRAIN
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 少女以上の恋がしたい
-      :costumes: 
+      :costumes:
+      - HAPPY PARTY TRAIN
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 空も心も晴れるから
-      :costumes: 
+      :costumes:
+      - 空も心も晴れるから
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Waku-Waku-Week!
-      :costumes: 
+      :costumes:
+      - Waku-Waku-Week!
       :available_in_video: false
       :encore: false
       :size: 
     - :title: G線上のシンデレラ
-      :costumes: 
+      :costumes:
+      - G線上のシンデレラ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - 恋になりたいAQUARIUM
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
+      :costumes:
+      - 恋になりたいAQUARIUM
       :available_in_video: false
       :encore: false
       :size: 
     - :title: スリリング・ワンウェイ
-      :costumes: 
+      :costumes:
+      - 恋になりたいAQUARIUM
       :available_in_video: false
       :encore: false
       :size: 
     - :title: P.S.の向こう側
-      :costumes: 
+      :costumes:
+      - 近未来ハッピーエンド
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 海岸通りで待ってるよ
-      :costumes: 
+      :costumes:
+      - 近未来ハッピーエンド
       :available_in_video: false
       :encore: false
       :size: 
     - :title: LONELY TUNING
-      :costumes: 
+      :costumes:
+      - GALAXY HidE and SeeK
       :available_in_video: false
       :encore: false
       :size: 
     - :title: INNOCENT BIRD
-      :costumes: 
+      :costumes:
+      - GALAXY HidE and SeeK
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Guilty Eyes Fever
-      :costumes: 
+      :costumes:
+      - コワレヤスキ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Shadow gate to love
-      :costumes: 
+      :costumes:
+      - コワレヤスキ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 君のこころは輝いてるかい？
       :available_in_video: false
       :encore: false
       :size: 
     - :title: SKY JOURNEY
-      :costumes: 
+      :costumes:
+      - 君のこころは輝いてるかい？
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
+      :costumes:
+      - 君のこころは輝いてるかい？
       :available_in_video: false
       :encore: false
       :size: 
     - :title: サンシャインぴっかぴか音頭
-      :costumes: 
+      :costumes:
+      - ライブTシャツ（2nd名古屋）+法被
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 太陽を追いかけろ！
-      :costumes: 
+      :costumes:
+      - ライブTシャツ（2nd名古屋）
       :available_in_video: false
       :encore: false
       :size: 
@@ -695,102 +815,122 @@
     :started_at: 2017-08-19 18:00
     :setlist:
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
+      :costumes:
+      - HAPPY PARTY TRAIN
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Aqours☆HEROES
-      :costumes: 
+      :costumes:
+      - HAPPY PARTY TRAIN
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 少女以上の恋がしたい
-      :costumes: 
+      :costumes:
+      - HAPPY PARTY TRAIN
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 空も心も晴れるから
-      :costumes: 
+      :costumes:
+      - 空も心も晴れるから
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Waku-Waku-Week!
-      :costumes: 
+      :costumes:
+      - Waku-Waku-Week!
       :available_in_video: false
       :encore: false
       :size: 
     - :title: G線上のシンデレラ
-      :costumes: 
+      :costumes:
+      - G線上のシンデレラ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - 恋になりたいAQUARIUM
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
+      :costumes:
+      - 恋になりたいAQUARIUM
       :available_in_video: false
       :encore: false
       :size: 
     - :title: スリリング・ワンウェイ
-      :costumes: 
+      :costumes:
+      - 恋になりたいAQUARIUM
       :available_in_video: false
       :encore: false
       :size: 
     - :title: P.S.の向こう側
-      :costumes: 
+      :costumes:
+      - 近未来ハッピーエンド
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 海岸通りで待ってるよ
-      :costumes: 
+      :costumes:
+      - 近未来ハッピーエンド
       :available_in_video: false
       :encore: false
       :size: 
     - :title: LONELY TUNING
-      :costumes: 
+      :costumes:
+      - GALAXY HidE and SeeK
       :available_in_video: false
       :encore: false
       :size: 
     - :title: INNOCENT BIRD
-      :costumes: 
+      :costumes:
+      - GALAXY HidE and SeeK
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Guilty Eyes Fever
-      :costumes: 
+      :costumes:
+      - コワレヤスキ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Shadow gate to love
-      :costumes: 
+      :costumes:
+      - コワレヤスキ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 君のこころは輝いてるかい？
       :available_in_video: false
       :encore: false
       :size: 
     - :title: SKY JOURNEY
-      :costumes: 
+      :costumes:
+      - 君のこころは輝いてるかい？
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
+      :costumes:
+      - 君のこころは輝いてるかい？
       :available_in_video: false
       :encore: false
       :size: 
     - :title: サンシャインぴっかぴか音頭
-      :costumes: 
+      :costumes:
+      - ライブTシャツ（2nd名古屋）+法被
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 太陽を追いかけろ！
-      :costumes: 
+      :costumes:
+      - ライブTシャツ（2nd名古屋）
       :available_in_video: false
       :encore: false
       :size: 
@@ -798,102 +938,122 @@
     :started_at: 2017-08-20 16:00
     :setlist:
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
+      :costumes:
+      - HAPPY PARTY TRAIN
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ハミングフレンド
-      :costumes: 
+      :costumes:
+      - HAPPY PARTY TRAIN
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 少女以上の恋がしたい
-      :costumes: 
+      :costumes:
+      - HAPPY PARTY TRAIN
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 空も心も晴れるから
-      :costumes: 
+      :costumes:
+      - 空も心も晴れるから
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Waku-Waku-Week!
-      :costumes: 
+      :costumes:
+      - Waku-Waku-Week!
       :available_in_video: false
       :encore: false
       :size: 
     - :title: G線上のシンデレラ
-      :costumes: 
+      :costumes:
+      - G線上のシンデレラ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - 恋になりたいAQUARIUM
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
+      :costumes:
+      - 恋になりたいAQUARIUM
       :available_in_video: false
       :encore: false
       :size: 
     - :title: スリリング・ワンウェイ
-      :costumes: 
+      :costumes:
+      - 恋になりたいAQUARIUM
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 近未来ハッピーエンド
-      :costumes: 
+      :costumes:
+      - 近未来ハッピーエンド
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 海岸通りで待ってるよ
-      :costumes: 
+      :costumes:
+      - 近未来ハッピーエンド
       :available_in_video: false
       :encore: false
       :size: 
     - :title: GALAXY HidE and SeeK
-      :costumes: 
+      :costumes:
+      - GALAXY HidE and SeeK
       :available_in_video: false
       :encore: false
       :size: 
     - :title: INNOCENT BIRD
-      :costumes: 
+      :costumes:
+      - GALAXY HidE and SeeK
       :available_in_video: false
       :encore: false
       :size: 
     - :title: コワレヤスキ
-      :costumes: 
+      :costumes:
+      - コワレヤスキ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Shadow gate to love
-      :costumes: 
+      :costumes:
+      - コワレヤスキ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 君のこころは輝いてるかい？
       :available_in_video: false
       :encore: false
       :size: 
     - :title: SKY JOURNEY
-      :costumes: 
+      :costumes:
+      - 君のこころは輝いてるかい？
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
+      :costumes:
+      - 君のこころは輝いてるかい？
       :available_in_video: false
       :encore: false
       :size: 
     - :title: サンシャインぴっかぴか音頭
-      :costumes: 
+      :costumes:
+      - ライブTシャツ（2nd神戸）+法被
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 太陽を追いかけろ！
-      :costumes: 
+      :costumes:
+      - ライブTシャツ（2nd神戸）
       :available_in_video: false
       :encore: false
       :size: 
@@ -906,23 +1066,27 @@
     :started_at: 2017-08-25 16:00
     :setlist:
     - :title: 青空Jumping Heart
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: ユメ語るよりユメ歌おう
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: true
       :encore: false
       :size: 
 - :title: ラブライブ！サンシャイン!! Aqours 2nd LoveLive! HAPPY PARTY TRAIN TOUR 埼玉公演
@@ -934,216 +1098,258 @@
     :started_at: 2017-09-29 17:00
     :setlist:
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 届かない星だとしても
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 少女以上の恋がしたい
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 夏への扉 Never end ver.
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 夏への扉 Never end ver.
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 真夏は誰のモノ？
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 真夏は誰のモノ？
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 地元愛♡満タン☆サマーライフ
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 地元愛♡満タン☆サマーライフ
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 夏の終わりの雨音が
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 夏の終わりの雨音が
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 未熟DREAMER
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 恋になりたいAQUARIUM
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 恋になりたいAQUARIUM
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 恋になりたいAQUARIUM
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: スリリング・ワンウェイ
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 恋になりたいAQUARIUM
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: P.S.の向こう側
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: LONELY TUNING
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Guilty Eyes Fever
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: SKY JOURNEY
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: MIRAI TICKET
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: サンシャインぴっかぴか音頭
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - ライブTシャツ（2nd埼玉）+法被
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 太陽を追いかけろ！
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - ライブTシャツ（2nd埼玉）
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: ユメ語るよりユメ歌おう
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - ライブTシャツ（2nd埼玉）
+      :available_in_video: true
       :encore: false
       :size: 
   - :day_n: Day.2
     :started_at: 2017-09-30 17:00
     :setlist:
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Pops heartで踊るんだもん！
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 少女以上の恋がしたい
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 夏への扉 Never end ver.
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 夏への扉 Never end ver.
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 真夏は誰のモノ？
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 真夏は誰のモノ？
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 地元愛♡満タン☆サマーライフ
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 地元愛♡満タン☆サマーライフ
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 夏の終わりの雨音が
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 夏の終わりの雨音が
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 未熟DREAMER
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 恋になりたいAQUARIUM
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 恋になりたいAQUARIUM
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 恋になりたいAQUARIUM
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: スリリング・ワンウェイ
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 恋になりたいAQUARIUM
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 近未来ハッピーエンド
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: GALAXY HidE and SeeK
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: コワレヤスキ
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: SKY JOURNEY
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: MIRAI TICKET
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: サンシャインぴっかぴか音頭
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - ライブTシャツ（2nd埼玉）+法被
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 太陽を追いかけろ！
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - ライブTシャツ（2nd埼玉）
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - ライブTシャツ（2nd埼玉）
+      :available_in_video: true
       :encore: false
       :size: 
 - :title: めざましテレビ PRESENTS T-SPOOK 〜TOKYO HALLOWEEN PARTY〜
@@ -1155,33 +1361,39 @@
     :started_at: 2017-10-21 18:00
     :setlist:
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: SKY JOURNEY
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: 届かない星だとしても
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: true
       :encore: false
       :size: 
 - :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜
@@ -1194,47 +1406,56 @@
     :started_at: 2017-11-04 18:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: スリリング・ワンウェイ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 待ってて愛のうた
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
@@ -1242,47 +1463,56 @@
     :started_at: 2017-11-05 13:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: スリリング・ワンウェイ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Step! ZERO to ONE
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
@@ -1290,47 +1520,56 @@
     :started_at: 2017-11-05 18:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: スリリング・ワンウェイ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 届かない星だとしても
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
@@ -1345,47 +1584,56 @@
     :started_at: 2017-11-18 14:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: スリリング・ワンウェイ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 待ってて愛のうた
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
@@ -1393,47 +1641,56 @@
     :started_at: 2017-11-18 19:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: スリリング・ワンウェイ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 届かない星だとしても
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
@@ -1446,18 +1703,21 @@
     :started_at: 2017-11-25 18:30
     :setlist:
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: MIRAI TICKET
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: true
       :encore: false
       :size: 
 - :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜
@@ -1470,47 +1730,56 @@
     :started_at: 2017-12-09 18:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ジングルベルがとまらない
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 聖なる日の祈り
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 待ってて愛のうた
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 少女以上の恋がしたい
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
@@ -1518,47 +1787,56 @@
     :started_at: 2017-12-10 13:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ジングルベルがとまらない
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 聖なる日の祈り
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 待ってて愛のうた
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
@@ -1566,47 +1844,56 @@
     :started_at: 2017-12-10 18:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ジングルベルがとまらない
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 聖なる日の祈り
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 待ってて愛のうた
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
@@ -1619,8 +1906,9 @@
     :started_at: 2017-12-13 19:00
     :setlist:
     - :title: 青空Jumping Heart
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
       :encore: false
       :size: 
 - :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜
@@ -1633,47 +1921,56 @@
     :started_at: 2017-12-16 13:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ジングルベルがとまらない
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 聖なる日の祈り
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 待ってて愛のうた
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
@@ -1681,47 +1978,56 @@
     :started_at: 2017-12-16 18:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ジングルベルがとまらない
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 聖なる日の祈り
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 待ってて愛のうた
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: SKY JOURNEY
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - ジングルベルがとまらない
       :available_in_video: false
       :encore: false
       :size: 
@@ -1734,18 +2040,21 @@
     :started_at: 2017-12-27 19:00
     :setlist:
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: true
       :encore: false
       :size: 
     - :title: ユメ語るよりユメ歌おう
-      :costumes: 
-      :available_in_video: false
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: true
       :encore: false
       :size: 
 - :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 〜 Landing action Yeah!! 〜
@@ -1758,47 +2067,56 @@
     :started_at: 2018-01-06 14:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未熟DREAMER
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - 未熟DREAMER
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ハミングフレンド
-      :costumes: 
+      :costumes:
+      - 未熟DREAMER
       :available_in_video: false
       :encore: false
       :size: 
     - :title: SKY JOURNEY
-      :costumes: 
+      :costumes:
+      - 未熟DREAMER
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未熟DREAMER
-      :costumes: 
+      :costumes:
+      - 未熟DREAMER
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 未熟DREAMER
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Aqours☆HEROES
-      :costumes: 
+      :costumes:
+      - 未熟DREAMER
       :available_in_video: false
       :encore: false
       :size: 
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
+      :costumes:
+      - 未熟DREAMER
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未熟DREAMER
       :available_in_video: false
       :encore: false
       :size: 
@@ -1806,47 +2124,56 @@
     :started_at: 2018-01-06 18:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未熟DREAMER
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - 未熟DREAMER
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ハミングフレンド
-      :costumes: 
+      :costumes:
+      - 未熟DREAMER
       :available_in_video: false
       :encore: false
       :size: 
     - :title: SKY JOURNEY
-      :costumes: 
+      :costumes:
+      - 未熟DREAMER
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未熟DREAMER
-      :costumes: 
+      :costumes:
+      - 未熟DREAMER
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 未熟DREAMER
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Aqours☆HEROES
-      :costumes: 
+      :costumes:
+      - 未熟DREAMER
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - 未熟DREAMER
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未熟DREAMER
       :available_in_video: false
       :encore: false
       :size: 
@@ -1859,22 +2186,26 @@
     :started_at: 2018-01-08 18:00
     :setlist:
     - :title: 君のこころは輝いてるかい？
-      :costumes: 
+      :costumes:
+      - 君のこころは輝いてるかい？
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - 君のこころは輝いてるかい？
       :available_in_video: false
       :encore: false
       :size: 
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
+      :costumes:
+      - 君のこころは輝いてるかい？
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 勇気はどこに？君の胸に！
-      :costumes: 
+      :costumes:
+      - 君のこころは輝いてるかい？
       :available_in_video: false
       :encore: false
       :size: 
@@ -1889,47 +2220,56 @@
     :started_at: 2018-01-20 14:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ハミングフレンド
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: SKY JOURNEY
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未熟DREAMER
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Aqours☆HEROES
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
@@ -1937,47 +2277,56 @@
     :started_at: 2018-01-20 19:30
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ハミングフレンド
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: SKY JOURNEY
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未熟DREAMER
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Aqours☆HEROES
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
@@ -1991,47 +2340,56 @@
     :started_at: 2018-02-03 14:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Step! ZERO to ONE
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: MIRAI TICKET
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 太陽を追いかけろ！
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
@@ -2039,47 +2397,56 @@
     :started_at: 2018-02-03 19:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Step! ZERO to ONE
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: MIRAI TICKET
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ユメ語るよりユメ歌おう
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - MIRAI TICKET
       :available_in_video: false
       :encore: false
       :size: 
@@ -2094,47 +2461,56 @@
     :started_at: 2018-02-10 14:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: HAPPY PARTY TRAIN
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Step! ZERO to ONE
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: MIRAI TICKET
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 太陽を追いかけろ！
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
@@ -2142,47 +2518,56 @@
     :started_at: 2018-02-10 19:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Step! ZERO to ONE
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: MIRAI TICKET
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: サンシャインぴっかぴか音頭
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
@@ -2196,52 +2581,62 @@
     :started_at: 2018-03-10 18:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: スリリング・ワンウェイ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ハミングフレンド
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 待ってて愛のうた
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 勇気はどこに？君の胸に！
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
@@ -2249,52 +2644,62 @@
     :started_at: 2018-03-11 13:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: スリリング・ワンウェイ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ハミングフレンド
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Step! ZERO to ONE
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 勇気はどこに？君の胸に！
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
@@ -2302,52 +2707,62 @@
     :started_at: 2018-03-11 18:00
     :setlist:
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 未来の僕らは知ってるよ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 恋になりたいAQUARIUM
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Daydream Warrior
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: スリリング・ワンウェイ
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 青空Jumping Heart
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ハミングフレンド
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 届かない星だとしても
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Landing action Yeah!!
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 勇気はどこに？君の胸に！
-      :costumes: 
+      :costumes:
+      - 未来の僕らは知ってるよ
       :available_in_video: false
       :encore: false
       :size: 
@@ -2359,67 +2774,83 @@
     :started_at: 2018-04-27 18:00
     :setlist:
     - :title: DROPOUT!?
-      :costumes: 
+      :costumes:
+      - SELF CONTROL!!
       :available_in_video: false
       :encore: false
       :size: 
     - :title: CRASH MIND
-      :costumes: 
+      :costumes:
+      - SELF CONTROL!!
       :available_in_video: false
       :encore: false
       :size: 
     - :title: トリコリコPLEASE!!
-      :costumes: 
+      :costumes:
+      - トリコリコPLEASE!!
       :available_in_video: false
       :encore: false
       :size: 
     - :title: LONELY TUNING
-      :costumes: 
+      :costumes:
+      - トリコリコPLEASE!!
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ときめき分類学
-      :costumes: 
+      :costumes:
+      - トリコリコPLEASE!!
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 元気全開DAY!DAY!DAY!
-      :costumes: 
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
       :available_in_video: false
       :encore: false
       :size: 
     - :title: P.S.の向こう側
-      :costumes: 
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 夜空はなんでも知ってるの？
-      :costumes: 
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Strawberry Trapper
-      :costumes: 
+      :costumes:
+      - Strawberry Trapper
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Guilty Eyes Fever
-      :costumes: 
+      :costumes:
+      - Strawberry Trapper
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Guilty Night, Guilty Kiss!
-      :costumes: 
+      :costumes:
+      - Strawberry Trapper
       :available_in_video: false
       :encore: false
       :size: 
     - :title: SELF CONTROL!!
-      :costumes: 
+      :costumes:
+      - SELF CONTROL!!
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ユメ語るよりユメ歌おう
-      :costumes: 
+      :costumes:
+      - SELF CONTROL!!
+      - トリコリコPLEASE!!
+      - 元気全開DAY!DAY!DAY!
+      - Strawberry Trapper
       :available_in_video: false
       :encore: false
       :size: 
@@ -2427,67 +2858,83 @@
     :started_at: 2018-04-28 13:00
     :setlist:
     - :title: DROPOUT!?
-      :costumes: 
+      :costumes:
+      - SELF CONTROL!!
       :available_in_video: false
       :encore: false
       :size: 
     - :title: CRASH MIND
-      :costumes: 
+      :costumes:
+      - SELF CONTROL!!
       :available_in_video: false
       :encore: false
       :size: 
     - :title: トリコリコPLEASE!!
-      :costumes: 
+      :costumes:
+      - GALAXY HidE and SeeK
       :available_in_video: false
       :encore: false
       :size: 
     - :title: GALAXY HidE and SeeK
-      :costumes: 
+      :costumes:
+      - GALAXY HidE and SeeK
       :available_in_video: false
       :encore: false
       :size: 
     - :title: INNOCENT BIRD
-      :costumes: 
+      :costumes:
+      - GALAXY HidE and SeeK
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 元気全開DAY!DAY!DAY!
-      :costumes: 
+      :costumes:
+      - 近未来ハッピーエンド
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 近未来ハッピーエンド
-      :costumes: 
+      :costumes:
+      - 近未来ハッピーエンド
       :available_in_video: false
       :encore: false
       :size: 
     - :title: 海岸通りで待ってるよ
-      :costumes: 
+      :costumes:
+      - 近未来ハッピーエンド
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Strawberry Trapper
-      :costumes: 
+      :costumes:
+      - コワレヤスキ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: コワレヤスキ
-      :costumes: 
+      :costumes:
+      - コワレヤスキ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: Shadow gate to love
-      :costumes: 
+      :costumes:
+      - コワレヤスキ
       :available_in_video: false
       :encore: false
       :size: 
     - :title: SELF CONTROL!!
-      :costumes: 
+      :costumes:
+      - SELF CONTROL!!
       :available_in_video: false
       :encore: false
       :size: 
     - :title: ユメ語るよりユメ歌おう
-      :costumes: 
+      :costumes:
+      - SELF CONTROL!!
+      - GALAXY HidE and SeeK
+      - 近未来ハッピーエンド
+      - コワレヤスキ
       :available_in_video: false
       :encore: false
       :size: 
