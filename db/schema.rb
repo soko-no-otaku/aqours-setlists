@@ -12,17 +12,6 @@
 
 ActiveRecord::Schema.define(version: 20180527054441) do
 
-  create_table "event_songs", force: :cascade do |t|
-    t.integer "event_id"
-    t.integer "song_id"
-    t.boolean "tv_size", default: false
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.integer "position"
-    t.index ["event_id"], name: "index_event_songs_on_event_id"
-    t.index ["song_id"], name: "index_event_songs_on_song_id"
-  end
-
   create_table "event_venues", force: :cascade do |t|
     t.integer "event_id"
     t.integer "venue_id"
