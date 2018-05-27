@@ -4,10 +4,6 @@
       span.card-title イベント一覧
       .row
         .col.s12
-          p#notice = notice
-
-      .row
-        .col.s12
           - @events.group_by {|event| event.setlists.first.started_at.year}.each do |year, events|
             .section
               h5 = year
@@ -17,7 +13,7 @@
                   tr
                     th.event-period 開演
                     th イベントタイトル
-                    th.event-tags.hide-on-small-only
+                    th.col-10em.hide-on-small-only
 
                 tbody
                   - events.each do |event|
@@ -25,6 +21,6 @@
                       td.event-period.right-align = period_in_words(*event.period)
                       td
                         = link_to event.title, event
-                      td.event-tags.hide-on-small-only
+                      td.col-10em.hide-on-small-only
                         - event.tag_list.each do |tag|
                           span.badge.orange.white-text = tag

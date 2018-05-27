@@ -4,25 +4,42 @@
       span.card-title 楽曲一覧
       .row
         .col.s12
-          p#notice = notice
-
-      .row
-        .col.s12
-        - @songs.partition {|song| song.performed_count > 0}.each_with_index do |songs, i|
           .section
-            - if i == 1
-              h5 = 'まだ披露されていない楽曲'
-
+            javascript:
+                function reorder() {
+                    var order = document.getElementById('order').value;
+                    location.search = '?sort=' + order;
+                }
+            label 並び替え
+            select#order onchange="reorder()"
+              - {release: '発売日', frequency: 'これまでに披露された回数', recent: '最後に披露されたイベント'}.each do |key, text|
+                option[value=key selected=('selected' if params[:sort] == key.to_s)] = text
             table.striped
               thead
                 tr
                   th タイトル
-                  th 披露率
-                  th 発売日
+                  th.col-10em 披露された回数
+                  th.col-10em 発売日
 
               tbody
-                - songs.each do |song|
+                - @performed_songs.each do |song|
                   tr
                     td = link_to song.title, song
-                    td = number_to_percentage(song.performed_rate, precision: 1)
-                    td = l song.released_at
+                    td.col-10em = "#{song.performed_count}回"
+                    td.col-10em = l song.released_at
+
+          .section
+            h5 = 'まだ披露されていない楽曲'
+            table.striped
+              thead
+                tr
+                  th タイトル
+                  th.col-10em 披露された回数
+                  th.col-10em 発売日
+
+              tbody
+                - @prospective_songs.each do |song|
+                  tr
+                    td = link_to song.title, song
+                    td.col-10em 0回
+                    td.col-10em = l song.released_at

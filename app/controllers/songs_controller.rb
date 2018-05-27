@@ -4,7 +4,19 @@ class SongsController < ApplicationController
   # GET /songs
   # GET /songs.json
   def index
-    @songs = Song.order('released_at desc, id desc')
+    songs = Song.order('released_at desc, id desc').partition {|song| song.performed_count > 0}
+    @performed_songs, @prospective_songs = songs
+
+    case params[:sort]
+      when 'frequency'
+        @performed_songs.sort_by! do |song|
+          -song.performed_count
+        end
+      when 'recent'
+        @performed_songs.sort_by! do |song|
+          -song.setlist_songs.last.id
+        end
+    end
   end
 
   # GET /songs/1
