@@ -15,14 +15,16 @@
               table.striped
                 thead
                   tr
-                    th 開演
+                    th.event-period 開演
                     th イベントタイトル
+                    th.event-tags.hide-on-small-only
 
                 tbody
                   - events.each do |event|
                     tr
-                      td.right-align = period_in_words(*event.period)
+                      td.event-period.right-align = period_in_words(*event.period)
                       td
                         = link_to event.title, event
+                      td.event-tags.hide-on-small-only
                         - event.tag_list.each do |tag|
-                          span.chip.orange.white-text = tag
+                          span.badge.orange.white-text = tag
