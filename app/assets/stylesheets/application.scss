@@ -24,6 +24,7 @@ $secondary-color: color("orange", "base") !default;
  *= require_self
  */
 
+@import "composers_graph";
 @import "setlist_table";
 
 body {

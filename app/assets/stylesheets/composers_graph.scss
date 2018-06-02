@@ -1,0 +1,44 @@
+// Place all the styles related to the ComposersGraph controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+svg {
+  width: 100%;
+}
+
+.otonokizaka {
+  fill: #E4007F;
+
+  circle {
+    stroke-width: .5px;
+    stroke: #E4007F;
+  }
+}
+
+.uranohoshi {
+  fill: #0EABE3;
+
+  circle {
+    stroke-width: .5px;
+    stroke: #0EABE3;
+  }
+}
+
+.artist {
+  circle {
+    fill: #FAFAFA;
+    stroke-width: 2px;
+    stroke: #DDDDDD;
+  }
+
+  text {
+    fill: #333333;
+    font-weight: bold;
+  }
+}
+
+.links {
+  stroke: #DDDDDD;
+  stroke-width: 3px;
+  opacity: .5;
+}
