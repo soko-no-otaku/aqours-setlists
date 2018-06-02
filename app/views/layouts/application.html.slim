@@ -22,6 +22,8 @@ html
               li class=('active' if controller.controller_name == 'venues')
                 = link_to '会場', :controller => 'venues', :action => 'index'
           ul.right
+            li class=('active' if controller.controller_name == 'composers_graph')
+              = link_to '作編曲者グラフ', :controller => 'composers_graph', :action => 'index'
             li class=('active' if controller.controller_name == 'cooccurrence_graph')
               = link_to '共起グラフ', :controller => 'cooccurrence_graph', :action => 'index'
     = yield
