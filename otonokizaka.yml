@@ -1,0 +1,949 @@
+---
+- :title: 僕らのLIVE 君とのLIFE
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 山田高弘
+  :arranger_list:
+  - 高田暁
+- :title: 友情ノーチェンジ
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - Tron-LM
+  :arranger_list:
+  - Tron-LM
+- :title: Snow halation
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 山田高弘
+  :arranger_list:
+  - 中西亮輔
+- :title: baby maybe 恋のボタン
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 山口朗彦
+  :arranger_list:
+  - 山口朗彦
+- :title: Love marginal
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 藤末樹
+  :arranger_list:
+  - 藤末樹
+  - 松坂康司
+- :title: sweet＆sweet holiday
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 山口朗彦
+  :arranger_list:
+  - 藤末樹
+- :title: ダイヤモンドプリンセスの憂鬱
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 吉田勝弥
+  :arranger_list:
+  - 高田暁
+- :title: ラブノベルス
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々倉有吾
+  :arranger_list:
+  - 佐々倉有吾
+- :title: 知らないLove*教えてLove
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 星和生
+  :arranger_list:
+  - 福富雅之
+- :title: あ・の・ね・が・ん・ば・れ！
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 青木多果
+  :arranger_list:
+  - 青木多果
+- :title: 夏色えがおで1,2,Jump！
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 奥松誠
+  :arranger_list:
+  - 高田暁
+- :title: Mermaid festa vol.1
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 俊龍
+  :arranger_list:
+  - 渡辺和紀
+- :title: 私たちは未来の花
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 三浦誠司
+  :arranger_list:
+  - 三浦誠司
+- :title: スピカテリブル
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 藤末樹
+  :arranger_list:
+  - 藤末樹
+- :title: 愛は太陽じゃない？
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々倉有吾
+  :arranger_list:
+  - 佐々倉有吾
+- :title: もうひとりじゃないよ
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐伯高志
+  :arranger_list:
+  - 佐伯高志
+- :title: もぎゅっと“love”で接近中！
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 増田達行
+  :arranger_list:
+  - A-bee
+- :title: 愛してるばんざーい！
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 山田高弘
+  :arranger_list:
+  - 清水哲平
+- :title: Mermaid festa vol.2 ～Passionate～
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 山崎真吾
+  :arranger_list:
+  - 松井望
+- :title: Someday of my life
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 八重樫ゆう一
+  :arranger_list:
+  - 八重樫ゆう一
+- :title: 恋のシグナルRin rin rin!
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 須田真吾
+  :arranger_list:
+  - 安藤高弘
+- :title: 乙女式れんあい塾
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々木裕
+  :arranger_list:
+  - 佐々木裕
+- :title: まほうつかいはじめました！
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 鈴木裕明
+  :arranger_list:
+  - 鈴木裕明
+- :title: 純愛レンズ
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 山元祐介
+  :arranger_list:
+  - 山元祐介
+- :title: 告白日和、です！
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 若林充
+  :arranger_list:
+  - 若林充
+- :title: ぶる～べりぃ♥とれいん
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 増田達行
+  :arranger_list:
+  - 三浦誠司
+- :title: 孤独なHeaven
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 前口渉
+  :arranger_list:
+  - 増田武史
+- :title: soldier game
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 若林充
+  :arranger_list:
+  - 若林充
+- :title: Daring!!
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 近藤圭一
+  :arranger_list:
+  - 近藤圭一
+- :title: 勇気のReason
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 増谷賢
+  :arranger_list:
+  - 増谷賢
+- :title: ありふれた悲しみの果て
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐伯高志
+  :arranger_list:
+  - 佐伯高志
+- :title: Wonderful Rush
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 河田貴央
+  :arranger_list:
+  - 河田貴央
+- :title: Oh,Love＆Peace!
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 黒須克彦
+  :arranger_list:
+  - 黒須克彦
+- :title: Listen to my heart!!
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 河原嶺旭
+  :arranger_list:
+  - 河原嶺旭
+- :title: after school NAVIGATORS
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 河田貴央
+  :arranger_list:
+  - 河田貴央
+- :title: 僕らは今のなかで
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 森慎太郎
+  :arranger_list:
+  - 森慎太郎
+- :title: WILD STARS
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 高田暁
+  :arranger_list:
+  - 高田暁
+- :title: きっと青春が聞こえる
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 高田暁
+  :arranger_list:
+  - 高田暁
+- :title: 輝夜の城で踊りたい
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々倉有吾
+  :arranger_list:
+  - 佐々倉有吾
+- :title: ススメ→トゥモロウ
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 河田貴央
+  :arranger_list:
+  - 河田貴央
+- :title: START:DASH!!
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々木裕
+  :arranger_list:
+  - 佐々木裕
+- :title: これからのSomeday
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - yozuca*
+  :arranger_list:
+  - lotta
+- :title: Wonder zone
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々倉有吾
+  :arranger_list:
+  - 佐々倉有吾
+- :title: 夢なき夢は夢じゃない
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 高田暁
+  :arranger_list:
+  - 高田暁
+- :title: No brand girls
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 河田貴央
+  :arranger_list:
+  - 河田貴央
+- :title: Private Wars
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 板垣祐介
+  :arranger_list:
+  - 板垣祐介
+- :title: Anemone heart
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 高田暁
+  :arranger_list:
+  - 高田暁
+- :title: 革命ですね？神様！
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 矢鴇つかさ(Arte Refact)
+  :arranger_list:
+  - 矢鴇つかさ(Arte Refact)
+- :title: 羽は知ってしまったの？
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 原田篤(Arte Refact)
+  :arranger_list:
+  - fandelmale(Arte Refact)
+- :title: 閃光Resolution
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 五条下位(Arte Refact)
+  :arranger_list:
+  - 五条下位(Arte Refact)
+- :title: 斯くも憂美な日となりて
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 原田篤(Arte Refact)
+  :arranger_list:
+  - fandelmale(Arte Refact)
+- :title: I'll smile for yours
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 矢鴇つかさ(Arte Refact)
+  :arranger_list:
+  - 矢鴇つかさ(Arte Refact)
+- :title: コドクの回廊
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 酒井拓也(Arte Refact)
+  :arranger_list:
+  - 酒井拓也(Arte Refact)
+- :title: 秘密と花園
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 原田篤(Arte Refact)
+  :arranger_list:
+  - fandelmale(Arte Refact)
+- :title: ここで待ってるよ
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 酒井拓也(Arte Refact)
+  :arranger_list:
+  - 酒井拓也(Arte Refact)
+- :title: 夢☆ONCE AGAIN
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 西添健(Arte Refact)
+  :arranger_list:
+  - fandelmale(Arte Refact)
+- :title: NEURON,NEURON!!
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 矢鴇つかさ(Arte Refact)
+  :arranger_list:
+  - 矢鴇つかさ(Arte Refact)
+- :title: なわとび
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - rino
+  :arranger_list:
+  - 藤田宜久
+- :title: Beat in Angel
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 倉内達矢
+  :arranger_list:
+  - 倉内達矢
+- :title: 微熱からMystery
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々木裕
+  :arranger_list:
+  - 佐々木裕
+- :title: キミのくせに！
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 杉森舞
+  :arranger_list:
+  - 山元祐介
+- :title: Cutie Panther
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々木裕
+  :arranger_list:
+  - 佐々木裕
+- :title: 夏、終わらないで。
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 渡辺和紀
+  :arranger_list:
+  - 渡辺和紀
+- :title: にこぷり♡女子道
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 江並哲志
+  :arranger_list:
+  - 山元祐介
+- :title: Pure girls project
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 倉内達矢
+  :arranger_list:
+  - 倉内達矢
+- :title: UNBALANCED LOVE
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐伯高志
+  :arranger_list:
+  - 佐伯高志
+- :title: 硝子の花園
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 川崎里実
+  :arranger_list:
+  - 増田武史
+- :title: LONELIEST BABY
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 倉内達矢
+  :arranger_list:
+  - 倉内達矢
+- :title: ぷわぷわーお!
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々倉有吾
+  :arranger_list:
+  - 佐々倉有吾
+- :title: Music S.T.A.R.T!!
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 山口朗彦
+  :arranger_list:
+  - 山口朗彦
+- :title: LOVELESS WORLD
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 山田高弘
+  :arranger_list:
+  - 河田貴央
+- :title: タカラモノズ
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 高田暁
+  :arranger_list:
+  - 高田暁
+- :title: Paradise Live
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 倉内達矢
+  :arranger_list:
+  - 倉内達矢
+- :title: ENDLESS PARADE
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 矢吹香那
+  :arranger_list:
+  - 矢吹香那
+- :title: それは僕たちの奇跡
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 黒須克彦
+  :arranger_list:
+  - 黒須克彦
+- :title: だってだって噫無情
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 江並哲志
+  :arranger_list:
+  - 増田武史
+- :title: どんなときもずっと
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々木裕
+  :arranger_list:
+  - 佐々木裕
+  - 長谷泰宏(ストリングスアレンジ)
+- :title: COLORFUL VOICE
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 渡辺和紀
+  :arranger_list:
+  - 渡辺和紀
+- :title: ユメノトビラ
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐伯高志
+  :arranger_list:
+  - 佐伯高志
+- :title: SENTIMENTAL StepS
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 高阪昌至
+  :arranger_list:
+  - 清水哲平
+- :title: Love wing bell
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 森慎太郎
+  :arranger_list:
+  - 森慎太郎
+- :title: Dancing stars on me!
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐伯高志
+  :arranger_list:
+  - 佐伯高志
+- :title: シアワセ行きのSMILING!
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 渡辺未来
+  :arranger_list:
+  - 渡辺未来
+- :title: KiRa-KiRa Sensation!
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 本田光史郎
+  :arranger_list:
+  - 本田光史郎
+- :title: Happy maker!
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 前口渉
+  :arranger_list:
+  - 前口渉
+- :title: ずるいよMagnetic today
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 岡本健介
+  :arranger_list:
+  - 岡本健介
+- :title: これまでのラブライブ！ ～ミュージカルver.～
+  :lyricist_list:
+  - 京極尚彦
+  :composer_list:
+  - 藤澤慶昌
+  :arranger_list:
+  - 藤澤慶昌
+- :title: Shocking Party
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 板垣祐介
+  :arranger_list:
+  - 板垣祐介
+- :title: くるりんMIRACLE
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 森慎太郎
+  :arranger_list:
+  - 森慎太郎
+- :title: Storm in Lover
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 増田武史
+  :arranger_list:
+  - 増田武史
+- :title: Shangri-La Shower
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 倉内達矢
+  :arranger_list:
+  - 倉内達矢
+- :title: るてしキスキしてる
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐伯高志
+  :arranger_list:
+  - 佐伯高志
+- :title: もしもからきっと
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 川崎里実
+  :arranger_list:
+  - 森谷敏紀
+- :title: 永遠フレンズ
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 中土智博
+  :arranger_list:
+  - 中土智博
+- :title: 小夜啼鳥恋詩
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 渡辺和紀
+  :arranger_list:
+  - 渡辺和紀
+- :title: 好きですが好きですか？
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 渡辺和紀
+  :arranger_list:
+  - 渡辺和紀
+- :title: 秋のあなたの空遠く
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 増田武史
+  :arranger_list:
+  - 増田武史
+- :title: ふたりハピネス
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々木裕
+  :arranger_list:
+  - 佐々木裕
+- :title: 冬がくれた予感
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐伯高志
+  :arranger_list:
+  - 佐伯高志
+- :title: Trouble Busters
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々倉有吾
+  :arranger_list:
+  - 倉内達矢
+- :title: そして最後のページには
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 渡辺和紀
+  :arranger_list:
+  - 渡辺和紀
+- :title: CheerDay CheerGirl!
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々木裕
+  :arranger_list:
+  - 佐々木裕
+- :title: 同じ星が見たい
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 渡辺和紀
+  :arranger_list:
+  - 渡辺和紀
+- :title: Silent tonight
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々木裕
+  :arranger_list:
+  - 佐々木裕
+- :title: Dreamin' Go! Go!!
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - TSUKASA
+  :arranger_list:
+  - Kon-K
+- :title: ミはμ'sicのミ
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 高田暁
+  :arranger_list:
+  - 高田暁
+- :title: Super LOVE=Super LIVE!
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 河田貴央
+  :arranger_list:
+  - 河田貴央
+- :title: 僕らは今のなかで (LittleMore-Rock Mix)
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 森慎太郎
+  :arranger_list:
+  - 谷島俊
+- :title: No brand girls (GRP-Explosion Mix)
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 河田貴央
+  :arranger_list:
+  - AdorianoSpinesi
+- :title: START:DASH!! (Bitter-Sweet Mix)
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々木裕
+  :arranger_list:
+  - 伊藤賢
+- :title: Wonderful Rush (Hevey-Rush Mix)
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 河田貴央
+  :arranger_list:
+  - 原田篤(Arte Refact)
+- :title: Music S.T.A.R.T!! (SKA-Feel Mix)
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 山口朗彦
+  :arranger_list:
+  - 桑原聖(Arte Refact)
+- :title: Pure girls project (Super-Mondo Mix)
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 倉内達矢
+  :arranger_list:
+  - 関野元規
+- :title: Cutie Panther (Metal-Panther Mix)
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々木裕
+  :arranger_list:
+  - 高橋諒
+- :title: 微熱からMystery (TeKe-TeKe ELEKI Mix)
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々木裕
+  :arranger_list:
+  - 中西亮輔
+- :title: MUSEUMでどうしたい？
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 増田武史
+  :arranger_list:
+  - 増田武史
+- :title: 最低で最高のParadiso
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 木村有希
+  :arranger_list:
+  - 木村有希
+- :title: 乙姫心で恋宮殿
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 三浦誠司
+  :arranger_list:
+  - 三浦誠司
+- :title: Angelic Angel
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 森慎太郎
+  :arranger_list:
+  - 倉内達矢
+- :title: Hello,星を数えて
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 山口朗彦
+  :arranger_list:
+  - 山口朗彦
+- :title: SUNNY DAY SONG
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 倉内達矢
+  :arranger_list:
+  - 倉内達矢
+- :title: "？←HEARTBEAT"
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 本田光史郎
+  :arranger_list:
+  - 本田光史郎
+- :title: 僕たちはひとつの光
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - ZAQ
+  :arranger_list:
+  - EFFY
+- :title: Future style
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 本田光史郎
+  :arranger_list:
+  - 本田光史郎
+- :title: HEART to HEART!
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 西岡和哉
+  :arranger_list:
+  - 西岡和哉
+- :title: 嵐のなかの恋だから
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 酒井陽一
+  :arranger_list:
+  - 酒井陽一
+- :title: WAO-WAO Powerful day!
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々木裕
+  :arranger_list:
+  - 佐々木裕
+- :title: NO EXIT ORION
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 山田竜平
+  :arranger_list:
+  - 山田竜平
+- :title: これから
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 伊藤真澄
+  - ミト
+  :arranger_list:
+  - TO-MAS SOUNDSIGHT FLUORESCENT FOREST
+- :title: 思い出以上になりたくて
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - rino
+  :arranger_list:
+  - 酒井陽一
+- :title: 春情ロマンティック
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 佐々木裕
+  :arranger_list:
+  - 佐々木裕
+- :title: 錯覚CROSSROADS
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 川崎里実
+  :arranger_list:
+  - 渡辺和紀
+- :title: PSYCHIC FIRE
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 森慎太郎
+  :arranger_list:
+  - 森慎太郎
+- :title: MOMENT RING
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 高田暁
+  :arranger_list:
+  - 高田暁
+- :title: さようならへさよなら！
+  :lyricist_list:
+  - 畑亜貴
+  :composer_list:
+  - 増谷賢
+  :arranger_list:
+  - 増谷賢
