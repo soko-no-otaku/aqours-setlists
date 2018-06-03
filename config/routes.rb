@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   resources :venues, only: [:show, :index]
-  root :to => 'home#index'
+  root to: 'home#index', as: :home_index
 
   get 'cooccurrence_graph', to: 'cooccurrence_graph#index'
   get 'cooccurrence_graph/data', to: 'cooccurrence_graph#data'
