@@ -30,7 +30,7 @@ javascript:
         .force("x", d3.forceX().strength(0.1).x(width / 2))
         .force("y", d3.forceY().strength(0.1).y(height / 2));
 
-    d3.json("composers_graph/data").then(function (data) {
+    d3.json("composers_graph/data.json").then(function (data) {
         var link = svg.append("g")
             .attr("class", "links")
             .selectAll("line")
