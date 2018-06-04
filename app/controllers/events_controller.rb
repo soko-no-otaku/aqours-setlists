@@ -10,6 +10,8 @@ class EventsController < ApplicationController
   # GET /events/1
   # GET /events/1.json
   def show
+    impressionist(@event, nil, :unique => [:session_hash])
+    @page_views = @event.impressionist_count
   end
 
   # GET /events/new

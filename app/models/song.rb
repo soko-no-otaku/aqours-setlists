@@ -5,6 +5,7 @@ class Song < ApplicationRecord
   has_many :setlists, -> { order(started_at: :asc) }, through: :setlist_songs
 
   acts_as_ordered_taggable_on :lyricists, :composers, :arrangers
+  is_impressionable
 
   def performed_count
     setlist_songs.size

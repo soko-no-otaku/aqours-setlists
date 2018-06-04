@@ -9,6 +9,7 @@ class Event < ApplicationRecord
   accepts_nested_attributes_for :event_venue, allow_destroy: true
 
   acts_as_taggable
+  is_impressionable
 
   def setlists_count
     setlists.size

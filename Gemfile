@@ -71,3 +71,6 @@ gem 'acts-as-taggable-on', git: 'https://github.com/mbleigh/acts-as-taggable-on'
 gem 'geocoder'
 # The leaflet.js map display library for your Rails 4/5 application
 gem 'leaflet-rails'
+# A lightweight plugin that logs impressions per action or manually per model
+gem 'impressionist'
+
