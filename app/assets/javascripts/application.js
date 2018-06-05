@@ -16,5 +16,4 @@
 //= require cocoon
 //= require leaflet
 //= require rails-ujs
-//= require turbolinks
 //= require_tree .
