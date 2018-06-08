@@ -2031,6 +2031,20 @@
       :available_in_video: false
       :encore: false
       :size: 
+- :title: バズリズム02
+  :venue:
+  :tags:
+  - TV番組
+  :setlists:
+  - :day_n:
+    :started_at: 2017-12-23 1:29
+    :setlist:
+    - :title: 未来の僕らは知ってるよ
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: true
+      :encore: false
+      :size:
 - :title: "「坂崎幸之助のももいろフォーク村NEXT 第79夜 フNｓ桃黒歌合戦」番組観覧"
   :venue: 
   :tags:
