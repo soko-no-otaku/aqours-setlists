@@ -19,14 +19,14 @@
                 tr
                   th タイトル
                   th.col-10em 披露された回数
-                  th.col-10em 発売日
+                  th.hide-on-small-only.col-10em 発売日
 
               tbody
                 - @performed_songs.each do |song|
                   tr
                     td = link_to song.title, song
                     td.col-10em = "#{song.performed_count}回"
-                    td.col-10em = l song.released_at
+                    td.hide-on-small-only.col-10em = l song.released_at
 
           .section
             h5 = "まだ披露されていない楽曲（#{@prospective_songs.size}曲）"
@@ -35,11 +35,11 @@
                 tr
                   th タイトル
                   th.col-10em 披露された回数
-                  th.col-10em 発売日
+                  th.hide-on-small-only.col-10em 発売日
 
               tbody
                 - @prospective_songs.each do |song|
                   tr
                     td = link_to song.title, song
                     td.col-10em 0回
-                    td.col-10em = l song.released_at
+                    td.hide-on-small-only.col-10em = l song.released_at
