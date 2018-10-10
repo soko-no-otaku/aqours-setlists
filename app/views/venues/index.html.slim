@@ -6,7 +6,7 @@ ruby:
   markers = @venues.map do |v|
     {
             latlng: [v.latitude, v.longitude],
-            popup: v.name
+            popup: link_to(v.name, v)
     }
   end
 
