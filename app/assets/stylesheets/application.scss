@@ -34,6 +34,10 @@ body {
   background-position: 0 0, 5px 5px;
 }
 
+.navbar-fixed {
+  z-index: 1030;
+}
+
 .container {
   background-color: #ffffff;
 }
