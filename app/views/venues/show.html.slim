@@ -14,10 +14,10 @@
               td = @venue.address
             tr
               th 公式サイト
-              td = link_to @venue.url, @venue.url
+              td = @venue.url.present? ? link_to(@venue.url, @venue.url) : ''
             tr
               th キャパ
-              td = "#{number_with_delimiter @venue.capacity}人"
+              td = @venue.capacity.present? ? "#{number_with_delimiter @venue.capacity}人" : '不明'
 
       .row
         .col.s12
