@@ -428,7 +428,8 @@
       :size: 
 - :title: ミルキィホームズ&ブシロード10周年&スクフェス4周年記念ライブ in横浜アリーナ
   :venue: 横浜アリーナ
-  :tags: 
+  :tags:
+  - フェス
   :setlists:
   - :day_n: 
     :started_at: 2017-04-30 17:30
@@ -1354,8 +1355,7 @@
       :size: 
 - :title: めざましテレビ PRESENTS T-SPOOK 〜TOKYO HALLOWEEN PARTY〜
   :venue: 青海P地区 特設ステージ
-  :tags:
-  - フェス
+  :tags: 
   :setlists:
   - :day_n: 
     :started_at: 2017-10-21 18:00
