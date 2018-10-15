@@ -13,7 +13,8 @@ html
     .navbar-fixed
       nav
         .nav-wrapper
-          span.brand-logo.center.hide-on-small-only Aqours Setlists
+          span.brand-logo.center.hide-on-small-only
+            = link_to 'Aqours Setlists', :controller => 'home', :action => 'index'
           ul.left
             li class=('active' if controller.controller_name == 'events')
               = link_to 'イベント', :controller => 'events', :action => 'index'
