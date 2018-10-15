@@ -1,2 +1,20 @@
-h1 Home#index
-p Find me in app/views/home/index.html.slim
+.container
+  .card
+    .card-content
+      span.card-title Aqours Setlists
+      .row
+        .col.s12 ラブライブ！サンシャイン!! Aqoursの関連イベントのセットリストをまとめた非公式ファンサイトです。
+
+      .row
+        .col.s4
+          .center
+            i.material-icons.large = link_to 'event', :controller => 'events', :action => 'index'
+            h4 イベント一覧
+        .col.s4
+          .center
+            i.material-icons.large = link_to 'music_note', :controller => 'songs', :action => 'index'
+            h4 楽曲一覧
+        .col.s4
+          .center
+            i.material-icons.large = link_to 'location_on', :controller => 'venues', :action => 'index'
+            h4 会場一覧
