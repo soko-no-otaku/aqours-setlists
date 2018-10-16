@@ -18,3 +18,17 @@
           .center
             i.material-icons.large = link_to 'location_on', :controller => 'venues', :action => 'index'
             h4 会場一覧
+
+  .card
+    .card-content
+      span.card-title 更新履歴
+      .divider
+      .section
+        h6 2018/6/8
+        p
+          = link_to Event.find(29).title, Event.find(29)
+          |  までのイベントを追加
+      .divider
+      .section
+        h6 2018/6/8
+        p サイト公開
