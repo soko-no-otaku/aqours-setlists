@@ -6,8 +6,6 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-Venue.create(YAML.load_file('db/venues.yml'))
-
 YAML.load_file('db/events.yml').each do |e|
   event = Event.create(title: e[:title])
 
