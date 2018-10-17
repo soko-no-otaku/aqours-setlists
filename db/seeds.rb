@@ -6,18 +6,6 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-YAML.load_file('db/songs.yml').each do |s|
-  song = Song.create(
-      title: s[:title],
-      released_at: s[:released_at]
-  )
-
-  song.lyricist_list = s[:lyricists]
-  song.composer_list = s[:composers]
-  song.arranger_list = s[:arrangers]
-  song.save
-end
-
 Venue.create(YAML.load_file('db/venues.yml'))
 
 YAML.load_file('db/events.yml').each do |e|
