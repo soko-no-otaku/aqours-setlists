@@ -74,4 +74,5 @@ gem 'geocoder'
 gem 'leaflet-rails'
 # A lightweight plugin that logs impressions per action or manually per model
 gem 'impressionist'
-
+# Advanced seed data handling for Rails
+gem 'seed-fu', '~> 2.3'
