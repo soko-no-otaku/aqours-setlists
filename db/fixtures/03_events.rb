@@ -1,3 +1,7 @@
+EventVenue.all.each(&:destroy)
+SetlistSong.all.each(&:destroy)
+Setlist.all.each(&:destroy)
+
 YAML.load_file('db/events.yml').each.with_index(1) do |event, i|
   Event.seed do |s|
     s.id = i
