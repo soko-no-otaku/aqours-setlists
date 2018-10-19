@@ -1,7 +1,7 @@
 {
   "scripts": {
     "dokku": {
-      "postdeploy": "bundle exec rake db:seed_fu"
+      "postdeploy": "bundle exec rake db:migrate && bundle exec rake db:seed_fu"
     }
   }
 }
