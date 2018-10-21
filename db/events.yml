@@ -1355,7 +1355,7 @@
       :size: 
 - :title: めざましテレビ PRESENTS T-SPOOK 〜TOKYO HALLOWEEN PARTY〜
   :venue: 青海P地区 特設ステージ
-  :tags:
+  :tags: 
   :setlists:
   - :day_n: 
     :started_at: 2017-10-21 18:00
@@ -2032,11 +2032,11 @@
       :encore: false
       :size: 
 - :title: バズリズム02
-  :venue:
+  :venue: 
   :tags:
   - TV番組
   :setlists:
-  - :day_n:
+  - :day_n: 
     :started_at: 2017-12-23 1:29
     :setlist:
     - :title: 未来の僕らは知ってるよ
@@ -2044,7 +2044,7 @@
       - 未来の僕らは知ってるよ
       :available_in_video: true
       :encore: false
-      :size:
+      :size: 
 - :title: "「坂崎幸之助のももいろフォーク村NEXT 第79夜 フNｓ桃黒歌合戦」番組観覧"
   :venue: 
   :tags:
@@ -2949,6 +2949,92 @@
       - GALAXY HidE and SeeK
       - 近未来ハッピーエンド
       - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+- :title: LOVELIVE! SUNSHINE!! Aqours World Love Live! in LA ~Beyond the Pacific~
+  :venue: Microsoft Theater
+  :tags:
+  - 海外
+  :setlists:
+  - :day_n: 
+    :started_at: 2018-07-04 18:00
+    :setlist:
+    - :title: 未来の僕らは知ってるよ
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君の瞳を巡る冒険
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MIRAI TICKET
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 元気全開DAY!DAY!DAY!
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 海岸通りで待ってるよ
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: トリコリコPLEASE!!
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: LONELY TUNING
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Strawberry Trapper
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Guilty Night, Guilty Kiss!
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 太陽を追いかけろ！
+      :costumes:
+      - ライブTシャツ（LA）
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - ライブTシャツ（LA）
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: サンシャインぴっかぴか音頭
+      :costumes:
+      - ライブTシャツ（LA）
       :available_in_video: false
       :encore: false
       :size: 
