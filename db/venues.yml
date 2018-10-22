@@ -167,3 +167,10 @@
   :longitude: 130.4022034
   :url: http://www.marinemesse.or.jp/messe/
   :capacity: 13000
+- :id: 25
+  :name: 六本木ヒルズアリーナ
+  :address: "〒106-6108 東京都港区六本木6-10-1"
+  :latitude: 35.6597066
+  :longitude: 139.7279167
+  :url: http://www.roppongihills.com/facilities/arena/
+  :capacity: 1000
