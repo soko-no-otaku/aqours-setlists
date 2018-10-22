@@ -160,3 +160,10 @@
   :longitude: 135.5301017
   :url: https://www.osaka-johall.com/
   :capacity: 11200
+- :id: 24
+  :name: マリンメッセ福岡
+  :address: "〒812-0031 福岡県福岡市博多区沖浜町7-1"
+  :latitude: 33.6072863
+  :longitude: 130.4022034
+  :url: http://www.marinemesse.or.jp/messe/
+  :capacity: 13000
