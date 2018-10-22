@@ -88,8 +88,8 @@
   :address: "〒135-0064 東京都江東区青海1-1-17"
   :latitude: 35.623442
   :longitude: 139.7749545
-  :url: null
-  :capacity: null
+  :url: 
+  :capacity: 
 - :id: 14
   :name: オリックス劇場
   :address: "〒550-0013 大阪府大阪市西区新町1-14-15"
@@ -130,8 +130,8 @@
   :address: 200072 上海市静安区汶水路116号
   :latitude: 31.2909638
   :longitude: 121.4401609
-  :url: null
-  :capacity: null
+  :url: 
+  :capacity: 
 - :id: 20
   :name: 名古屋国際会議場 センチュリーホール
   :address: "〒456-0036 愛知県名古屋市熱田区熱田西町1-1"
@@ -153,3 +153,10 @@
   :longitude: 140.7838399
   :url: http://www.zaidan-hakodate.com/arena/
   :capacity: 5000
+- :id: 23
+  :name: 大阪城ホール
+  :address: "〒540-0002 大阪府大阪市中央区大阪城3-1"
+  :latitude: 34.6896386
+  :longitude: 135.5301017
+  :url: https://www.osaka-johall.com/
+  :capacity: 11200
