@@ -174,3 +174,10 @@
   :longitude: 139.7301054
   :url: http://www.roppongihills.com/facilities/arena/
   :capacity: 1000
+- :id: 26
+  :name: 日本特殊陶業市民会館フォレストホール
+  :address: "〒460-0022 愛知県名古屋市中区金山1-5-1"
+  :latitude: 35.145636
+  :longitude: 136.901928
+  :url: https://nagoya-shimin.hall-info.jp/kaikan/facility/forest_hall.html
+  :capacity: 2296
