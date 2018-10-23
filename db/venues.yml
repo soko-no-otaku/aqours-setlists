@@ -181,3 +181,10 @@
   :longitude: 136.901928
   :url: https://nagoya-shimin.hall-info.jp/kaikan/facility/forest_hall.html
   :capacity: 2296
+- :id: 27
+  :name: 松山市民会館・大ホール
+  :address: "〒790-0007 愛媛県松山市堀之内"
+  :latitude: 33.8408912
+  :longitude: 132.7611973
+  :url: http://www.cul-spo.or.jp/mcph/
+  :capacity: 1999
