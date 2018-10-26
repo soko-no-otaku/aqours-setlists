@@ -65,7 +65,7 @@ gem 'jquery-rails'
 # jQuery UI for the Rails asset pipeline
 gem 'jquery-ui-rails'
 # Materialize Sass version for Rails Asset Pipeline
-gem 'materialize-sass', '~> 1.0.0.beta'
+gem 'materialize-sass', '~> 1.0.0'
 # A tagging plugin for Rails applications
 gem 'acts-as-taggable-on', git: 'https://github.com/mbleigh/acts-as-taggable-on'
 # Geocoder adds geocoding by street address

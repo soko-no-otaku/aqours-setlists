@@ -22,34 +22,27 @@
                 th.row-header 会場
                 td colspan="2" = link_to @event.venue.name, @event.venue
 
-      .row
-        .col.s12
-          table.striped.centered
-            thead
-              tr
-                th.row-header
-                th
-                  - @event.setlists.each do |setlist|
-                    span.higawari = setlist.day_n
-
+    - if @event.setlists.size > 1
+      .card-tabs
+        ul.tabs.tabs-fixed-width
+          - @event.setlists.each.with_index(1) do |setlist, i|
+            li.tab
+              a href="#setlist#{i}" = setlist.day_n
+    .card-content
+      - @event.setlists.each.with_index(1) do |setlist, i|
+        div id="setlist#{i}"
+          table.striped
             tbody
-              - encore_count = 1
-              - @event.transposed_setlist_songs.each do |setlist_songs|
+              - setlist.setlist_songs.reject { |setlist_song| setlist_song.encore }.each.with_index(1) do |setlist_song, i|
                 tr
-                  td.row-header
-                    - if setlist_songs.first.encore
-                      = 'EN' + sprintf('%02d', encore_count)
-                      - encore_count += 1
-                    - else
-                      = 'M' + sprintf('%02d', setlist_songs.first.position)
-                  - if setlist_songs.map(&:song).uniq.size == 1
-                    td colspan="#{@event.setlists_count}"
-                      span = link_to setlist_songs.first.song.title, setlist_songs.first.song
-                  - else
-                    td
-                      - setlist_songs.each do |setlist_song|
-                        span.higawari = link_to setlist_song.song.title, setlist_song.song
+                  td.position.right-align = 'M' + sprintf('%02d', i)
+                  td = link_to setlist_song.song.title, setlist_song.song
+              - setlist.setlist_songs.select { |setlist_song| setlist_song.encore }.each.with_index(1) do |setlist_song, i|
+                tr
+                  td.position.right-align = 'EN' + sprintf('%02d', i)
+                  td = link_to setlist_song.song.title, setlist_song.song
 
+    .card-content
       .row
         .col.s12
           = tweet_button(@event.tweet_text)
