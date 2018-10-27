@@ -3542,3 +3542,272 @@
       :available_in_video: false
       :encore: false
       :size: 
+- :title: ラブライブ！サンシャイン!! Aqours 3rd LoveLive! Tour ～WONDERFUL STORIES～ 福岡公演
+  :venue: マリンメッセ福岡
+  :tags:
+  - 3rd
+  :setlists:
+  - :day_n: Day.1
+    :started_at: 2018-07-07 17:00
+    :setlist:
+    - :title: 未来の僕らは知ってるよ
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君の瞳を巡る冒険
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: "“MY LIST” to you!"
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MY舞☆TONIGHT
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MIRACLE WAVE
+      :costumes:
+      - MIRACLE WAVE
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: One More Sunshine Story
+      :costumes:
+      - One More Sunshine Story
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: おやすみなさん！
+      :costumes:
+      - おやすみなさん！
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: in this unstable world
+      :costumes:
+      - in this unstable world
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Pianoforte Monologue
+      :costumes:
+      - Pianoforte Monologue
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 空も心も晴れるから
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: SKY JOURNEY
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Awaken the power
+      :costumes:
+      - Awaken the power
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: DROPOUT!?
+      :costumes:
+      - Awaken the power
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: WATER BLUE NEW WORLD
+      :costumes:
+      - WATER BLUE NEW WORLD
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: キセキヒカル
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ライブTシャツ（3rd福岡）
+      :available_in_video: false
+      :encore: true
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - ライブTシャツ（3rd福岡）
+      :available_in_video: false
+      :encore: true
+      :size: 
+    - :title: WONDERFUL STORIES
+      :costumes:
+      - ライブTシャツ（3rd福岡）
+      :available_in_video: false
+      :encore: true
+      :size: 
+  - :day_n: Day.2
+    :started_at: 2018-07-08 16:00
+    :setlist:
+    - :title: 未来の僕らは知ってるよ
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君の瞳を巡る冒険
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: "“MY LIST” to you!"
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MY舞☆TONIGHT
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MIRACLE WAVE
+      :costumes:
+      - MIRACLE WAVE
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Beginner’s Sailing
+      :costumes:
+      - Beginner’s Sailing
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: RED GEM WINK
+      :costumes:
+      - RED GEM WINK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: WHITE FIRST LOVE
+      :costumes:
+      - WHITE FIRST LOVE
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: New winding road
+      :costumes:
+      - New winding road
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: さかなかなんだか？
+      :costumes:
+      - さかなかなんだか？
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 空も心も晴れるから
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: SKY JOURNEY
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Awaken the power
+      :costumes:
+      - Awaken the power
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: DROPOUT!?
+      :costumes:
+      - Awaken the power
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: WATER BLUE NEW WORLD
+      :costumes:
+      - WATER BLUE NEW WORLD
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: キセキヒカル
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ライブTシャツ（3rd福岡）
+      :available_in_video: false
+      :encore: true
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - ライブTシャツ（3rd福岡）
+      :available_in_video: false
+      :encore: true
+      :size: 
+    - :title: WONDERFUL STORIES
+      :costumes:
+      - ライブTシャツ（3rd福岡）
+      :available_in_video: false
+      :encore: true
+      :size: 
