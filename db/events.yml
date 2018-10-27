@@ -3442,6 +3442,20 @@
       :available_in_video: false
       :encore: true
       :size: 
+- :title: CDTV'18上半期SPエンタメまとめ総決算
+  :venue: 
+  :tags:
+  - TV番組
+  :setlists:
+  - :day_n: 
+    :started_at: 2018-06-28 20:00
+    :setlist:
+    - :title: WATER BLUE NEW WORLD
+      :costumes:
+      - WATER BLUE NEW WORLD
+      :available_in_video: true
+      :encore: false
+      :size: TVサイズ
 - :title: LOVELIVE! SUNSHINE!! Aqours World Love Live! in LA ~Beyond the Pacific~
   :venue: Microsoft Theater
   :tags:
