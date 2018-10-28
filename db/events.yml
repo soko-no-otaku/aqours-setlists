@@ -3811,3 +3811,17 @@
       :available_in_video: false
       :encore: true
       :size: 
+- :title: 音楽の日2018
+  :venue: 
+  :tags:
+  - TV番組
+  :setlists:
+  - :day_n: 
+    :started_at: 2018-07-15 3:00
+    :setlist:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
+      :encore: false
+      :size: TVサイズ
