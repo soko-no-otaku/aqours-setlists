@@ -3839,3 +3839,52 @@
       :available_in_video: true
       :encore: false
       :size: TVサイズ
+- :title: コカ･コーラ SUMMER STATION 音楽LIVE
+  :venue: 六本木ヒルズアリーナ
+  :tags: 
+  :setlists:
+  - :day_n: 
+    :started_at: 2018-07-27 19:00
+    :setlist:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君の瞳を巡る冒険
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MIRAI TICKET
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 太陽を追いかけろ！
+      :costumes:
+      - メンバーカラーTシャツ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - メンバーカラーTシャツ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: サンシャインぴっかぴか音頭
+      :costumes:
+      - メンバーカラーTシャツ
+      :available_in_video: false
+      :encore: false
+      :size: 
