@@ -3825,3 +3825,17 @@
       :available_in_video: true
       :encore: false
       :size: TVサイズ
+- :title: FNSうたの夏まつり
+  :venue: 
+  :tags:
+  - TV番組
+  :setlists:
+  - :day_n: 
+    :started_at: 2018-07-25 19:00
+    :setlist:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: true
+      :encore: false
+      :size: TVサイズ
