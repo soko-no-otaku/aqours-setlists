@@ -3888,3 +3888,35 @@
       :available_in_video: false
       :encore: false
       :size: 
+- :title: Animelo Summer Live 2018 “OK!”
+  :venue: さいたまスーパーアリーナ
+  :tags:
+  - フェス
+  :setlists:
+  - :day_n: 
+    :started_at: 2018-08-24 16:00
+    :setlist:
+    - :title: 未来の僕らは知ってるよ
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君の瞳を巡る冒険
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: WONDERFUL STORIES
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: false
+      :encore: false
+      :size: メドレー
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: false
+      :encore: false
+      :size: メドレー
