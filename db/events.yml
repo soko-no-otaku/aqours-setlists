@@ -3920,3 +3920,17 @@
       :available_in_video: false
       :encore: false
       :size: メドレー
+- :title: シブヤノオト and more FES.2018
+  :venue: 
+  :tags:
+  - TV番組
+  :setlists:
+  - :day_n: 
+    :started_at: 2018-09-08 23:00
+    :setlist:
+    - :title: 恋になりたいAQUARIUM
+      :costumes:
+      - 恋になりたいAQUARIUM
+      :available_in_video: true
+      :encore: false
+      :size: TVサイズ
