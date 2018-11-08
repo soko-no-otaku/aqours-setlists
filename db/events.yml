@@ -4056,3 +4056,86 @@
       :available_in_video: false
       :encore: true
       :size: 
+- :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 2018 ユニット対抗全国ツアー 松山公演
+  :venue: 松山市民会館・大ホール
+  :tags:
+  - ファンミ
+  :setlists:
+  - :day_n: 9/24＜1回目＞
+    :started_at: 2018-09-24 15:00
+    :setlist:
+    - :title: 元気全開DAY!DAY!DAY!
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 海岸通りで待ってるよ
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 届かない星だとしても
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: P.S.の向こう側
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
+  - :day_n: 9/24＜2回目＞
+    :started_at: 2018-09-24 19:00
+    :setlist:
+    - :title: 元気全開DAY!DAY!DAY!
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 海岸通りで待ってるよ
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Pops heartで踊るんだもん！
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: P.S.の向こう側
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
