@@ -1405,12 +1405,6 @@
   - :day_n: 11/4
     :started_at: 2017-11-04 18:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - 未来の僕らは知ってるよ
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - 未来の僕らは知ってるよ
@@ -1462,12 +1456,6 @@
   - :day_n: 11/5＜1回目＞
     :started_at: 2017-11-05 13:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - 未来の僕らは知ってるよ
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - 未来の僕らは知ってるよ
@@ -1519,12 +1507,6 @@
   - :day_n: 11/5＜2回目＞
     :started_at: 2017-11-05 18:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - 未来の僕らは知ってるよ
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - 未来の僕らは知ってるよ
@@ -1583,12 +1565,6 @@
   - :day_n: "＜1回目＞"
     :started_at: 2017-11-18 14:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - 未来の僕らは知ってるよ
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - 未来の僕らは知ってるよ
@@ -1640,12 +1616,6 @@
   - :day_n: "＜2回目＞"
     :started_at: 2017-11-18 19:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - 未来の僕らは知ってるよ
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - 未来の僕らは知ってるよ
@@ -1729,12 +1699,6 @@
   - :day_n: 12/9
     :started_at: 2017-12-09 18:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - ジングルベルがとまらない
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - ジングルベルがとまらない
@@ -1786,12 +1750,6 @@
   - :day_n: 12/10＜1回目＞
     :started_at: 2017-12-10 13:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - ジングルベルがとまらない
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - ジングルベルがとまらない
@@ -1843,12 +1801,6 @@
   - :day_n: 12/10＜2回目＞
     :started_at: 2017-12-10 18:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - ジングルベルがとまらない
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - ジングルベルがとまらない
@@ -1920,12 +1872,6 @@
   - :day_n: "＜1回目＞"
     :started_at: 2017-12-16 13:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - ジングルベルがとまらない
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - ジングルベルがとまらない
@@ -1977,12 +1923,6 @@
   - :day_n: "＜2回目＞"
     :started_at: 2017-12-16 18:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - ジングルベルがとまらない
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - ジングルベルがとまらない
@@ -2080,12 +2020,6 @@
   - :day_n: "＜1回目＞"
     :started_at: 2018-01-06 14:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - 未熟DREAMER
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - 未熟DREAMER
@@ -2137,12 +2071,6 @@
   - :day_n: "＜2回目＞"
     :started_at: 2018-01-06 18:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - 未熟DREAMER
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - 未熟DREAMER
@@ -2233,12 +2161,6 @@
   - :day_n: "＜1回目＞"
     :started_at: 2018-01-20 14:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - 未来の僕らは知ってるよ
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - 未来の僕らは知ってるよ
@@ -2290,12 +2212,6 @@
   - :day_n: "＜2回目＞"
     :started_at: 2018-01-20 19:30
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - 未来の僕らは知ってるよ
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - 未来の僕らは知ってるよ
@@ -2353,12 +2269,6 @@
   - :day_n: "＜1回目＞"
     :started_at: 2018-02-03 14:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - MIRAI TICKET
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - MIRAI TICKET
@@ -2410,12 +2320,6 @@
   - :day_n: "＜2回目＞"
     :started_at: 2018-02-03 19:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - MIRAI TICKET
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - MIRAI TICKET
@@ -2474,12 +2378,6 @@
   - :day_n: "＜1回目＞"
     :started_at: 2018-02-10 14:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - 未来の僕らは知ってるよ
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - 未来の僕らは知ってるよ
@@ -2531,12 +2429,6 @@
   - :day_n: "＜2回目＞"
     :started_at: 2018-02-10 19:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - 未来の僕らは知ってるよ
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - 未来の僕らは知ってるよ
@@ -2594,12 +2486,6 @@
   - :day_n: 3/10
     :started_at: 2018-03-10 18:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - 未来の僕らは知ってるよ
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - 未来の僕らは知ってるよ
@@ -2657,12 +2543,6 @@
   - :day_n: 3/11＜1回目＞
     :started_at: 2018-03-11 13:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - 未来の僕らは知ってるよ
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - 未来の僕らは知ってるよ
@@ -2720,12 +2600,6 @@
   - :day_n: 3/11＜2回目＞
     :started_at: 2018-03-11 18:00
     :setlist:
-    - :title: Landing action Yeah!!
-      :costumes:
-      - 未来の僕らは知ってるよ
-      :available_in_video: false
-      :encore: false
-      :size: 
     - :title: 未来の僕らは知ってるよ
       :costumes:
       - 未来の僕らは知ってるよ
