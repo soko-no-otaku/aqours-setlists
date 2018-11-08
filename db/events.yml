@@ -3934,3 +3934,125 @@
       :available_in_video: true
       :encore: false
       :size: TVサイズ
+- :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 2018 ユニット対抗全国ツアー 名古屋公演
+  :venue: 日本特殊陶業市民会館フォレストホール
+  :tags:
+  - ファンミ
+  :setlists:
+  - :day_n: 9/22＜1回目＞
+    :started_at: 2018-09-22 15:00
+    :setlist:
+    - :title: GALAXY HidE and SeeK
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: INNOCENT BIRD
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Pops heartで踊るんだもん！
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: トリコリコPLEASE!!
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
+  - :day_n: 9/22＜2回目＞
+    :started_at: 2018-09-22 19:00
+    :setlist:
+    - :title: GALAXY HidE and SeeK
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: INNOCENT BIRD
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 届かない星だとしても
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: トリコリコPLEASE!!
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
+  - :day_n: 9/23
+    :started_at: 2018-09-23 13:00
+    :setlist:
+    - :title: GALAXY HidE and SeeK
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: INNOCENT BIRD
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 空も心も晴れるから
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: トリコリコPLEASE!!
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
