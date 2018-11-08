@@ -15,7 +15,8 @@
               tr
                 - if i == 0
                   th.row-header rowspan="#{@event.setlists_count}" 開演
-                td.day_n = setlist.day_n
+                - if setlist.day_n.present?
+                  td.day_n = setlist.day_n
                 td = l setlist.started_at
             - if @event.venue
               tr
