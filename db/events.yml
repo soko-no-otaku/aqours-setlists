@@ -55,7 +55,7 @@
       :available_in_video: true
       :encore: false
       :size: 
-- :title: "「シブヤノオト」&「NAOMIの部屋」公開収録"
+- :title: NAOMIの部屋
   :venue: NHKホール
   :tags:
   - TV番組
@@ -1694,7 +1694,7 @@
       :available_in_video: false
       :encore: false
       :size: 
-- :title: "「NHK WORLD presents SONGS OF TOKYO」公開収録 11/25"
+- :title: NHK WORLD presents SONGS OF TOKYO
   :venue: NHKホール
   :tags:
   - TV番組
@@ -1897,7 +1897,7 @@
       :available_in_video: false
       :encore: false
       :size: 
-- :title: "「2017 FNS歌謡祭 第2夜」番組観覧"
+- :title: 2017 FNS歌謡祭 第2夜
   :venue: 
   :tags:
   - TV番組
@@ -2045,7 +2045,7 @@
       :available_in_video: true
       :encore: false
       :size: 
-- :title: "「坂崎幸之助のももいろフォーク村NEXT 第79夜 フNｓ桃黒歌合戦」番組観覧"
+- :title: 坂崎幸之助のももいろフォーク村NEXT 第79夜 フNｓ桃黒歌合戦
   :venue: 
   :tags:
   - TV番組
