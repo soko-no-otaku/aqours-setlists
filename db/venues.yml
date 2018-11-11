@@ -88,8 +88,8 @@
   :address: "〒135-0064 東京都江東区青海1-1-17"
   :latitude: 35.623442
   :longitude: 139.7749545
-  :url: null
-  :capacity: null
+  :url: 
+  :capacity: 
 - :id: 14
   :name: オリックス劇場
   :address: "〒550-0013 大阪府大阪市西区新町1-14-15"
@@ -130,8 +130,8 @@
   :address: 200072 上海市静安区汶水路116号
   :latitude: 31.2909638
   :longitude: 121.4401609
-  :url: null
-  :capacity: null
+  :url: 
+  :capacity: 
 - :id: 20
   :name: 名古屋国際会議場 センチュリーホール
   :address: "〒456-0036 愛知県名古屋市熱田区熱田西町1-1"
@@ -153,3 +153,38 @@
   :longitude: 140.7838399
   :url: http://www.zaidan-hakodate.com/arena/
   :capacity: 5000
+- :id: 23
+  :name: 大阪城ホール
+  :address: "〒540-0002 大阪府大阪市中央区大阪城3-1"
+  :latitude: 34.6896386
+  :longitude: 135.5301017
+  :url: https://www.osaka-johall.com/
+  :capacity: 11200
+- :id: 24
+  :name: マリンメッセ福岡
+  :address: "〒812-0031 福岡県福岡市博多区沖浜町7-1"
+  :latitude: 33.6072863
+  :longitude: 130.4022034
+  :url: http://www.marinemesse.or.jp/messe/
+  :capacity: 13000
+- :id: 25
+  :name: 六本木ヒルズアリーナ
+  :address: "〒106-6108 東京都港区六本木6-10-1"
+  :latitude: 35.6597066
+  :longitude: 139.7301054
+  :url: http://www.roppongihills.com/facilities/arena/
+  :capacity: 1000
+- :id: 26
+  :name: 日本特殊陶業市民会館フォレストホール
+  :address: "〒460-0022 愛知県名古屋市中区金山1-5-1"
+  :latitude: 35.145636
+  :longitude: 136.901928
+  :url: https://nagoya-shimin.hall-info.jp/kaikan/facility/forest_hall.html
+  :capacity: 2296
+- :id: 27
+  :name: 松山市民会館・大ホール
+  :address: "〒790-0007 愛媛県松山市堀之内"
+  :latitude: 33.8408912
+  :longitude: 132.7611973
+  :url: http://www.cul-spo.or.jp/mcph/
+  :capacity: 1999
