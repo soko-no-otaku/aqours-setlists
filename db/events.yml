@@ -4013,3 +4013,280 @@
       :available_in_video: false
       :encore: true
       :size: 
+- :title: ラブライブ！サンシャイン!! Aqours 4th LoveLive! ～Sailing to the Sunshine～
+  :venue: 東京ドーム
+  :tags:
+  - 4th
+  :setlists:
+  - :day_n: Day.1
+    :started_at: 2018-11-17 17:00
+    :setlist:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Step! ZERO to ONE
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 少女以上の恋がしたい
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 決めたよHand in Hand
+      :costumes:
+      - 浦の星女学院制服（冬服）
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Waku-Waku-Week!
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: G線上のシンデレラ
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 想いよひとつになれ
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 聖なる日の祈り
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ジングルベルがとまらない
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MY舞☆TONIGHT
+      :costumes:
+      - MY舞☆TONIGHT
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 待ってて愛のうた
+      :costumes:
+      - MY舞☆TONIGHT
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未熟DREAMER
+      :costumes:
+      - MY舞☆TONIGHT
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MIRAI TICKET
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: キセキヒカル
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Awaken the power
+      :costumes:
+      - MIRAI TICKET
+      - Awaken the power
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: No.10
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes:
+      - Thank you, FRIENDS!!
+      :available_in_video: false
+      :encore: true
+      :size: 
+    - :title: WONDERFUL STORIES
+      :costumes:
+      - Thank you, FRIENDS!!
+      :available_in_video: false
+      :encore: true
+      :size: 
+    - :title: Thank you, FRIENDS!!
+      :costumes:
+      - Thank you, FRIENDS!!
+      :available_in_video: false
+      :encore: true
+      :size: 
+  - :day_n: Day.2
+    :started_at: 2018-11-18 16:00
+    :setlist:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Step! ZERO to ONE
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 少女以上の恋がしたい
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ダイスキだったらダイジョウブ！
+      :costumes:
+      - ダイスキだったらダイジョウブ！
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Waku-Waku-Week!
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: G線上のシンデレラ
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 想いよひとつになれ
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 聖なる日の祈り
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ジングルベルがとまらない
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: MY舞☆TONIGHT
+      :costumes:
+      - MY舞☆TONIGHT
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 待ってて愛のうた
+      :costumes:
+      - MY舞☆TONIGHT
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未熟DREAMER
+      :costumes:
+      - MY舞☆TONIGHT
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: WATER BLUE NEW WORLD
+      :costumes:
+      - WATER BLUE NEW WORLD
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: キセキヒカル
+      :costumes:
+      - WATER BLUE NEW WORLD
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Awaken the power
+      :costumes:
+      - WATER BLUE NEW WORLD
+      - Awaken the power
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: No.10
+      :costumes:
+      - WATER BLUE NEW WORLD
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - WATER BLUE NEW WORLD
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes:
+      - Thank you, FRIENDS!!
+      :available_in_video: false
+      :encore: true
+      :size: 
+    - :title: WONDERFUL STORIES
+      :costumes:
+      - Thank you, FRIENDS!!
+      :available_in_video: false
+      :encore: true
+      :size: 
+    - :title: Thank you, FRIENDS!!
+      :costumes:
+      - Thank you, FRIENDS!!
+      :available_in_video: false
+      :encore: true
+      :size: 
