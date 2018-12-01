@@ -188,3 +188,10 @@
   :longitude: 132.7611973
   :url: http://www.cul-spo.or.jp/mcph/
   :capacity: 1999
+- :id: 28
+  :name: 東京ドーム
+  :address: "〒112-0004 東京都文京区後楽1-3-61"
+  :latitude: 35.7056396
+  :longitude: 139.7518913
+  :url: https://www.tokyo-dome.co.jp/
+  :capacity: 55000
