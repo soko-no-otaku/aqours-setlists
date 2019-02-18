@@ -195,3 +195,10 @@
   :longitude: 139.7518913
   :url: https://www.tokyo-dome.co.jp/
   :capacity: 55000
+- :id: 29
+  :name: 片柳アリーナ
+  :address: "〒144-8655 東京都大田区西蒲田5-23-22"
+  :latitude: 35.56511
+  :longitude: 139.7149228
+  :url: https://www.neec.ac.jp/kamata/facility/2ndbuilding/katayanagi_arena/
+  :capacity: 4000
