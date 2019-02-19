@@ -4304,6 +4304,89 @@
       :available_in_video: true
       :encore: false
       :size: 
+- :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 2018 ユニット対抗全国ツアー 福岡公演
+  :venue: 福岡サンパレス ホテル&ホール
+  :tags:
+  - ファンミ
+  :setlists:
+  - :day_n: 12/2＜1回目＞
+    :started_at: 2018-12-02 15:00
+    :setlist:
+    - :title: Strawberry Trapper
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: コワレヤスキ
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 届かない星だとしても
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Shadow gate to love
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
+  - :day_n: 12/2＜2回目＞
+    :started_at: 2018-12-02 19:00
+    :setlist:
+    - :title: Strawberry Trapper
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: コワレヤスキ
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Pops heartで踊るんだもん！
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Shadow gate to love
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
 - :title: アニソン！プレミアム！
   :venue: 
   :tags:
