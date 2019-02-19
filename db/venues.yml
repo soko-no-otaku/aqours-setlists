@@ -202,3 +202,10 @@
   :longitude: 139.7149228
   :url: https://www.neec.ac.jp/kamata/facility/2ndbuilding/katayanagi_arena/
   :capacity: 4000
+- :id: 30
+  :name: 仙台サンプラザホール
+  :address: "〒983-0852 宮城県仙台市宮城野区榴岡5-11-1"
+  :latitude: 38.2581945
+  :longitude: 140.8943676
+  :url: http://www.sendai-sunplaza.com/hall/
+  :capacity: 2054
