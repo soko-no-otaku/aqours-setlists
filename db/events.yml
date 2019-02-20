@@ -4387,6 +4387,89 @@
       :available_in_video: false
       :encore: true
       :size: 
+- :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 2018 ユニット対抗全国ツアー 仙台公演
+  :venue: 仙台サンプラザホール
+  :tags:
+  - ファンミ
+  :setlists:
+  - :day_n: 12/15＜1回目＞
+    :started_at: 2018-12-15 14:00
+    :setlist:
+    - :title: LONELY TUNING
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ときめき分類学
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 届かない星だとしても
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: トリコリコPLEASE!!
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
+  - :day_n: 12/15＜2回目＞
+    :started_at: 2018-12-15 18:00
+    :setlist:
+    - :title: LONELY TUNING
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ときめき分類学
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 聖なる日の祈り
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: トリコリコPLEASE!!
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
 - :title: アニソン！プレミアム！
   :venue: 
   :tags:
