@@ -4484,3 +4484,17 @@
       :available_in_video: true
       :encore: false
       :size: 
+- :title: 第69回NHK紅白歌合戦
+  :venue: 
+  :tags:
+  - TV番組
+  :setlists:
+  - :day_n: 
+    :started_at: 2018-12-31 19:15
+    :setlist:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: true
+      :encore: false
+      :size: 
