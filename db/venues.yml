@@ -237,3 +237,10 @@
   :longitude: 142.3653216
   :url: http://www1.city.asahikawa.hokkaido.jp/files/bunkashinko/siminbunka/index.htm
   :capacity: 1546
+- :id: 35
+  :name: 武蔵野の森総合スポーツプラザ・メインアリーナ
+  :address: "〒182-0032 東京都調布市西町290-11"
+  :latitude: 35.6650105
+  :longitude: 139.5250569
+  :url: https://www.musamori-plaza.com/facility/mainarena.php
+  :capacity: 10000

@@ -5185,3 +5185,17 @@
       :available_in_video: false
       :encore: true
       :size: 
+- :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 2018 ユニット対抗全国ツアー 最終決戦前夜祭!!
+  :venue: 武蔵野の森総合スポーツプラザ・メインアリーナ
+  :tags:
+  - ファンミ
+  :setlists:
+  - :day_n: 
+    :started_at: 2019-03-01 19:00
+    :setlist:
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: false
+      :size: 
