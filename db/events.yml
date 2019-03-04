@@ -5199,3 +5199,244 @@
       :available_in_video: false
       :encore: false
       :size: 
+- :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 2018 ユニット対抗全国ツアー 東京公演
+  :venue: 武蔵野の森総合スポーツプラザ・メインアリーナ
+  :tags:
+  - ファンミ
+  :setlists:
+  - :day_n: 3/2＜1回目＞
+    :started_at: 2019-03-02 13:00
+    :setlist:
+    - :title: Strawberry Trapper
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Guilty Eyes Fever
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 元気全開DAY!DAY!DAY!
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 海岸通りで待ってるよ
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: トリコリコPLEASE!!
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: LONELY TUNING
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - Strawberry Trapper
+      - 元気全開DAY!DAY!DAY!
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 太陽を追いかけろ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
+  - :day_n: 3/2＜2回目＞
+    :started_at: 2019-03-02 18:00
+    :setlist:
+    - :title: Strawberry Trapper
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Guilty Eyes Fever
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 元気全開DAY!DAY!DAY!
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 海岸通りで待ってるよ
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: トリコリコPLEASE!!
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: LONELY TUNING
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - Strawberry Trapper
+      - 元気全開DAY!DAY!DAY!
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 太陽を追いかけろ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
+  - :day_n: 3/3＜1回目＞
+    :started_at: 2019-03-03 13:00
+    :setlist:
+    - :title: トリコリコPLEASE!!
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: GALAXY HidE and SeeK
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Strawberry Trapper
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: コワレヤスキ
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 元気全開DAY!DAY!DAY!
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 近未来ハッピーエンド
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - GALAXY HidE and SeeK
+      - コワレヤスキ
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: true
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: true
+      :size: 
+  - :day_n: 3/3＜2回目＞
+    :started_at: 2019-03-03 18:00
+    :setlist:
+    - :title: トリコリコPLEASE!!
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: GALAXY HidE and SeeK
+      :costumes:
+      - GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Strawberry Trapper
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: コワレヤスキ
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 元気全開DAY!DAY!DAY!
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 近未来ハッピーエンド
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - GALAXY HidE and SeeK
+      - コワレヤスキ
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: true
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: true
+      :size: 
