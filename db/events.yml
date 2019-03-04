@@ -4634,3 +4634,22 @@
       :available_in_video: false
       :encore: true
       :size: 
+- :title: SDGs推進 TGC しずおか 2019 by TOKYO GIRLS COLLECTION
+  :venue: ツインメッセ静岡 北館大展示場
+  :tags: 
+  :setlists:
+  - :day_n: 
+    :started_at: 2019-01-12 15:00
+    :setlist:
+    - :title: 恋になりたいAQUARIUM
+      :costumes:
+      - 恋になりたいAQUARIUM
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - 恋になりたいAQUARIUM
+      :available_in_video: true
+      :encore: false
+      :size: 
