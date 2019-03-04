@@ -4819,3 +4819,125 @@
       :available_in_video: false
       :encore: true
       :size: 
+- :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 2018 ユニット対抗全国ツアー 旭川公演
+  :venue: 旭川市民文化会館
+  :tags:
+  - ファンミ
+  :setlists:
+  - :day_n: 1/26
+    :started_at: 2019-1-26 18:00
+    :setlist:
+    - :title: Guilty Eyes Fever
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: コワレヤスキ
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 空も心も晴れるから
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Shadow gate to love
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
+  - :day_n: 1/27＜1回目＞
+    :started_at: 2019-1-27 13:00
+    :setlist:
+    - :title: Guilty Eyes Fever
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: コワレヤスキ
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 届かない星だとしても
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Shadow gate to love
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
+  - :day_n: 1/27＜2回目＞
+    :started_at: 2019-1-27 17:00
+    :setlist:
+    - :title: Guilty Eyes Fever
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: コワレヤスキ
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Step! ZERO to ONE
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Shadow gate to love
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 

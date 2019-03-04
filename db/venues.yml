@@ -230,3 +230,10 @@
   :longitude: 136.665024
   :url: http://www.hondanomori-hall.com/index.html
   :capacity: 1707
+- :id: 34
+  :name: 旭川市民文化会館
+  :address: "〒070-0037 北海道旭川市7条通9丁目"
+  :latitude: 43.7721495
+  :longitude: 142.3653216
+  :url: http://www1.city.asahikawa.hokkaido.jp/files/bunkashinko/siminbunka/index.htm
+  :capacity: 1546
