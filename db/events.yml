@@ -5063,3 +5063,125 @@
       :available_in_video: false
       :encore: true
       :size: 
+- :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 2018 ユニット対抗全国ツアー 大阪公演
+  :venue: オリックス劇場
+  :tags:
+  - ファンミ
+  :setlists:
+  - :day_n: 2/16
+    :started_at: 2019-02-16 18:00
+    :setlist:
+    - :title: 近未来ハッピーエンド
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 海岸通りで待ってるよ
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 届かない星だとしても
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 夜空はなんでも知ってるの？
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
+  - :day_n: 2/17＜1回目＞
+    :started_at: 2019-02-17 13:00
+    :setlist:
+    - :title: 近未来ハッピーエンド
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 海岸通りで待ってるよ
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Step! ZERO to ONE
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 夜空はなんでも知ってるの？
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
+  - :day_n: 2/17＜2回目＞
+    :started_at: 2019-02-17 17:00
+    :setlist:
+    - :title: 近未来ハッピーエンド
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 海岸通りで待ってるよ
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 空も心も晴れるから
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 夜空はなんでも知ってるの？
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
