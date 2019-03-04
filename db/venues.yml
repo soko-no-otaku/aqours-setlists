@@ -223,3 +223,10 @@
   :longitude: 132.4485924
   :url: https://h-bkk.jp/hall/
   :capacity: 2001
+- :id: 33
+  :name: 本多の森ホール
+  :address: "〒920-0935 石川県金沢市石引4-17-1"
+  :latitude: 36.558479
+  :longitude: 136.665024
+  :url: http://www.hondanomori-hall.com/index.html
+  :capacity: 1707
