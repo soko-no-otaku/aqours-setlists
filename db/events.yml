@@ -4498,3 +4498,17 @@
       :available_in_video: true
       :encore: false
       :size: 
+- :title: CDTVスペシャル！年越しプレミアライブ2018→2019
+  :venue: 
+  :tags:
+  - TV番組
+  :setlists:
+  - :day_n: 
+    :started_at: 2018-12-31 23:55
+    :setlist:
+    - :title: MY舞☆TONIGHT
+      :costumes:
+      - MY舞☆TONIGHT
+      :available_in_video: true
+      :encore: false
+      :size: 
