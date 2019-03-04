@@ -1,5 +1,5 @@
 class Song < ApplicationRecord
-  include ActionView::Helpers::DateHelper
+  include ApplicationHelper
 
   has_many :setlist_songs
   has_many :setlists, -> { order(started_at: :asc) }, through: :setlist_songs
@@ -29,7 +29,7 @@ class Song < ApplicationRecord
 
   def tweet_text
     if setlists.present?
-      "「#{title}」はこれまでに#{performed_count}回披露されていて、最後に披露されたイベントは「#{last_performed_event_full_title}」です。"
+      "「#{title}」はこれまでに#{performed_count}回披露されていて、最後に披露されたイベントは「#{last_performed_event_full_title}」（#{days_ago_in_words(setlists.last.started_at)}）です。"
     else
       "「#{title}」はこれまでにライブで披露されたことがありません。"
     end
