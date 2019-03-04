@@ -34,11 +34,11 @@
             - if @song.performed_count > 0
               tr
                 th 最後に披露されたイベント
-                td = link_to @song.last_performed_event.title, @song.last_performed_event
+                td = link_to @song.last_performed_event_full_title, @song.last_performed_event
                 td = days_ago_in_words(@song.setlists.last.started_at)
               tr
                 th 最初に披露されたイベント
-                td = link_to @song.first_performed_event.title, @song.first_performed_event
+                td = link_to @song.first_performed_event_full_title, @song.first_performed_event
                 td
 
       - if @song.performed_count > 0

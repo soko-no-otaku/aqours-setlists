@@ -19,9 +19,17 @@ class Song < ApplicationRecord
     setlists.first&.event
   end
 
+  def last_performed_event_full_title
+    [setlists.last.event.title, setlists.last.day_n].join(' ')
+  end
+
+  def first_performed_event_full_title
+    [setlists.first.event.title, setlists.first.day_n].join(' ')
+  end
+
   def tweet_text
-    if last_performed_event
-      "「#{title}」はこれまでに#{performed_count}回披露されていて、最後に披露されたイベントは「#{last_performed_event.title}」です。"
+    if setlists.present?
+      "「#{title}」はこれまでに#{performed_count}回披露されていて、最後に披露されたイベントは「#{last_performed_event_full_title}」です。"
     else
       "「#{title}」はこれまでにライブで披露されたことがありません。"
     end
