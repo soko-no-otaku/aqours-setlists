@@ -4941,3 +4941,125 @@
       :available_in_video: false
       :encore: true
       :size: 
+- :title: ラブライブ！サンシャイン!!Aqours クラブ活動 LIVE & FAN MEETING 2018 ユニット対抗全国ツアー 沼津公演
+  :venue: 沼津市民文化センター 大ホール
+  :tags:
+  - ファンミ
+  :setlists:
+  - :day_n: 2/9
+    :started_at: 2019-02-09 18:00
+    :setlist:
+    - :title: 近未来ハッピーエンド
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 元気全開DAY!DAY!DAY!
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 空も心も晴れるから
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 夜空はなんでも知ってるの？
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
+  - :day_n: 2/10＜1回目＞
+    :started_at: 2019-2-10 13:00
+    :setlist:
+    - :title: LONELY TUNING
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: INNOCENT BIRD
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 届かない星だとしても
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ときめき分類学
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
+  - :day_n: 2/10＜2回目＞
+    :started_at: 2019-02-10 17:00
+    :setlist:
+    - :title: Strawberry Trapper
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Guilty Night, Guilty Kiss!
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Pops heartで踊るんだもん！
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: Guilty Eyes Fever
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size: 
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - ユニットTシャツ
+      :available_in_video: false
+      :encore: true
+      :size: 
