@@ -43,12 +43,12 @@
                 tr
                   td.position.right-align = 'M' + sprintf('%02d', i)
                   td = link_to setlist_song.song.title, setlist_song.song
-                  td.text-grey.text-darken-1 = setlist_song.costume_list.join(', ')
+                  td.grey-text.text-darken-1 = setlist_song.costume_list.join(', ')
               - setlist.setlist_songs.select { |setlist_song| setlist_song.encore }.each.with_index(1) do |setlist_song, i|
                 tr
                   td.position.right-align = 'EN' + sprintf('%02d', i)
                   td = link_to setlist_song.song.title, setlist_song.song
-                  td.text-grey.text-darken-1 = setlist_song.costume_list.join(', ')
+                  td.grey-text.text-darken-1 = setlist_song.costume_list.join(', ')
 
     .card-content
       .row
