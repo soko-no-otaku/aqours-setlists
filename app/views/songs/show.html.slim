@@ -56,7 +56,7 @@
                   - setlist = setlist_song.setlist
                   tr
                     td.hide-on-small-only
-                      = l setlist.started_at
+                      = l setlist.started_at, format: :short
                     td
                       = link_to [setlist.event.title, setlist.day_n].join(' '), setlist.event
                     td
