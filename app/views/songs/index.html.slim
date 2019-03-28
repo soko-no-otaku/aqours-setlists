@@ -1,45 +1,47 @@
 .container
   .card
     .card-content
-      span.card-title = "楽曲一覧（全#{Song.count}曲）"
-      .row
-        .col.s12
-          .section
-            javascript:
-                function reorder() {
-                    var order = document.getElementById('order').value;
-                    location.search = '?sort=' + order;
-                }
-            label 並び替え
-            select#order onchange="reorder()"
-              - {release: '発売日', frequency: 'これまでに披露された回数', recent: '最後に披露されたイベント'}.each do |key, text|
-                option[value=key selected=('selected' if params[:sort] == key.to_s)] = text
-            table.striped
-              thead
-                tr
-                  th タイトル
-                  th.hide-on-small-only.col-10em 披露された回数
-                  th.hide-on-small-only.col-10em 発売日
-
-              tbody
-                - @performed_songs.each do |song|
-                  tr
-                    td = link_to song.title, song
-                    td.hide-on-small-only.col-10em = "#{song.performed_count}回"
-                    td.hide-on-small-only.col-10em = l song.released_at
-
-          .section
-            h5 = "未披露の楽曲（#{@prospective_songs.size}曲）"
-            table.striped
-              thead
-                tr
-                  th タイトル
-                  th.hide-on-small-only.col-10em 披露された回数
-                  th.hide-on-small-only.col-10em 発売日
-
-              tbody
-                - @prospective_songs.each do |song|
-                  tr
-                    td = link_to song.title, song
-                    td.hide-on-small-only.col-10em 0回
-                    td.hide-on-small-only.col-10em = l song.released_at
+      span.card-title 楽曲一覧
+      p = "全#{Song.count}曲"
+    .card-tabs
+      ul.tabs.tabs-fixed-width
+        li.tab
+          a href="#release" 発売日
+        li.tab
+          a href="#frequency" 披露回数
+        li.tab
+          a href="#recent" 最後の披露イベント
+    .card-content
+      #release
+        .row
+          .col.s12
+            .section
+              table.striped
+                tbody
+                  - @recently_released_songs.each do |song|
+                    tr
+                      td = link_to song.title, song
+                      td.right-align = l song.released_at
+      #frequency
+        .row
+          .col.s12
+            .section
+              table.striped
+                tbody
+                  - @frequently_performed_songs.each do |song|
+                    tr
+                      td = link_to song.title, song
+                      td.right-align = "#{song.performed_count}回"
+      #recent
+        .row
+          .col.s12
+            .section
+              table.striped
+                tbody
+                  - @recently_performed_songs.each do |song|
+                    tr
+                      td = link_to song.title, song
+                      - if song.setlist_songs.present?
+                        td.right-align = days_ago_in_words(song.setlists.last.started_at)
+                      - else
+                        td.right-align
