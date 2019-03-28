@@ -7,9 +7,9 @@ module ApplicationHelper
   end
 
   def period_in_words(start_date, end_date)
-    [start_date, end_date].uniq.map do |date|
+    raw([start_date, end_date].uniq.map do |date|
       l date, format: :short
-    end.join('～')
+    end.join('～<br>'))
   end
 
   def tweet_button(tweet_text)

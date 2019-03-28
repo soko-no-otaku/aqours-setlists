@@ -1,7 +1,8 @@
 .container
   .card
     .card-content
-      span.card-title = "イベント一覧（累計#{Event.count}イベント#{Setlist.count}公演 / 延べ#{SetlistSong.count}曲）"
+      span.card-title イベント一覧
+      p = "累計#{Event.count}イベント#{Setlist.count}公演 / のべ#{SetlistSong.count}曲"
       .row
         .col.s12
           - @events.group_by {|event| event.setlists.first.started_at.year}.each do |year, events|
@@ -9,12 +10,6 @@
               h5 = year
 
               table.striped
-                thead
-                  tr
-                    th.event-period 開演
-                    th イベントタイトル
-                    th.col-10em.hide-on-small-only
-
                 tbody
                   - events.each do |event|
                     tr
