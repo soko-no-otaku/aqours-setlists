@@ -41,7 +41,4 @@
                   - @recently_performed_songs.each do |song|
                     tr
                       td = link_to song.title, song
-                      - if song.setlist_songs.present?
-                        td.right-align = days_ago_in_words(song.setlists.last.started_at)
-                      - else
-                        td.right-align
+                      td.right-align = days_ago_in_words(song.setlists.last.started_at)

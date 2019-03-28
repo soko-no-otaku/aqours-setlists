@@ -10,12 +10,10 @@ class SongsController < ApplicationController
       -song.performed_count
     end
 
-    @recently_performed_songs = @recently_released_songs.sort_by do |song|
-      if song.setlist_songs.present?
-        -song.setlist_songs.last.id
-      else
-        1
-      end
+    @recently_performed_songs = @recently_released_songs.select do |song|
+      song.setlist_songs.present?
+    end.sort_by do |song|
+      song.setlist_songs.last.id
     end
   end
 
