@@ -5644,3 +5644,615 @@
       :available_in_video: false
       :encore: true
       :size:
+- :title: LOVE LIVE! SUNSHINE!! Aqours World LoveLive! ASIA TOUR 2019 台北公演
+  :venue: TICC (Taipei International Convention Center)
+  :tags:
+  - アジアツアー
+  - 海外
+  :setlists:
+  - :day_n: 1日目
+    :started_at: 2019-04-06 18:00
+    :setlist:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 決めたよHand in Hand
+      :costumes:
+      - 浦の星女学院制服（冬服）
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ダイスキだったらダイジョウブ！
+      :costumes:
+      - ダイスキだったらダイジョウブ！
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 夢で夜空を照らしたい
+      :costumes:
+      - 夢で夜空を照らしたい
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 未熟DREAMER
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Landing action Yeah!!
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 届かない星だとしても
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 想いよひとつになれ
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ハミングフレンド
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: MIRAI TICKET
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 恋になりたいAQUARIUM
+      :costumes:
+      - ライブTシャツ（アジアツアー台北）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Step! ZERO to ONE
+      :costumes:
+      - ライブTシャツ（アジアツアー台北）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: No.10
+      :costumes:
+      - ライブTシャツ（アジアツアー台北）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Thank you, FRIENDS!!
+      :costumes:
+      - ライブTシャツ（アジアツアー台北）
+      :available_in_video: false
+      :encore: true
+      :size:
+  - :day_n: 2日目
+    :started_at: 2019-04-07 16:00
+    :setlist:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 決めたよHand in Hand
+      :costumes:
+      - 浦の星女学院制服（冬服）
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ダイスキだったらダイジョウブ！
+      :costumes:
+      - ダイスキだったらダイジョウブ！
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 夢で夜空を照らしたい
+      :costumes:
+      - 夢で夜空を照らしたい
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 未熟DREAMER
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Landing action Yeah!!
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 届かない星だとしても
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 想いよひとつになれ
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ハミングフレンド
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: MIRAI TICKET
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: HAPPY PARTY TRAIN
+      :costumes:
+      - ライブTシャツ（アジアツアー台北）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Step! ZERO to ONE
+      :costumes:
+      - ライブTシャツ（アジアツアー台北）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: No.10
+      :costumes:
+      - ライブTシャツ（アジアツアー台北）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Thank you, FRIENDS!!
+      :costumes:
+      - ライブTシャツ（アジアツアー台北）
+      :available_in_video: false
+      :encore: true
+      :size:
+- :title: LOVE LIVE! SUNSHINE!! Aqours World LoveLive! ASIA TOUR 2019 千葉公演
+  :venue: 幕張イベントホール
+  :tags:
+  - アジアツアー
+  - 海外
+  :setlists:
+  - :day_n: 1日目
+    :started_at: 2019-04-13 17:30
+    :setlist:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 決めたよHand in Hand
+      :costumes:
+      - 浦の星女学院制服（冬服）
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ダイスキだったらダイジョウブ！
+      :costumes:
+      - ダイスキだったらダイジョウブ！
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 夢で夜空を照らしたい
+      :costumes:
+      - 夢で夜空を照らしたい
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 未熟DREAMER
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Landing action Yeah!!
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 届かない星だとしても
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 想いよひとつになれ
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ハミングフレンド
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: MIRAI TICKET
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 恋になりたいAQUARIUM
+      :costumes:
+      - ライブTシャツ（アジアツアー千葉）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Step! ZERO to ONE
+      :costumes:
+      - ライブTシャツ（アジアツアー千葉）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: No.10
+      :costumes:
+      - ライブTシャツ（アジアツアー千葉）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Thank you, FRIENDS!!
+      :costumes:
+      - ライブTシャツ（アジアツアー千葉）
+      :available_in_video: false
+      :encore: true
+      :size:
+  - :day_n: 2日目
+    :started_at: 2019-04-14 16:00
+    :setlist:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 決めたよHand in Hand
+      :costumes:
+      - 浦の星女学院制服（冬服）
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ダイスキだったらダイジョウブ！
+      :costumes:
+      - ダイスキだったらダイジョウブ！
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 夢で夜空を照らしたい
+      :costumes:
+      - 夢で夜空を照らしたい
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 未熟DREAMER
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Landing action Yeah!!
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 届かない星だとしても
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 想いよひとつになれ
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ハミングフレンド
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: MIRAI TICKET
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: HAPPY PARTY TRAIN
+      :costumes:
+      - ライブTシャツ（アジアツアー千葉）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Step! ZERO to ONE
+      :costumes:
+      - ライブTシャツ（アジアツアー千葉）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: No.10
+      :costumes:
+      - ライブTシャツ（アジアツアー千葉）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Thank you, FRIENDS!!
+      :costumes:
+      - ライブTシャツ（アジアツアー千葉）
+      :available_in_video: false
+      :encore: true
+      :size:
+- :title: LOVE LIVE! SUNSHINE!! Aqours World LoveLive! ASIA TOUR 2019 ソウル公演
+  :venue: 高麗大学 化汀体育館 (KOREA UNIVERSITY, HWA-JEONG TIGER DOME)
+  :tags:
+  - アジアツアー
+  - 海外
+  :setlists:
+  - :day_n: 1日目
+    :started_at: 2019-04-20 18:00
+    :setlist:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 決めたよHand in Hand
+      :costumes:
+      - 浦の星女学院制服（冬服）
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ダイスキだったらダイジョウブ！
+      :costumes:
+      - ダイスキだったらダイジョウブ！
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 夢で夜空を照らしたい
+      :costumes:
+      - 夢で夜空を照らしたい
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 未熟DREAMER
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Landing action Yeah!!
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 届かない星だとしても
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 想いよひとつになれ
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ハミングフレンド
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: MIRAI TICKET
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 恋になりたいAQUARIUM
+      :costumes:
+      - ライブTシャツ（アジアツアーソウル）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Step! ZERO to ONE
+      :costumes:
+      - ライブTシャツ（アジアツアーソウル）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: No.10
+      :costumes:
+      - ライブTシャツ（アジアツアーソウル）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Thank you, FRIENDS!!
+      :costumes:
+      - ライブTシャツ（アジアツアーソウル）
+      :available_in_video: false
+      :encore: true
+      :size:
+  - :day_n: 2日目
+    :started_at: 2019-04-21 16:00
+    :setlist:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 決めたよHand in Hand
+      :costumes:
+      - 浦の星女学院制服（冬服）
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ダイスキだったらダイジョウブ！
+      :costumes:
+      - ダイスキだったらダイジョウブ！
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 夢で夜空を照らしたい
+      :costumes:
+      - 夢で夜空を照らしたい
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 未熟DREAMER
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Landing action Yeah!!
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 届かない星だとしても
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 想いよひとつになれ
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ハミングフレンド
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: MIRAI TICKET
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: HAPPY PARTY TRAIN
+      :costumes:
+      - ライブTシャツ（アジアツアーソウル）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Step! ZERO to ONE
+      :costumes:
+      - ライブTシャツ（アジアツアーソウル）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: No.10
+      :costumes:
+      - ライブTシャツ（アジアツアーソウル）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Thank you, FRIENDS!!
+      :costumes:
+      - ライブTシャツ（アジアツアーソウル）
+      :available_in_video: false
+      :encore: true
+      :size:
