@@ -5387,37 +5387,37 @@
     - :title: トリコリコPLEASE!!
       :costumes:
       - GALAXY HidE and SeeK
-      :available_in_video: false
+      :available_in_video: true
       :encore: false
       :size:
     - :title: GALAXY HidE and SeeK
       :costumes:
       - GALAXY HidE and SeeK
-      :available_in_video: false
+      :available_in_video: true
       :encore: false
       :size:
     - :title: Strawberry Trapper
       :costumes:
       - コワレヤスキ
-      :available_in_video: false
+      :available_in_video: true
       :encore: false
       :size:
     - :title: コワレヤスキ
       :costumes:
       - コワレヤスキ
-      :available_in_video: false
+      :available_in_video: true
       :encore: false
       :size:
     - :title: 元気全開DAY!DAY!DAY!
       :costumes:
       - 近未来ハッピーエンド
-      :available_in_video: false
+      :available_in_video: true
       :encore: false
       :size:
     - :title: 近未来ハッピーエンド
       :costumes:
       - 近未来ハッピーエンド
-      :available_in_video: false
+      :available_in_video: true
       :encore: false
       :size:
     - :title: 勇気はどこに？君の胸に！
@@ -5425,19 +5425,19 @@
       - GALAXY HidE and SeeK
       - コワレヤスキ
       - 近未来ハッピーエンド
-      :available_in_video: false
+      :available_in_video: true
       :encore: false
       :size:
     - :title: 君のこころは輝いてるかい？
       :costumes:
       - 君のこころは輝いてるかい？
-      :available_in_video: false
+      :available_in_video: true
       :encore: true
       :size:
     - :title: ホップ・ステップ・ワーイ！
       :costumes:
       - 君のこころは輝いてるかい？
-      :available_in_video: false
+      :available_in_video: true
       :encore: true
       :size:
 - :title: LOVE LIVE! SUNSHINE!! Aqours World LoveLive! ASIA TOUR 2019 上海公演
