@@ -88,8 +88,8 @@
   :address: "〒135-0064 東京都江東区青海1-1-17"
   :latitude: 35.623442
   :longitude: 139.7749545
-  :url: 
-  :capacity: 
+  :url:
+  :capacity:
 - :id: 14
   :name: オリックス劇場
   :address: "〒550-0013 大阪府大阪市西区新町1-14-15"
@@ -130,8 +130,8 @@
   :address: 200072 上海市静安区汶水路116号
   :latitude: 31.2909638
   :longitude: 121.4401609
-  :url: 
-  :capacity: 
+  :url:
+  :capacity: 3000
 - :id: 20
   :name: 名古屋国際会議場 センチュリーホール
   :address: "〒456-0036 愛知県名古屋市熱田区熱田西町1-1"
@@ -249,5 +249,61 @@
   :address: 201702 上海市青浦区崧泽大道333号
   :latitude: 31.190593
   :longitude: 121.302221
-  :url: http://www.neccsh.com/cecsh/
-  :capacity: 
+  :url: https://www.neccsh.com/cecsh/exhibition/venue.jspx
+  :capacity: 8000
+- :id: 37
+  :name: 高麗大学 化汀体育館
+  :address: "145 Anam-ro, Anam-dong, Seongbuk-gu, Seoul"
+  :latitude: 37.5926563
+  :longitude: 127.0226809
+  :url: http://hwajung.korea.ac.kr/main.do
+  :capacity: 8057
+- :id: 38
+  :name: 幕張メッセ 国際展示場9-11ホール
+  :address: "〒261-0023 千葉県千葉市美浜区中瀬2丁目5"
+  :latitude: 35.6490559
+  :longitude: 140.0333399
+  :url: https://www.m-messe.co.jp/organizers/guide/exhibitionhall/guide_exibition9-11
+  :capacity: 15000
+- :id: 39
+  :name: The Novo
+  :address: "800 West Olympic Blvd. Los Angeles, CA 90015"
+  :latitude: 34.0447998
+  :longitude: -118.267459
+  :url: https://www.thenovodtla.com/venueinfo
+  :capacity: 2300
+- :id: 40
+  :name: TBS放送センター
+  :address: "〒107-0052 東京都港区赤坂5丁目3-6"
+  :latitude: 35.6716556
+  :longitude: 139.7324778
+  :url: http://www.tbs.co.jp/company/information/
+  :capacity:
+- :id: 41
+  :name: NHK放送センター
+  :address: "〒150-0041 東京都渋谷区神南2丁目2-1"
+  :latitude: 35.6649241
+  :longitude: 139.6938945
+  :url: https://www.nhk.or.jp/kengaku/
+  :capacity:
+- :id: 42
+  :name: Javits Center's Special Events Hall
+  :address: "429 11th Avenue New York, NY 10001"
+  :latitude: 40.7523569
+  :longitude: -74.0056454
+  :url: https://javitscenter.com/plan/special-events/
+  :capacity: 3500
+- :id: 43
+  :name: フジテレビ湾岸スタジオ
+  :address: "〒135-0064 東京都江東区青海2丁目3-23"
+  :latitude: 35.6203148
+  :longitude: 139.7765983
+  :url: https://www.fujitv.co.jp/gotofujitv/studio/
+  :capacity:
+- :id: 44
+  :name: 西日本総合展示場 新館 ABC
+  :address: "〒802-0001 福岡県北九州市小倉北区浅野3丁目8-1"
+  :latitude: 33.890077
+  :longitude: 130.8836349
+  :url: http://convention-a.jp/nishiten-shinkan/
+  :capacity: 8000

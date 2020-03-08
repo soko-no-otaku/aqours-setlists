@@ -5387,37 +5387,37 @@
     - :title: トリコリコPLEASE!!
       :costumes:
       - GALAXY HidE and SeeK
-      :available_in_video: false
+      :available_in_video: true
       :encore: false
       :size:
     - :title: GALAXY HidE and SeeK
       :costumes:
       - GALAXY HidE and SeeK
-      :available_in_video: false
+      :available_in_video: true
       :encore: false
       :size:
     - :title: Strawberry Trapper
       :costumes:
       - コワレヤスキ
-      :available_in_video: false
+      :available_in_video: true
       :encore: false
       :size:
     - :title: コワレヤスキ
       :costumes:
       - コワレヤスキ
-      :available_in_video: false
+      :available_in_video: true
       :encore: false
       :size:
     - :title: 元気全開DAY!DAY!DAY!
       :costumes:
       - 近未来ハッピーエンド
-      :available_in_video: false
+      :available_in_video: true
       :encore: false
       :size:
     - :title: 近未来ハッピーエンド
       :costumes:
       - 近未来ハッピーエンド
-      :available_in_video: false
+      :available_in_video: true
       :encore: false
       :size:
     - :title: 勇気はどこに？君の胸に！
@@ -5425,19 +5425,19 @@
       - GALAXY HidE and SeeK
       - コワレヤスキ
       - 近未来ハッピーエンド
-      :available_in_video: false
+      :available_in_video: true
       :encore: false
       :size:
     - :title: 君のこころは輝いてるかい？
       :costumes:
       - 君のこころは輝いてるかい？
-      :available_in_video: false
+      :available_in_video: true
       :encore: true
       :size:
     - :title: ホップ・ステップ・ワーイ！
       :costumes:
       - 君のこころは輝いてるかい？
-      :available_in_video: false
+      :available_in_video: true
       :encore: true
       :size:
 - :title: LOVE LIVE! SUNSHINE!! Aqours World LoveLive! ASIA TOUR 2019 上海公演
@@ -5446,7 +5446,7 @@
   - アジアツアー
   - 海外
   :setlists:
-  - :day_n: 1日目
+  - :day_n: Day.1
     :started_at: 2019-03-23 18:00
     :setlist:
     - :title: 青空Jumping Heart
@@ -5545,7 +5545,7 @@
       :available_in_video: false
       :encore: true
       :size:
-  - :day_n: 2日目
+  - :day_n: Day.2
     :started_at: 2019-03-24 16:00
     :setlist:
     - :title: 青空Jumping Heart
@@ -5641,6 +5641,2087 @@
     - :title: Thank you, FRIENDS!!
       :costumes:
       - ライブTシャツ（アジアツアー上海）
+      :available_in_video: false
+      :encore: true
+      :size:
+- :title: LOVE LIVE! SUNSHINE!! Aqours World LoveLive! ASIA TOUR 2019 台北公演
+  :venue: 台北國際會議中心（TICC）
+  :tags:
+  - アジアツアー
+  - 海外
+  :setlists:
+  - :day_n: Day.1
+    :started_at: 2019-04-06 18:00
+    :setlist:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 決めたよHand in Hand
+      :costumes:
+      - 浦の星女学院制服（冬服）
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ダイスキだったらダイジョウブ！
+      :costumes:
+      - ダイスキだったらダイジョウブ！
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 夢で夜空を照らしたい
+      :costumes:
+      - 夢で夜空を照らしたい
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 未熟DREAMER
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Landing action Yeah!!
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 届かない星だとしても
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 想いよひとつになれ
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ハミングフレンド
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: MIRAI TICKET
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 恋になりたいAQUARIUM
+      :costumes:
+      - ライブTシャツ（アジアツアー台北）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Step! ZERO to ONE
+      :costumes:
+      - ライブTシャツ（アジアツアー台北）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: No.10
+      :costumes:
+      - ライブTシャツ（アジアツアー台北）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Thank you, FRIENDS!!
+      :costumes:
+      - ライブTシャツ（アジアツアー台北）
+      :available_in_video: false
+      :encore: true
+      :size:
+  - :day_n: Day.2
+    :started_at: 2019-04-07 16:00
+    :setlist:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 決めたよHand in Hand
+      :costumes:
+      - 浦の星女学院制服（冬服）
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ダイスキだったらダイジョウブ！
+      :costumes:
+      - ダイスキだったらダイジョウブ！
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 夢で夜空を照らしたい
+      :costumes:
+      - 夢で夜空を照らしたい
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 未熟DREAMER
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Landing action Yeah!!
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 届かない星だとしても
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 想いよひとつになれ
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ハミングフレンド
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: MIRAI TICKET
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: HAPPY PARTY TRAIN
+      :costumes:
+      - ライブTシャツ（アジアツアー台北）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Step! ZERO to ONE
+      :costumes:
+      - ライブTシャツ（アジアツアー台北）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: No.10
+      :costumes:
+      - ライブTシャツ（アジアツアー台北）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Thank you, FRIENDS!!
+      :costumes:
+      - ライブTシャツ（アジアツアー台北）
+      :available_in_video: false
+      :encore: true
+      :size:
+- :title: LOVE LIVE! SUNSHINE!! Aqours World LoveLive! ASIA TOUR 2019 千葉公演
+  :venue: 幕張メッセ イベントホール
+  :tags:
+  - アジアツアー
+  :setlists:
+  - :day_n: Day.1
+    :started_at: 2019-04-13 17:30
+    :setlist:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 決めたよHand in Hand
+      :costumes:
+      - 浦の星女学院制服（冬服）
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ダイスキだったらダイジョウブ！
+      :costumes:
+      - ダイスキだったらダイジョウブ！
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 夢で夜空を照らしたい
+      :costumes:
+      - 夢で夜空を照らしたい
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 未熟DREAMER
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Landing action Yeah!!
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 届かない星だとしても
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 想いよひとつになれ
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ハミングフレンド
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: MIRAI TICKET
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 恋になりたいAQUARIUM
+      :costumes:
+      - ライブTシャツ（アジアツアー千葉）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Step! ZERO to ONE
+      :costumes:
+      - ライブTシャツ（アジアツアー千葉）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: No.10
+      :costumes:
+      - ライブTシャツ（アジアツアー千葉）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Thank you, FRIENDS!!
+      :costumes:
+      - ライブTシャツ（アジアツアー千葉）
+      :available_in_video: false
+      :encore: true
+      :size:
+  - :day_n: Day.2
+    :started_at: 2019-04-14 16:00
+    :setlist:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 決めたよHand in Hand
+      :costumes:
+      - 浦の星女学院制服（冬服）
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ダイスキだったらダイジョウブ！
+      :costumes:
+      - ダイスキだったらダイジョウブ！
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 夢で夜空を照らしたい
+      :costumes:
+      - 夢で夜空を照らしたい
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 未熟DREAMER
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Landing action Yeah!!
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 届かない星だとしても
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 想いよひとつになれ
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ハミングフレンド
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: MIRAI TICKET
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: HAPPY PARTY TRAIN
+      :costumes:
+      - ライブTシャツ（アジアツアー千葉）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Step! ZERO to ONE
+      :costumes:
+      - ライブTシャツ（アジアツアー千葉）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: No.10
+      :costumes:
+      - ライブTシャツ（アジアツアー千葉）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Thank you, FRIENDS!!
+      :costumes:
+      - ライブTシャツ（アジアツアー千葉）
+      :available_in_video: false
+      :encore: true
+      :size:
+- :title: LOVE LIVE! SUNSHINE!! Aqours World LoveLive! ASIA TOUR 2019 ソウル公演
+  :venue: 高麗大学 化汀体育館
+  :tags:
+  - アジアツアー
+  - 海外
+  :setlists:
+  - :day_n: Day.1
+    :started_at: 2019-04-20 18:00
+    :setlist:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 決めたよHand in Hand
+      :costumes:
+      - 浦の星女学院制服（冬服）
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ダイスキだったらダイジョウブ！
+      :costumes:
+      - ダイスキだったらダイジョウブ！
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 夢で夜空を照らしたい
+      :costumes:
+      - 夢で夜空を照らしたい
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 未熟DREAMER
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Landing action Yeah!!
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 届かない星だとしても
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 想いよひとつになれ
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ハミングフレンド
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: MIRAI TICKET
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 恋になりたいAQUARIUM
+      :costumes:
+      - ライブTシャツ（アジアツアーソウル）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Step! ZERO to ONE
+      :costumes:
+      - ライブTシャツ（アジアツアーソウル）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: No.10
+      :costumes:
+      - ライブTシャツ（アジアツアーソウル）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Thank you, FRIENDS!!
+      :costumes:
+      - ライブTシャツ（アジアツアーソウル）
+      :available_in_video: false
+      :encore: true
+      :size:
+  - :day_n: Day.2
+    :started_at: 2019-04-21 16:00
+    :setlist:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 決めたよHand in Hand
+      :costumes:
+      - 浦の星女学院制服（冬服）
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ダイスキだったらダイジョウブ！
+      :costumes:
+      - ダイスキだったらダイジョウブ！
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 夢で夜空を照らしたい
+      :costumes:
+      - 夢で夜空を照らしたい
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 未熟DREAMER
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Landing action Yeah!!
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 届かない星だとしても
+      :costumes:
+      - 未熟DREAMER
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 想いよひとつになれ
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ハミングフレンド
+      :costumes:
+      - 想いよひとつになれ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: MIRAI TICKET
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: HAPPY PARTY TRAIN
+      :costumes:
+      - ライブTシャツ（アジアツアーソウル）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Step! ZERO to ONE
+      :costumes:
+      - ライブTシャツ（アジアツアーソウル）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: No.10
+      :costumes:
+      - ライブTシャツ（アジアツアーソウル）
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Thank you, FRIENDS!!
+      :costumes:
+      - ライブTシャツ（アジアツアーソウル）
+      :available_in_video: false
+      :encore: true
+      :size:
+- :title: ラブライブ！サンシャイン!! Aqours 5th LoveLive! ～Next SPARKLING!!～
+  :venue: メットライフドーム
+  :tags:
+  - 5th
+  :setlists:
+  - :day_n: Day.1
+    :started_at: 2019-06-08 17:00
+    :setlist:
+    - :title: 僕らの走ってきた道は…
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: スリリング・ワンウェイ
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: SKY JOURNEY
+      :costumes:
+      - 僕らの走ってきた道は… + SKY JOURNEY ジャケット
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: Daydream Warrior
+      :costumes:
+      - 僕らの走ってきた道は… + SKY JOURNEY ジャケット
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 逃走迷走メビウスループ
+      :costumes:
+      - 逃走迷走メビウスループ
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 予測不可能Driving!
+      :costumes:
+      - 逃走迷走メビウスループ
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: Marine Border Parasol
+      :costumes:
+      - Hop? Stop? Nonstop!
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: ハジマリロード
+      :costumes:
+      - Hop? Stop? Nonstop!
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: Hop? Stop? Nonstop!
+      :costumes:
+      - Hop? Stop? Nonstop!
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 恋になりたいAQUARIUM
+      :costumes:
+      - 恋になりたいAQUARIUM
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 君の瞳を巡る冒険
+      :costumes:
+      - 恋になりたいAQUARIUM
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 未来の僕らは知ってるよ
+      :costumes:
+      - 恋になりたいAQUARIUM
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: SELF CONTROL!!
+      :costumes:
+      - Believe again
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: Believe again
+      :costumes:
+      - Believe again
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: Brightest Melody
+      :costumes:
+      - Brightest Melody
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: Over The Next Rainbow
+      :costumes:
+      - Brightest Melody
+      - Believe again
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - Brightest Melody
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 卒業ですね
+      :costumes:
+      - 浦の星女学院制服（冬服）
+      :available_in_video: true
+      :encore: true
+      :size:
+    - :title: Guilty!? Farewell party
+      :costumes:
+      - Guilty!? Farewell party
+      :available_in_video: true
+      :encore: true
+      :size:
+    - :title: サクラバイバイ
+      :costumes:
+      - サクラバイバイ
+      :available_in_video: true
+      :encore: true
+      :size:
+    - :title: Next SPARKLING!!
+      :costumes:
+      - Next SPARKLING!!
+      :available_in_video: true
+      :encore: true
+      :size:
+  - :day_n: Day.2
+    :started_at: 2019-06-09 17:00
+    :setlist:
+    - :title: 僕らの走ってきた道は…
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: スリリング・ワンウェイ
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: SKY JOURNEY
+      :costumes:
+      - 僕らの走ってきた道は… + SKY JOURNEY ジャケット
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: Daydream Warrior
+      :costumes:
+      - 僕らの走ってきた道は… + SKY JOURNEY ジャケット
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 逃走迷走メビウスループ
+      :costumes:
+      - 逃走迷走メビウスループ
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 予測不可能Driving!
+      :costumes:
+      - 逃走迷走メビウスループ
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: Marine Border Parasol
+      :costumes:
+      - Hop? Stop? Nonstop!
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: ハジマリロード
+      :costumes:
+      - Hop? Stop? Nonstop!
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: Hop? Stop? Nonstop!
+      :costumes:
+      - Hop? Stop? Nonstop!
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: HAPPY PARTY TRAIN
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: "“MY LIST” to you!"
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 未来の僕らは知ってるよ
+      :costumes:
+      - HAPPY PARTY TRAIN
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: SELF CONTROL!!
+      :costumes:
+      - Believe again
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: Believe again
+      :costumes:
+      - Believe again
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: Brightest Melody
+      :costumes:
+      - Brightest Melody
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: Over The Next Rainbow
+      :costumes:
+      - Brightest Melody
+      - Believe again
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: Jump up HIGH!!
+      :costumes:
+      - Brightest Melody
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 卒業ですね
+      :costumes:
+      - 浦の星女学院制服（冬服）
+      :available_in_video: true
+      :encore: true
+      :size:
+    - :title: Guilty!? Farewell party
+      :costumes:
+      - Guilty!? Farewell party
+      :available_in_video: true
+      :encore: true
+      :size:
+    - :title: サクラバイバイ
+      :costumes:
+      - サクラバイバイ
+      :available_in_video: true
+      :encore: true
+      :size:
+    - :title: Next SPARKLING!!
+      :costumes:
+      - Next SPARKLING!!
+      :available_in_video: true
+      :encore: true
+      :size:
+- :title: 20th Anniversary Live ランティス祭り2019 A・R・I・G・A・T・O ANISONG
+  :venue: 幕張メッセ 国際展示場9-11ホール
+  :tags:
+  - フェス
+  :setlists:
+  - :day_n: Day.1
+    :started_at: 2019-06-21 13:00
+    :setlist:
+    - :title: Hop? Stop? Nonstop!
+      :costumes:
+      - Brightest Melody
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Brightest Melody
+      :costumes:
+      - Brightest Melody
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - Brightest Melody
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Jump up HIGH!!
+      :costumes:
+      - Brightest Melody
+      :available_in_video: true
+      :encore: false
+      :size:
+  - :day_n: Day.3
+    :started_at: 2019-06-23 13:00
+    :setlist:
+    - :title: Strawberry Trapper
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: Shadow gate to love
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: トリコリコPLEASE!!
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: INNOCENT BIRD
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 元気全開DAY!DAY!DAY!
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 海岸通りで待ってるよ
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size:
+- :title: LOVE LIVE! SUNSHINE!! Aqours World LoveLive! in LA ～BRAND NEW WAVE～
+  :venue: The Novo
+  :tags:
+  - 海外
+  :setlists:
+  - :day_n: Day.1
+    :started_at: 2019-07-05 19:00
+    :setlist:
+    - :title: 僕らの走ってきた道は…
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: スリリング・ワンウェイ
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 待ってて愛のうた
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 少女以上の恋がしたい
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: SKY JOURNEY
+      :costumes:
+      - 僕らの走ってきた道は… + SKY JOURNEY ジャケット
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: Daydream Warrior
+      :costumes:
+      - 僕らの走ってきた道は… + SKY JOURNEY ジャケット
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 届かない星だとしても
+      :costumes:
+      - 僕らの走ってきた道は… + SKY JOURNEY ジャケット
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: Brightest Melody
+      :costumes:
+      - Brightest Melody
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 恋になりたいAQUARIUM
+      :costumes:
+      - Brightest Melody
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 君の瞳を巡る冒険
+      :costumes:
+      - Brightest Melody
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 未来の僕らは知ってるよ
+      :costumes:
+      - Brightest Melody
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - Brightest Melody
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: Hop? Stop? Nonstop!
+      :costumes:
+      - ライブTシャツ (LA 2019)
+      :available_in_video: true
+      :encore: true
+      :size:
+    - :title: No.10
+      :costumes:
+      - ライブTシャツ (LA 2019)
+      :available_in_video: true
+      :encore: true
+      :size:
+    - :title: Thank you, FRIENDS!!
+      :costumes:
+      - ライブTシャツ (LA 2019)
+      :available_in_video: true
+      :encore: true
+      :size:
+    - :title: Jump up HIGH!!
+      :costumes:
+      - ライブTシャツ (LA 2019)
+      :available_in_video: true
+      :encore: true
+      :size:
+  - :day_n: Day.2
+    :started_at: 2019-07-06 13:00
+    :setlist:
+    - :title: 僕らの走ってきた道は…
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: スリリング・ワンウェイ
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 待ってて愛のうた
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 少女以上の恋がしたい
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: SKY JOURNEY
+      :costumes:
+      - 僕らの走ってきた道は… + SKY JOURNEY ジャケット
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Daydream Warrior
+      :costumes:
+      - 僕らの走ってきた道は… + SKY JOURNEY ジャケット
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 届かない星だとしても
+      :costumes:
+      - 僕らの走ってきた道は… + SKY JOURNEY ジャケット
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Brightest Melody
+      :costumes:
+      - Brightest Melody
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: HAPPY PARTY TRAIN
+      :costumes:
+      - Brightest Melody
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: "“MY LIST” to you!"
+      :costumes:
+      - Brightest Melody
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 未来の僕らは知ってるよ
+      :costumes:
+      - Brightest Melody
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - Brightest Melody
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Hop? Stop? Nonstop!
+      :costumes:
+      - ライブTシャツ (LA 2019)
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: No.10
+      :costumes:
+      - ライブTシャツ (LA 2019)
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Thank you, FRIENDS!!
+      :costumes:
+      - ライブTシャツ (LA 2019)
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: Jump up HIGH!!
+      :costumes:
+      - ライブTシャツ (LA 2019)
+      :available_in_video: false
+      :encore: true
+      :size:
+- :title: 音楽の日 2019
+  :venue: TBS放送センター
+  :tags:
+  - TV番組
+  :setlists:
+  - :day_n:
+    :started_at: 2019-07-14 03:00
+    :setlist:
+    - :title: Brightest Melody
+      :costumes:
+      - Brightest Melody
+      :available_in_video: true
+      :encore: false
+      :size: Movieサイズ
+- :title: BILIBILI MACRO LINK-STAR PHASE 2019
+  :venue: 梅赛德斯-奔驰文化中心
+  :tags:
+  - フェス
+  - 海外
+  :setlists:
+  - :day_n:
+    :started_at: 2019-07-21 17:00
+    :setlist:
+    - :title: 未来の僕らは知ってるよ
+      :costumes:
+      - WATER BLUE NEW WORLD
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: WATER BLUE NEW WORLD
+      :costumes:
+      - WATER BLUE NEW WORLD
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: WONDERFUL STORIES
+      :costumes:
+      - WATER BLUE NEW WORLD
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - WATER BLUE NEW WORLD
+      :available_in_video: false
+      :encore: false
+      :size:
+- :title: Animelo Summer Live 2019 -STORY-
+  :venue: さいたまスーパーアリーナ
+  :tags:
+  - フェス
+  :setlists:
+  - :day_n: Day.2
+    :started_at: 2019-08-31 16:00
+    :setlist:
+    - :title: 僕らの走ってきた道は…
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 想いよひとつになれ
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: true
+      :encore: false
+      :size:
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - 僕らの走ってきた道は…
+      :available_in_video: true
+      :encore: false
+      :size:
+- :title: シブヤノオト and more FES. 2019
+  :venue: NHK放送センター
+  :tags:
+  - TV番組
+  :setlists:
+  - :day_n:
+    :started_at: 2019-09-08 00:05
+    :setlist:
+    - :title: Brightest Melody
+      :costumes:
+      - Brightest Melody
+      :available_in_video: true
+      :encore: false
+      :size: Movieサイズ
+- :title: MUSIC FAIR
+  :venue:
+  :tags:
+  - TV番組
+  :setlists:
+  - :day_n:
+    :started_at: 2019-09-28 18:00
+    :setlist:
+    - :title: 未体験HORIZON
+      :costumes:
+      - 未体験HORIZON
+      :available_in_video: true
+      :encore: false
+      :size: Shortサイズ
+- :title: バンダイナムコエンターテインメントフェスティバル
+  :venue: 東京ドーム
+  :tags:
+  - フェス
+  :setlists:
+  - :day_n: Day.2
+    :started_at: 2019-10-20 16:00
+    :setlist:
+    - :title: Strawberry Trapper
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Guilty Night, Guilty Kiss!
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Guilty Eyes Fever
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: コワレヤスキ
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Shadow gate to love
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: New Romantic Sailors
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size:
+- :title: Lantis Matsuri 2019 at Anime NYC
+  :venue: Javits Center's Special Events Hall
+  :tags:
+  - フェス
+  - 海外
+  :setlists:
+  - :day_n:
+    :started_at: 2019-11-15 19:30
+    :setlist:
+    - :title: Strawberry Trapper
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: コワレヤスキ
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Guilty Night, Guilty Kiss!
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: New Romantic Sailors
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size:
+- :title: FNS歌謡祭 2019
+  :venue:
+  :tags:
+  - TV番組
+  :setlists:
+  - :day_n:
+    :started_at: 2019-12-04 18:30
+    :setlist:
+    - :title: 未来の僕らは知ってるよ
+      :costumes:
+      - 未来の僕らは知ってるよ
+      :available_in_video: true
+      :encore: false
+      :size: TVサイズ
+- :title: オダイバ！！超次元音楽祭
+  :venue: フジテレビ湾岸スタジオ
+  :tags:
+  - TV番組
+  :setlists:
+  - :day_n:
+    :started_at: 2019-12-27 20:00
+    :setlist:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - 青空Jumping Heart
+      :available_in_video: true
+      :encore: false
+      :size: 2コーラス
+- :title: アニソン！プレミアム！Fes.
+  :venue:
+  :tags:
+  - TV番組
+  :setlists:
+  - :day_n:
+    :started_at: 2019-12-29 23:00
+    :setlist:
+    - :title: 未体験HORIZON
+      :costumes:
+      - 未体験HORIZON
+      :available_in_video: true
+      :encore: false
+      :size:
+- :title: ラブライブ！フェス
+  :venue: さいたまスーパーアリーナ
+  :tags:
+  - ラブライブ！フェス
+  :setlists:
+  - :day_n: Day.1
+    :started_at: 2020-01-18 18:00
+    :setlist:
+    - :title: 未体験HORIZON
+      :costumes:
+      - 未体験HORIZON
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 元気全開DAY!DAY!DAY!
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: P.S.の向こう側
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: GALAXY HidE and SeeK
+      :costumes:
+      -  GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: LONELY TUNING
+      :costumes:
+      -  GALAXY HidE and SeeK
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: コワレヤスキ
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Guilty!? Farewell party
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: SELF CONTROL!!
+      :costumes:
+      - SELF CONTROL!!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Believe again
+      :costumes:
+      - SELF CONTROL!!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 届かない星だとしても
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: MIRAI TICKET
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 青空Jumping Heart
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 恋になりたいAQUARIUM
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - MIRAI TICKET
+      :available_in_video: false
+      :encore: false
+      :size:
+  - :day_n: Day.2
+    :started_at: 2020-01-19 16:00
+    :setlist:
+    - :title: 未体験HORIZON
+      :costumes:
+      - 未体験HORIZON
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 近未来ハッピーエンド
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 夜空はなんでも知ってるの？
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: トリコリコPLEASE!!
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ときめき分類学
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Guilty Eyes Fever
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Guilty Night, Guilty Kiss!
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: SELF CONTROL!!
+      :costumes:
+      - Believe again
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Believe again
+      :costumes:
+      - Believe again
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 届かない星だとしても
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: WATER BLUE NEW WORLD
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 未来の僕らは知ってるよ
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: HAPPY PARTY TRAIN
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - 君のこころは輝いてるかい？
+      :available_in_video: false
+      :encore: false
+      :size:
+- :title: Guilty Kiss First LOVELIVE! ～New Romantic Sailors～
+  :venue: 武蔵野の森総合スポーツプラザ・メインアリーナ
+  :tags:
+  - Guilty Kiss 1st
+  :setlists:
+  - :day_n: Day.1
+    :started_at: 2020-02-08 17:00
+    :setlist:
+    - :title: New Romantic Sailors
+      :costumes:
+      - New Romantic Sailors
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Guilty Night, Guilty Kiss!
+      :costumes:
+      - New Romantic Sailors
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Love Pulsar
+      :costumes:
+      - New Romantic Sailors
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Shadow gate to love
+      :costumes:
+      - New Romantic Sailors
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Guilty!? Farewell party
+      :costumes:
+      - New Romantic Sailors
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: MY舞☆TONIGHT
+      :costumes:
+      - New Romantic Sailors
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Pianoforte Monologue
+      :costumes:
+      - Pianoforte Monologue
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: New winding road
+      :costumes:
+      - New winding road
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: in this unstable world
+      :costumes:
+      - in this unstable world
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Landing action Yeah!!
+      :costumes:
+      - Pianoforte Monologue
+      - New winding road
+      - in this unstable world
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: コワレヤスキ
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Phantom Rocket Adventure
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Guitly Eyes Fever
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Daydream Warrior
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: スリリング・ワンウェイ
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Jump up HIGH!!
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - コワレヤスキ
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Strawberry Trapper
+      :costumes:
+      - リメイクライブTシャツ (Guilty Kiss 1st)
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: WATER BLUE NEW WORLD
+      :costumes:
+      - リメイクライブTシャツ (Guilty Kiss 1st)
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: New Romantic Sailors
+      :costumes:
+      - リメイクライブTシャツ (Guilty Kiss 1st)
+      :available_in_video: false
+      :encore: true
+      :size:
+  - :day_n: Day.2
+    :started_at: 2020-02-09 16:00
+    :setlist:
+    - :title: New Romantic Sailors
+      :costumes:
+      - New Romantic Sailors
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Guilty Night, Guilty Kiss!
+      :costumes:
+      - New Romantic Sailors
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Love Pulsar
+      :costumes:
+      - New Romantic Sailors
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Shadow gate to love
+      :costumes:
+      - New Romantic Sailors
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Guilty!? Farewell party
+      :costumes:
+      - New Romantic Sailors
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: MY舞☆TONIGHT
+      :costumes:
+      - New Romantic Sailors
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Pianoforte Monologue
+      :costumes:
+      - Pianoforte Monologue
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: New winding road
+      :costumes:
+      - New winding road
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: in this unstable world
+      :costumes:
+      - in this unstable world
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - Pianoforte Monologue
+      - New winding road
+      - in this unstable world
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: コワレヤスキ
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Phantom Rocket Adventure
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Guitly Eyes Fever
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Daydream Warrior
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: スリリング・ワンウェイ
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Jump up HIGH!!
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 勇気はどこに？君の胸に！
+      :costumes:
+      - Strawberry Trapper
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Strawberry Trapper
+      :costumes:
+      - リメイクライブTシャツ (Guilty Kiss 1st)
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: WATER BLUE NEW WORLD
+      :costumes:
+      - リメイクライブTシャツ (Guilty Kiss 1st)
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: New Romantic Sailors
+      :costumes:
+      - リメイクライブTシャツ (Guilty Kiss 1st)
+      :available_in_video: false
+      :encore: true
+      :size:
+- :title: CYaRon！First LOVELIVE! ～Braveheart Coaster～
+  :venue: 西日本総合展示場 新館 ABC
+  :tags:
+  - CYaRon! 1st
+  :setlists:
+  - :day_n: Day.1
+    :started_at: 2020-02-22 17:00
+    :setlist:
+    - :title: 元気全開DAY!DAY!DAY!
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 届かない星だとしても
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 海岸通りで待ってるよ
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Landing action Yeah!!
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: CHANGELESS
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 夜空はなんでも知ってるの？
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: One More Sunshine Story
+      :costumes:
+      - One More Sunshine Story
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: RED GEM WINK
+      :costumes:
+      - RED GEM WINK
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Beginner’s Sailing
+      :costumes:
+      - Beginner’s Sailing
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Step! ZERO to ONE
+      :costumes:
+      - One More Sunshine Story
+      - RED GEM WINK
+      - Beginner’s Sailing
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: P.S.の向こう側
+      :costumes:
+      - One More Sunshine Story
+      - RED GEM WINK
+      - Beginner’s Sailing
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 近未来ハッピーエンド
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 太陽を追いかけろ！
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Braveheart Coaster
+      :costumes:
+      - Braveheart Coaster
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: コドク・テレポート
+      :costumes:
+      - Braveheart Coaster
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ホップ・ステップ・ワーイ！
+      :costumes:
+      - Braveheart Coaster
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - Braveheart Coaster
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Pops heartで踊るんだもん！
+      :costumes:
+      - リメイクライブTシャツ (CYaRon! 1st)
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: サクラバイバイ
+      :costumes:
+      - リメイクライブTシャツ (CYaRon! 1st)
+      :available_in_video: false
+      :encore: true
+      :size:
+  - :day_n: Day.2
+    :started_at: 2020-02-23 16:00
+    :setlist:
+    - :title: 元気全開DAY!DAY!DAY!
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 届かない星だとしても
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 海岸通りで待ってるよ
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Landing action Yeah!!
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: CHANGELESS
+      :costumes:
+      -  元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 夜空はなんでも知ってるの？
+      :costumes:
+      - 元気全開DAY!DAY!DAY!
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: One More Sunshine Story
+      :costumes:
+      - One More Sunshine Story
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: RED GEM WINK
+      :costumes:
+      - RED GEM WINK
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Beginner’s Sailing
+      :costumes:
+      - Beginner’s Sailing
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Aqours☆HEROES
+      :costumes:
+      - One More Sunshine Story
+      - RED GEM WINK
+      - Beginner’s Sailing
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: P.S.の向こう側
+      :costumes:
+      - One More Sunshine Story
+      - RED GEM WINK
+      - Beginner’s Sailing
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 近未来ハッピーエンド
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: 太陽を追いかけろ！
+      :costumes:
+      - 近未来ハッピーエンド
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Braveheart Coaster
+      :costumes:
+      - Braveheart Coaster
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: コドク・テレポート
+      :costumes:
+      - Braveheart Coaster
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Jump up HIGH!!
+      :costumes:
+      - Braveheart Coaster
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: ユメ語るよりユメ歌おう
+      :costumes:
+      - Braveheart Coaster
+      :available_in_video: false
+      :encore: false
+      :size:
+    - :title: Pops heartで踊るんだもん！
+      :costumes:
+      - リメイクライブTシャツ (CYaRon! 1st)
+      :available_in_video: false
+      :encore: true
+      :size:
+    - :title: サクラバイバイ
+      :costumes:
+      - リメイクライブTシャツ (CYaRon! 1st)
       :available_in_video: false
       :encore: true
       :size:
