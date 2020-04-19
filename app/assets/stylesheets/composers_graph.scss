@@ -6,6 +6,15 @@ svg {
   width: 100%;
 }
 
+.uranohoshi {
+  fill: #0EABE3;
+
+  circle {
+    stroke-width: .5px;
+    stroke: #0EABE3;
+  }
+}
+
 .otonokizaka {
   fill: #E4007F;
 
@@ -15,12 +24,12 @@ svg {
   }
 }
 
-.uranohoshi {
-  fill: #0EABE3;
+.nijigasaki {
+  fill: #FFAB24;
 
   circle {
     stroke-width: .5px;
-    stroke: #0EABE3;
+    stroke: #FFAB24;
   }
 }
 
