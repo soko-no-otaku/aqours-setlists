@@ -20,8 +20,8 @@ class SongsController < ApplicationController
   # GET /songs/1
   # GET /songs/1.json
   def show
-    impressionist(@song, nil, :unique => [:session_hash])
-    @page_views = @song.impressionist_count
+    # impressionist(@song, nil, :unique => [:session_hash])
+    # @page_views = @song.impressionist_count
   end
 
   # GET /songs/new
