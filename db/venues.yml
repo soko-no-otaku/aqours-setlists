@@ -88,8 +88,8 @@
   :address: "〒135-0064 東京都江東区青海1-1-17"
   :latitude: 35.623442
   :longitude: 139.7749545
-  :url:
-  :capacity:
+  :url: 
+  :capacity: 
 - :id: 14
   :name: オリックス劇場
   :address: "〒550-0013 大阪府大阪市西区新町1-14-15"
@@ -130,7 +130,7 @@
   :address: 200072 上海市静安区汶水路116号
   :latitude: 31.2909638
   :longitude: 121.4401609
-  :url:
+  :url: 
   :capacity: 3000
 - :id: 20
   :name: 名古屋国際会議場 センチュリーホール
@@ -253,7 +253,7 @@
   :capacity: 8000
 - :id: 37
   :name: 高麗大学 化汀体育館
-  :address: "145 Anam-ro, Anam-dong, Seongbuk-gu, Seoul"
+  :address: 145 Anam-ro, Anam-dong, Seongbuk-gu, Seoul
   :latitude: 37.5926563
   :longitude: 127.0226809
   :url: http://hwajung.korea.ac.kr/main.do
@@ -267,7 +267,7 @@
   :capacity: 15000
 - :id: 39
   :name: The Novo
-  :address: "800 West Olympic Blvd. Los Angeles, CA 90015"
+  :address: 800 West Olympic Blvd. Los Angeles, CA 90015
   :latitude: 34.0447998
   :longitude: -118.267459
   :url: https://www.thenovodtla.com/venueinfo
@@ -278,17 +278,17 @@
   :latitude: 35.6716556
   :longitude: 139.7324778
   :url: http://www.tbs.co.jp/company/information/
-  :capacity:
+  :capacity: 
 - :id: 41
   :name: NHK放送センター
   :address: "〒150-0041 東京都渋谷区神南2丁目2-1"
   :latitude: 35.6649241
   :longitude: 139.6938945
   :url: https://www.nhk.or.jp/kengaku/
-  :capacity:
+  :capacity: 
 - :id: 42
   :name: Javits Center's Special Events Hall
-  :address: "429 11th Avenue New York, NY 10001"
+  :address: 429 11th Avenue New York, NY 10001
   :latitude: 40.7523569
   :longitude: -74.0056454
   :url: https://javitscenter.com/plan/special-events/
@@ -299,7 +299,7 @@
   :latitude: 35.6203148
   :longitude: 139.7765983
   :url: https://www.fujitv.co.jp/gotofujitv/studio/
-  :capacity:
+  :capacity: 
 - :id: 44
   :name: 西日本総合展示場 新館 ABC
   :address: "〒802-0001 福岡県北九州市小倉北区浅野3丁目8-1"
@@ -307,3 +307,10 @@
   :longitude: 130.8836349
   :url: http://convention-a.jp/nishiten-shinkan/
   :capacity: 8000
+- :id: 45
+  :name: 伊豆・三津シーパラダイス
+  :address: "〒410-0295 静岡県沼津市内浦長浜3丁目1"
+  :latitude: 35.0195002
+  :longitude: 138.8960105
+  :url: http://www.izuhakone.co.jp/seapara/
+  :capacity: 
