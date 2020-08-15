@@ -7739,3 +7739,35 @@
       :available_in_video: true
       :encore: false
       :size: 
+- :title: アニソン！プレミアム！
+  :venue: 
+  :tags:
+  - TV番組
+  :setlists:
+  - :day_n: 
+    :started_at: 2020-08-02 22:50
+    :setlist:
+    - :title: 地元愛♡満タン☆サマーライフ
+      :costumes:
+      - 地元愛♡満タン☆サマーライフ
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: 真夏は誰のモノ？
+      :costumes:
+      - 真夏は誰のモノ？
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: SELF CONTROL!!
+      :costumes:
+      - SELF CONTROL!!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: トリコリコPLEASE!!
+      :costumes:
+      - トリコリコPLEASE!!
+      :available_in_video: true
+      :encore: false
+      :size: 
