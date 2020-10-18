@@ -7771,3 +7771,169 @@
       :available_in_video: true
       :encore: false
       :size: 
+- :title: ラブライブ！サンシャイン!! Aqours ONLINE LoveLive! ～LOST WORLD～
+  :venue: 
+  :tags: 
+  :setlists:
+  - :day_n: Day.1
+    :started_at: 2020-10-10 19:00
+    :setlist:
+    - :title: New Romantic Sailors
+      :costumes:
+      - New Romantic Sailors
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Braveheart Coaster
+      :costumes:
+      - Braveheart Coaster
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Amazing Travel DNA
+      :costumes:
+      - Amazing Travel DNA
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: 空中恋愛論
+      :costumes:
+      - Amazing Travel DNA
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: メイズセカイ
+      :costumes:
+      - Amazing Travel DNA
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: シャゼリア☆キッス☆ダダンダーン
+      :costumes:
+      - シャゼリア☆キッス☆ダダンダーン
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Fantastic Departure!
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Deep Resonance
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Aqours Pirates Desire
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Wake up, Challenger!!
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: JIMO-AI Dash!
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: true
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: true
+      :size: 
+  - :day_n: Day.2
+    :started_at: 2020-10-11 17:00
+    :setlist:
+    - :title: New Romantic Sailors
+      :costumes:
+      - New Romantic Sailors
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Braveheart Coaster
+      :costumes:
+      - Braveheart Coaster
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Amazing Travel DNA
+      :costumes:
+      - Amazing Travel DNA
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: 空中恋愛論
+      :costumes:
+      - Amazing Travel DNA
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: メイズセカイ
+      :costumes:
+      - Amazing Travel DNA
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: シャゼリア☆キッス☆ダダンダーン
+      :costumes:
+      - シャゼリア☆キッス☆ダダンダーン
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Fantastic Departure!
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Deep Resonance
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Aqours Pirates Desire
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Dance with Minotaurus
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: JIMO-AI Dash!
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: true
+      :size: 
+    - :title: 未来の僕らは知ってるよ
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: true
+      :size: 
