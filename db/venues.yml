@@ -314,3 +314,10 @@
   :longitude: 138.8960105
   :url: http://www.izuhakone.co.jp/seapara/
   :capacity: 
+- :id: 46
+  :name: ぴあアリーナMM
+  :address: "〒220-0012 神奈川県横浜市西区みなとみらい3-2-2"
+  :latitude: 35.4557889
+  :longitude: 139.6285118
+  :url: https://pia-arena-mm.jp/index.html
+  :capacity: 12141
