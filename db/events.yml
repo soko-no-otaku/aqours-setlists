@@ -7937,7 +7937,7 @@
       :available_in_video: true
       :encore: true
       :size: 
-- :title: ラブライブ！サンシャイン!! Saint Snow 1st GIG ～Welcome to Dazzling White Town～
+- :title: ラブライブ！サンシャイン!! Saint Snow 1st GIG ～Welcome to Dazzling White Town～ 横浜公演
   :venue: ぴあアリーナMM
   :tags: 
   :setlists:
@@ -8083,6 +8083,181 @@
       :encore: false
       :size: 
     - :title: SELF CONTROL!!
+      :costumes:
+      - Dazzling White Town
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: After The Rain
+      :costumes:
+      - Dazzling White Town
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Awaken the power
+      :costumes:
+      - Awaken the power
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Over The Next Rainbow
+      :costumes:
+      - Awaken the power
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Dazzling White Town
+      :costumes:
+      - Awaken the power
+      :available_in_video: true
+      :encore: true
+      :size: 
+- :title: ラブライブ！サンシャイン!! Saint Snow 1st GIG ～Welcome to Dazzling White Town～ 札幌公演
+  :venue: 真駒内セキスイハイムアイスアリーナ
+  :tags: 
+  :setlists:
+  - :day_n: Day.1＜1回目＞
+    :started_at: 2020-11-07 13:00
+    :setlist:
+    - :title: Dazzling White Town
+      :costumes:
+      - Dazzling White Town
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: CRASH MIND
+      :costumes:
+      - Dazzling White Town
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: DROPOUT!?
+      :costumes:
+      - Dazzling White Town
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Lonely Snow Planet
+      :costumes:
+      - Dazzling White Town
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Awaken the power
+      :costumes:
+      - Dazzling White Town
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: After The Rain
+      :costumes:
+      - Dazzling White Town
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: SELF CONTROL!!
+      :costumes:
+      - SELF CONTROL!!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Over The Next Rainbow
+      :costumes:
+      - SELF CONTROL!!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Dazzling White Town
+      :costumes:
+      - SELF CONTROL!!
+      :available_in_video: true
+      :encore: true
+      :size: 
+  - :day_n: Day.1＜2回目＞
+    :started_at: 2020-11-07 18:00
+    :setlist:
+    - :title: Dazzling White Town
+      :costumes:
+      - Dazzling White Town
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: CRASH MIND
+      :costumes:
+      - Dazzling White Town
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: DROPOUT!?
+      :costumes:
+      - Dazzling White Town
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Lonely Snow Planet
+      :costumes:
+      - Dazzling White Town
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Awaken the power
+      :costumes:
+      - Dazzling White Town
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: After The Rain
+      :costumes:
+      - Dazzling White Town
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Believe again
+      :costumes:
+      - Believe again
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Over The Next Rainbow
+      :costumes:
+      - Believe again
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Dazzling White Town
+      :costumes:
+      - Believe again
+      :available_in_video: true
+      :encore: true
+      :size: 
+  - :day_n: Day.2
+    :started_at: 2020-11-08 14:00
+    :setlist:
+    - :title: Dazzling White Town
+      :costumes:
+      - Dazzling White Town
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: CRASH MIND
+      :costumes:
+      - Dazzling White Town
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: DROPOUT!?
+      :costumes:
+      - Dazzling White Town
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Lonely Snow Planet
+      :costumes:
+      - Dazzling White Town
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Believe again
       :costumes:
       - Dazzling White Town
       :available_in_video: true
