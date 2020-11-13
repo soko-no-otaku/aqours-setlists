@@ -19,7 +19,7 @@ jobs:
       run: |
         gem install bundler:1.16.1 # TODO: Upgrade bundler
         bundle install --jobs 4 --retry 3
-        bundle exec rails yaml_formatter:events yaml_formatter:songs yaml_formatter:venues
+        bundle exec rails yaml:format:all
         git diff db/*.yml --exit-code
     - name: Prompt to format
       uses: actions/github-script@v3
@@ -31,5 +31,5 @@ jobs:
             issue_number: context.issue.number,
             owner: context.repo.owner,
             repo: context.repo.repo,
-            body: 'Run `bundle exec rails yaml_formatter:events yaml_formatter:songs yaml_formatter:venues` before commit.'
+            body: 'Run `bundle exec rails yaml:format:all` before commit.'
           })
