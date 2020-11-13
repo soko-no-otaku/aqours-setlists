@@ -20,7 +20,7 @@ jobs:
         gem install bundler:1.16.1 # TODO: Upgrade bundler
         bundle install --jobs 4 --retry 3
         bundle exec rails yaml:format:all
-        git diff db/*.yml --exit-code
+        git diff --exit-code db/*.yml
     - name: Prompt to format
       uses: actions/github-script@v3
       if: failure()
