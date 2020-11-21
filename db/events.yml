@@ -8287,3 +8287,17 @@
       :available_in_video: true
       :encore: true
       :size: 
+- :title: MUSIC FAIR
+  :venue: 
+  :tags:
+  - TV番組
+  :setlists:
+  - :day_n: 
+    :started_at: 2020-11-21 18:00
+    :setlist:
+    - :title: Fantastic Departure!
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: Shortサイズ
