@@ -8301,3 +8301,17 @@
       :available_in_video: true
       :encore: false
       :size: Shortサイズ
+- :title: 2020 FNS歌謡祭 第1夜
+  :venue: 
+  :tags:
+  - TV番組
+  :setlists:
+  - :day_n: 
+    :started_at: 2020-12-02 18:30
+    :setlist:
+    - :title: ジングルベルがとまらない
+      :costumes:
+      - Hop? Stop? Nonstop!
+      :available_in_video: true
+      :encore: false
+      :size: Shortサイズ
