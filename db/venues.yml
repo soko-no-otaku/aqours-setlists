@@ -260,7 +260,7 @@
   :capacity: 8057
 - :id: 38
   :name: 幕張メッセ 国際展示場9-11ホール
-  :address: "〒261-0023 千葉県千葉市美浜区中瀬2丁目5"
+  :address: "〒261-0023 千葉県千葉市美浜区中瀬2-5"
   :latitude: 35.6490559
   :longitude: 140.0333399
   :url: https://www.m-messe.co.jp/organizers/guide/exhibitionhall/guide_exibition9-11
@@ -274,14 +274,14 @@
   :capacity: 2300
 - :id: 40
   :name: TBS放送センター
-  :address: "〒107-0052 東京都港区赤坂5丁目3-6"
+  :address: "〒107-0052 東京都港区赤坂5-3-6"
   :latitude: 35.6716556
   :longitude: 139.7324778
   :url: http://www.tbs.co.jp/company/information/
   :capacity: 
 - :id: 41
   :name: NHK放送センター
-  :address: "〒150-0041 東京都渋谷区神南2丁目2-1"
+  :address: "〒150-0041 東京都渋谷区神南2-2-1"
   :latitude: 35.6649241
   :longitude: 139.6938945
   :url: https://www.nhk.or.jp/kengaku/
@@ -295,21 +295,21 @@
   :capacity: 3500
 - :id: 43
   :name: フジテレビ湾岸スタジオ
-  :address: "〒135-0064 東京都江東区青海2丁目3-23"
+  :address: "〒135-0064 東京都江東区青海2-3-23"
   :latitude: 35.6203148
   :longitude: 139.7765983
   :url: https://www.fujitv.co.jp/gotofujitv/studio/
   :capacity: 
 - :id: 44
   :name: 西日本総合展示場 新館 ABC
-  :address: "〒802-0001 福岡県北九州市小倉北区浅野3丁目8-1"
+  :address: "〒802-0001 福岡県北九州市小倉北区浅野3-8-1"
   :latitude: 33.890077
   :longitude: 130.8836349
   :url: http://convention-a.jp/nishiten-shinkan/
   :capacity: 8000
 - :id: 45
   :name: 伊豆・三津シーパラダイス
-  :address: "〒410-0295 静岡県沼津市内浦長浜3丁目1"
+  :address: "〒410-0295 静岡県沼津市内浦長浜3-1"
   :latitude: 35.0195002
   :longitude: 138.8960105
   :url: http://www.izuhakone.co.jp/seapara/
@@ -328,3 +328,10 @@
   :longitude: 141.3473742
   :url: http://www.makomanai.com/icearena/
   :capacity: 10770
+- :id: 48
+  :name: ユニバーサル・スタジオ・ジャパン
+  :address: "〒554-0031 大阪府大阪市此花区桜島2-1-33"
+  :latitude: 34.665442
+  :longitude: 135.4323382
+  :url: https://www.usj.co.jp/web/ja/jp
+  :capacity: 
