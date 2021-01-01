@@ -8481,3 +8481,17 @@
       :available_in_video: true
       :encore: false
       :size: 
+- :title: CDTV ライブ！ライブ！ 年越しスペシャル 2020→2021
+  :venue: 
+  :tags:
+  - TV番組
+  :setlists:
+  - :day_n: 
+    :started_at: 2020-12-31 23:45
+    :setlist:
+    - :title: Fantastic Departure!
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
