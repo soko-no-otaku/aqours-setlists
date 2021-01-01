@@ -8315,3 +8315,88 @@
       :available_in_video: true
       :encore: false
       :size: Shortサイズ
+- :title: ラブライブ！サンシャイン!! Aqours COUNTDOWN LoveLive! ～WHITE ISLAND～
+  :venue: 
+  :tags: 
+  :setlists:
+  - :day_n: Day.1
+    :started_at: 2020-12-30 19:00
+    :setlist:
+    - :title: 聖なる日の祈り
+      :costumes:
+      - WHITE ISLAND 新衣装
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: ジングルベルがとまらない
+      :costumes:
+      - WHITE ISLAND 新衣装
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes:
+      - WHITE ISLAND 新衣装
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: 青空Jumping Heart
+      :costumes:
+      - WHITE ISLAND 新衣装
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: キモチもユメも一緒だね！
+      :costumes:
+      - キモチもユメも一緒だね！
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: 涙が雪になる前に
+      :costumes:
+      - 涙が雪になる前に
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Misty Frosty Love
+      :costumes:
+      - Misty Frosty Love
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Party! Party! PaPaPaParty!
+      :costumes:
+      - Party! Party! PaPaPaParty!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: MIRAI TICKET
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Aqours☆HEROES
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Fantastic Departure!
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: 冒険Type A, B, C!!
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Future flight
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
