@@ -8495,3 +8495,53 @@
       :available_in_video: true
       :encore: false
       :size: 
+- :title: オダイバ!!超次元音楽祭 -ヨコハマからハッピーバレンタインフェス2021-
+  :venue: ぴあアリーナMM
+  :tags:
+  - フェス
+  :setlists:
+  - :day_n: DAY2
+    :started_at: 2021-02-14 15:30
+    :setlist:
+    - :title: Fantastic Departure!
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Deep Resonance
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: 君のこころは輝いてるかい？
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: 恋になりたいAQUARIUM
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: HAPPY PARTY TRAIN
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: 未体験HORIZON
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Future flight
+      :costumes:
+      - Fantastic Departure!
+      :available_in_video: true
+      :encore: false
+      :size: 
