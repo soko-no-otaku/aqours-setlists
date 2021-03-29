@@ -8545,3 +8545,23 @@
       :available_in_video: true
       :encore: false
       :size: 
+- :title: SONGS OF TOKYO
+  :venue: 
+  :tags:
+  - TV番組
+  :setlists:
+  - :day_n: 
+    :started_at: 2021-03-22 00:10
+    :setlist:
+    - :title: 真夏は誰のモノ？
+      :costumes:
+      - 真夏は誰のモノ？
+      :available_in_video: true
+      :encore: false
+      :size: 
+    - :title: Misty Frosty Love
+      :costumes:
+      - Misty Frosty Love
+      :available_in_video: true
+      :encore: false
+      :size: 

@@ -24,6 +24,11 @@
       span.card-title 更新履歴
       .divider
       .section
+        h6 2021/3/29
+        p
+          = link_to Event.find(88).title, Event.find(88)
+          |  までのイベントを追加
+      .section
         h6 2021/2/22
         p
           = link_to Event.find(87).title, Event.find(87)
