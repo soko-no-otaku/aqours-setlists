@@ -1,0 +1,12 @@
+<!DOCTYPE html><html><head><title>Aqours Setlists</title><meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="YI7eijwokaQuoJac9AQQ/LL1KEKWWqxyzZRGkL2AN4BsEUPlvaeOoyD4t92LAvU0Itw91mbui7hn+ZnJ4fir1A==" /><meta content="width=device-width, initial-scale=1" name="viewport" /><link rel="stylesheet" media="all" href="../assets/application-9a0e49d7819821f06be1e5cc3e29b3b302f9b6f25eada68bce5143b3b9825296.css" /><script src="../assets/application-4fb0308d7f47c3c18b48ca10786f8751ac4d10f9eabf2e062e9a09b0161d414f.js"></script><script src="https://typesquare.com/3/tsst/script/ja/typesquare.js?5aee5533ad104d068e8c03bfac1e02ec"></script></head><body><div class="navbar-fixed"><nav><div class="nav-wrapper"><span class="brand-logo center hide-on-small-only"><a href="../index.html">Aqours Setlists</a></span><ul class="left"><li><a href="../events">イベント</a></li><li><a href="../songs">楽曲</a><li class="active"><a href="../venues">会場</a></li></li></ul><ul class="right hide-on-small-only"><li><a href="../composers_graph">作編曲者グラフ</a></li></ul></div></nav></div><div class="container"><div class="card"><div class="card-content"><a class="right" href="../venues"><i class="material-icons">close</i></a><span class="card-title">沼津市民文化センター 大ホール</span><div class="row"><div class="col s12"><table><tr><th>住所</th><td>〒410-0832 静岡県沼津市御幸町15-1</td></tr><tr><th>公式サイト</th><td><a href="http://numazu-kousya.jp/culture/">http://numazu-kousya.jp/culture/</a></td></tr><tr><th>キャパ</th><td>1,516人</td></tr></table></div></div><div class="row"><div class="col s12"><div id='map'></div>
+<script>
+var map = L.map('map', {});
+map.setView([35.095576, 138.8667312], 12);
+marker = L.marker([35.095576, 138.8667312]).addTo(map);
+marker.bindPopup('沼津市民文化センター 大ホール');
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+          maxZoom: 18,
+}).addTo(map);
+</script></div></div></div></div></div></body></html>
