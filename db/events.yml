@@ -1356,7 +1356,7 @@
 - :title: めざましテレビ PRESENTS T-SPOOK 〜TOKYO HALLOWEEN PARTY〜
   :venue: 青海P地区 特設ステージ
   :tags: 
-  :setlists:
+  :setlists: # 恐らく available_in_video は間違っているが、確証がない (https://github.com/soko-no-otaku/aqours-setlists/issues/7)
   - :day_n: 
     :started_at: 2017-10-21 18:00
     :setlist:
